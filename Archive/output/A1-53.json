@@ -1,0 +1,91 @@
+{
+  "is_valid": true,
+  "reason": "Valid CFST physical experiment paper with axial compression specimens and extractable row-level test data.",
+  "ref_info": {
+    "title": "Comparative experimental research on concrete-filled steel tubular columns subjected to axial compression",
+    "authors": [
+      "HUANG Hong",
+      "GUO Xiao-yu",
+      "CHEN Meng-cheng",
+      "XU Kai-cheng"
+    ],
+    "journal": "Unknown",
+    "year": 2015
+  },
+  "Group_A": [],
+  "Group_B": [
+    {
+      "ref_no": "",
+      "specimen_label": "C-S-N",
+      "fc_value": 32.67,
+      "fc_type": "Unknown",
+      "fy": 368,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 165,
+      "h": 165,
+      "t": 3.54,
+      "r0": 82.5,
+      "L": 480,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 1630,
+      "source_evidence": "Page [3], Table [Tab. 1]; Page [4], Fig. 2(b); setup=images/4851dbd66293497ab93088636174f0d343214587e8bf9c6f75cf2165172ea97b.jpg; table=table/Tab. 1 Parameters of specimens.jpg; material=table/Tab. 2 Test results of material properties.jpg"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "CC-DS-N",
+      "fc_value": 32.67,
+      "fc_type": "Unknown",
+      "fy": 368,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 165,
+      "h": 165,
+      "t": 3.54,
+      "r0": 82.5,
+      "L": 480,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 1660,
+      "source_evidence": "Page [3], Table [Tab. 1]; Page [4], Fig. 2(b); setup=images/4851dbd66293497ab93088636174f0d343214587e8bf9c6f75cf2165172ea97b.jpg; table=table/Tab. 1 Parameters of specimens.jpg; material=table/Tab. 2 Test results of material properties.jpg"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "CS-DS-N",
+      "fc_value": 32.67,
+      "fc_type": "Unknown",
+      "fy": 368,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 165,
+      "h": 165,
+      "t": 3.54,
+      "r0": 82.5,
+      "L": 480,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 1629,
+      "source_evidence": "Page [3], Table [Tab. 1]; Page [4], Fig. 2(b); setup=images/4851dbd66293497ab93088636174f0d343214587e8bf9c6f75cf2165172ea97b.jpg; table=table/Tab. 1 Parameters of specimens.jpg; material=table/Tab. 2 Test results of material properties.jpg"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "CC-RS-N",
+      "fc_value": 32.67,
+      "fc_type": "Unknown",
+      "fy": 368,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 165,
+      "h": 165,
+      "t": 3.54,
+      "r0": 82.5,
+      "L": 480,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 1876,
+      "source_evidence": "Page [3], Table [Tab. 1]; Page [4], Fig. 2(b); setup=images/4851dbd66293497ab93088636174f0d343214587e8bf9c6f75cf2165172ea97b.jpg; table=table/Tab. 1 Parameters of specimens.jpg; material=table/Tab. 2 Test results of material properties.jpg"
+    }
+  ],
+  "Group_C": []
+}

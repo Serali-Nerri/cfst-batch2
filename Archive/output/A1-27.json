@@ -1,0 +1,77 @@
+{
+  "is_valid": true,
+  "reason": "Valid CFST physical axial-compression experiment paper with three circular short-column specimens and recoverable specimen-level test data.",
+  "ref_info": {
+    "title": "EXPERIMENTAL STUDY ON AXIAL COMPRESSION BEHAVIOR OF CONCRETE FILLED HIGH STRENGTH CIRCULAR STEEL TUBULAR SHORT COLUMN",
+    "authors": [
+      "Ma Limeng",
+      "Li Shuwen",
+      "Zhu Lei",
+      "Song Qiming",
+      "Wei Yue",
+      "Zhang Lianyou",
+      "Zhang Zhiyi",
+      "Sha Xiaochun"
+    ],
+    "journal": "Industrial Construction",
+    "year": 2016
+  },
+  "Group_A": [],
+  "Group_B": [
+    {
+      "ref_no": "",
+      "specimen_label": "Z3",
+      "fc_value": 31.7,
+      "fc_type": "Unknown",
+      "fy": 546.0,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 558.1,
+      "h": 558.1,
+      "t": 16.533,
+      "r0": 279.05,
+      "L": 1000.0,
+      "e1": 0.0,
+      "e2": 0.0,
+      "n_exp": 29050.0,
+      "source_evidence": "Page [4], Table [1], Table [2]; setup=images/2d52d476570cf8f207822a442aa65513a963cf52fea441768d940e03d1de8500.jpg; table=table/Table 1 Section property of CFT columns.jpg; table=table/Table 2 The ultimate bearing capacity of members.jpg; derive[b,h,t,r0] from Table 1 As/Ac via safe_calc; derive[L]=1*1000=1000 from Abstract (column heights about 1 m); L_basis=steel_tube_net_height"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "Z4",
+      "fc_value": 31.7,
+      "fc_type": "Unknown",
+      "fy": 546.0,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 557.649,
+      "h": 557.649,
+      "t": 16.522,
+      "r0": 278.825,
+      "L": 1000.0,
+      "e1": 0.0,
+      "e2": 0.0,
+      "n_exp": 28830.0,
+      "source_evidence": "Page [4], Table [1], Table [2]; setup=images/2d52d476570cf8f207822a442aa65513a963cf52fea441768d940e03d1de8500.jpg; table=table/Table 1 Section property of CFT columns.jpg; table=table/Table 2 The ultimate bearing capacity of members.jpg; derive[b,h,t,r0] from Table 1 As/Ac via safe_calc; derive[L]=1*1000=1000 from Abstract (column heights about 1 m); L_basis=steel_tube_net_height"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "Z5",
+      "fc_value": 31.7,
+      "fc_type": "Unknown",
+      "fy": 546.0,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 559.398,
+      "h": 559.398,
+      "t": 16.537,
+      "r0": 279.699,
+      "L": 1000.0,
+      "e1": 0.0,
+      "e2": 0.0,
+      "n_exp": 29590.0,
+      "source_evidence": "Page [4], Table [1], Table [2]; setup=images/2d52d476570cf8f207822a442aa65513a963cf52fea441768d940e03d1de8500.jpg; table=table/Table 1 Section property of CFT columns.jpg; table=table/Table 2 The ultimate bearing capacity of members.jpg; derive[b,h,t,r0] from Table 1 As/Ac via safe_calc; derive[L]=1*1000=1000 from Abstract (column heights about 1 m); L_basis=steel_tube_net_height"
+    }
+  ],
+  "Group_C": []
+}
