@@ -1,0 +1,55 @@
+{
+  "is_valid": true,
+  "reason": "Valid CFST axial compression experiment; extracted circular CFST specimens with complete Group mapping evidence from setup image and specimen tables.",
+  "ref_info": {
+    "title": "Experiments on special-shaped CFST stub columns under axial compression",
+    "authors": [
+      "Qing-Xin Ren",
+      "Lin-Hai Han",
+      "Dennis Lam",
+      "Chao Hou"
+    ],
+    "journal": "Unknown",
+    "year": 2014
+  },
+  "Group_A": [],
+  "Group_B": [
+    {
+      "ref_no": "",
+      "specimen_label": "cc1-1",
+      "fc_value": 61.4,
+      "fc_type": "Cube 150",
+      "fy": 389.3,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 164.885,
+      "h": 164.885,
+      "t": 2.92,
+      "r0": 82.442,
+      "L": 595,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 1904,
+      "source_evidence": "Page [unknown], Table [1]; setup=images/c15fd11a8b0cfa0843a487e309dcf323a21ebeb8ab240f1a83d3880a797aeb07.jpg; table=table/Table 1 Information of the test specimens.jpg; derive[b,h]=P/pi=518/3.141592653589793=164.885; derive[r0]=h/2=82.442; L_basis=H(Table 1)=595"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "cc1-2",
+      "fc_value": 61.4,
+      "fc_type": "Cube 150",
+      "fy": 389.3,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 164.885,
+      "h": 164.885,
+      "t": 2.92,
+      "r0": 82.442,
+      "L": 595,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 1984,
+      "source_evidence": "Page [unknown], Table [1]; setup=images/c15fd11a8b0cfa0843a487e309dcf323a21ebeb8ab240f1a83d3880a797aeb07.jpg; table=table/Table 1 Information of the test specimens.jpg; derive[b,h]=P/pi=518/3.141592653589793=164.885; derive[r0]=h/2=82.442; L_basis=H(Table 1)=595"
+    }
+  ],
+  "Group_C": []
+}
