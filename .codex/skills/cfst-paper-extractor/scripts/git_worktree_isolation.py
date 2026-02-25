@@ -273,7 +273,11 @@ def _build_parser() -> argparse.ArgumentParser:
         help="Branch prefix for worker worktrees.",
     )
     create.add_argument("--base-ref", default="HEAD", help="Base git ref for worktree creation.")
-    create.add_argument("--output-dir", default="output", help="Output directory under worktree root.")
+    create.add_argument(
+        "--output-dir",
+        default="output",
+        help="Worker-local output directory under worktree root (recommended: tmp/<paper_token>).",
+    )
 
     remove = sub.add_parser("remove", help="Remove one isolated worktree.")
     remove.add_argument("--worktree-path", required=True, help="Worktree path (absolute or repo-relative).")

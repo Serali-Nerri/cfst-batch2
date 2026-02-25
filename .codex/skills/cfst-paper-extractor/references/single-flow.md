@@ -10,8 +10,9 @@ Use this file as the worker execution contract for one paper.
 - Treat repository as non-exclusive runtime: other workers may change unrelated files concurrently.
 - Do not edit or revert files outside this worker ownership scope:
   - `<paper_dir_relpath>`
-  - `<output_json_path>`
+  - `<worker_output_json_path>` (must be under `tmp/<paper_token>/`)
   - current worker worktree metadata paths required by orchestrator
+- Do not read/write final published outputs (`output/`, `output1/`); final publish to `output/<paper_token>.json` is parent-only.
 - Return only validated JSON result or a clear failure reason.
 
 ## Required Paper Layout

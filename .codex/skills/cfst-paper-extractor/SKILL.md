@@ -22,7 +22,8 @@ Use user-provided variables at runtime. Do not hardcode fixed dataset paths in w
 - `<raw_parsed_root>`: raw MinerU parsed root (optional, only when preprocess is needed)
 - `<parsed_with_tables_root>`: parsed root for extraction stage (`images/` + `table/`)
 - `<paper_dir_relpath>`: one paper folder path relative to repo root
-- `<output_json_path>`: final output JSON path
+- `<worker_output_json_path>`: worker-local JSON path under temporary worker output dir (recommended: `tmp/<paper_token>/<paper_token>.json`)
+- `<final_output_json_path>`: final published JSON path under `output/` (required form: `output/<paper_token>.json`)
 - `<expected_specimen_count>`: expected record count when applicable
 
 ## Input Layout
@@ -79,10 +80,11 @@ Use a parent-child model for every extraction task:
 10. Parent MUST tell each worker the repository may be concurrently modified by other workers.
 11. Parent MUST declare worker ownership paths at launch, at least:
 - one paper folder path
-- one output JSON path
+- one worker-local output JSON path (must stay under worker temp dir, for example `tmp/<paper_token>/`)
 - one worker worktree path
 12. Worker MUST ignore unrelated repository changes and MUST NOT edit/revert files outside declared ownership paths.
 13. Parent MUST keep the same ownership boundary during retry and cleanup phases.
+14. Parent MUST publish final artifacts only to `output/<paper_token>.json` (never `output1/`).
 
 ## Git Repository Gate (Required, No Fallback)
 
@@ -107,7 +109,8 @@ Create one worker worktree:
 
 ```bash
 python .codex/skills/cfst-paper-extractor/scripts/git_worktree_isolation.py create \
-  --paper-dir <paper_dir_relpath>
+  --paper-dir <paper_dir_relpath> \
+  --output-dir tmp/<paper_token>
 ```
 
 Returned JSON includes:
@@ -140,7 +143,7 @@ Sandbox contract:
 - if `bwrap` is unavailable or sandbox startup fails, stop immediately (no fallback to soft isolation)
 
 Worker read scope is enforced by filesystem sandbox:
-- RW: `./<paper_dir_relpath>/`, `./<output_dir>/`
+- RW: `./<paper_dir_relpath>/`, `./<output_dir>/` (`<output_dir>` MUST be worker-local temp dir such as `tmp/<paper_token>/`)
 - RO: `./.codex/skills/cfst-paper-extractor/SKILL.md`
 - RO: `./.codex/skills/cfst-paper-extractor/references/*`
 - RO: `./.codex/skills/cfst-paper-extractor/scripts/*`
@@ -150,6 +153,20 @@ Expected paper-local files:
 - `<paper_token>_content_list_v2.json`
 - `images/`
 - `table/`
+
+## Final Output Publish Contract (Required)
+
+Worker output is temporary and parent output is final:
+- worker MUST write only to `<worker_output_json_path>` under `tmp/<paper_token>/`
+- worker MUST NOT read/write final published output folders (`output/`, `output1/`)
+- parent MUST publish final JSON only to `<final_output_json_path>=output/<paper_token>.json`
+- if destination file already exists, parent overwrites it and records a publish log (`paper_token`, source path, destination path, timestamp, overwritten=true/false)
+
+Parent publish example:
+
+```bash
+cp <worker_worktree_path>/tmp/<paper_token>/<paper_token>.json output/<paper_token>.json
+```
 
 After worker finishes, parent cleans up:
 
@@ -206,7 +223,7 @@ Use deterministic retry at worker level:
 10. Build final JSON exactly with keys:
 - `is_valid`, `reason`, `ref_info`, `Group_A`, `Group_B`, `Group_C`
 11. Validate output with `scripts/validate_single_output.py`.
-12. Write JSON to `<output_json_path>`.
+12. Write JSON to `<worker_output_json_path>`.
 13. Return concise status summary to parent.
 
 ## Calculation Script
@@ -230,7 +247,7 @@ Validate valid-paper output:
 
 ```bash
 python .codex/skills/cfst-paper-extractor/scripts/validate_single_output.py \
-  --json-path <output_json_path> \
+  --json-path <worker_output_json_path> \
   --expect-valid true \
   --expect-count <expected_specimen_count> \
   --strict-rounding
@@ -242,7 +259,7 @@ Validate invalid-paper output:
 
 ```bash
 python .codex/skills/cfst-paper-extractor/scripts/validate_single_output.py \
-  --json-path <output_json_path> \
+  --json-path <worker_output_json_path> \
   --expect-valid false
 ```
 
@@ -260,7 +277,7 @@ python .codex/skills/cfst-paper-extractor/scripts/checkpoint_output_commits.py \
   --processed-count <processed_count> \
   --commit-every 10 \
   --push-every 20 \
-  --output-dir <output_dir> \
+  --output-dir output \
   --remote <remote_name>
 ```
 
@@ -273,15 +290,15 @@ Script hard-fails on:
 Use this structure for multi-paper execution:
 
 1. Run git preflight; stop on failure.
-2. Resolve runtime paths (`<raw_parsed_root>`, `<parsed_with_tables_root>`, target paper folders, output path).
+2. Resolve runtime paths (`<raw_parsed_root>`, `<parsed_with_tables_root>`, target paper folders, `<worker_output_json_path>`, `<final_output_json_path>`).
 3. If raw parsed root is provided, run preprocess script to produce `<parsed_with_tables_root>`.
 4. Enumerate target paper folders.
 5. Build a pending-paper queue.
 6. Launch workers in batches with a hard cap of 3 active workers:
-- create dedicated worktree via `git_worktree_isolation.py create`
+- create dedicated worktree via `git_worktree_isolation.py create --output-dir tmp/<paper_token>`
 - launch worker command through `worker_sandbox.py` (mandatory)
 - spawn one worker that runs only the sandboxed command
-- assign only that paper path and output path
+- assign only that paper path and worker temp output path (`tmp/<paper_token>/<paper_token>.json`)
 - explicitly declare ownership boundary and forbid edits outside owned paths
 - when one worker finishes, launch the next pending paper
 7. Wait until all queued papers are completed.
@@ -289,9 +306,10 @@ Use this structure for multi-paper execution:
 9. Run post-check per worker output:
 - valid paper: `--expect-valid true`, optional count, with `--strict-rounding`
 - invalid paper: `--expect-valid false`, no count
-10. Update processed counter and run `checkpoint_output_commits.py`.
-11. Report final per-paper status table.
-12. Remove worker worktrees and worker branches.
+10. Publish each validated worker result to final path: `output/<paper_token>.json` (overwrite allowed with publish log).
+11. Update processed counter and run `checkpoint_output_commits.py --output-dir output`.
+12. Report final per-paper status table.
+13. Remove worker worktrees and worker branches.
 
 Tool-call template:
 

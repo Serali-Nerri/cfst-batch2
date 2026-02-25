@@ -69,7 +69,11 @@ def main() -> int:
     parser.add_argument("--processed-count", required=True, type=int, help="Total processed papers so far.")
     parser.add_argument("--commit-every", type=int, default=10, help="Commit interval.")
     parser.add_argument("--push-every", type=int, default=20, help="Push interval.")
-    parser.add_argument("--output-dir", default="output", help="Output directory path in repo.")
+    parser.add_argument(
+        "--output-dir",
+        default="output",
+        help="Final published output directory path in repo (default: output).",
+    )
     parser.add_argument("--remote", default="origin", help="Remote name for push.")
     parser.add_argument("--branch", default=None, help="Branch name for push (defaults to current branch).")
     parser.add_argument(

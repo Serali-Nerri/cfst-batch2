@@ -1,8 +1,8 @@
 {
   "is_valid": true,
-  "reason": "Valid CFST axial-compression experimental paper with specimen-level data in Tables 4.1 and 4.2.",
+  "reason": "Valid CFST axial compression paper with physical experiments, setup figure, and specimen tables.",
   "ref_info": {
-    "title": "Study on Mechanical Behavior of Reactive Powder Concrete Filled Steel Tubular Columns",
+    "title": "钢管活性粉末混凝土柱的力学性能研究",
     "authors": [
       "冯建文"
     ],
@@ -15,7 +15,7 @@
       "ref_no": "",
       "specimen_label": "CFT1",
       "fc_value": 115.8,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 310.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -27,13 +27,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 1580.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT2-1",
       "fc_value": 115.8,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 321.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -45,13 +45,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2076.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT2-2",
       "fc_value": 115.8,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 321.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -63,13 +63,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2048.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT3-1",
       "fc_value": 117.9,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 310.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -81,13 +81,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 1620.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT3-2",
       "fc_value": 117.9,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 310.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -99,13 +99,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 1621.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT4-1",
       "fc_value": 117.9,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 320.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -117,13 +117,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 1645.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT4-2",
       "fc_value": 117.9,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 320.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -135,13 +135,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 1709.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT4-3",
       "fc_value": 117.9,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 320.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -153,13 +153,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 1655.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT5-1",
       "fc_value": 117.9,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 321.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -171,13 +171,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2096.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT5-2",
       "fc_value": 117.9,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 321.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -189,13 +189,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2172.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT6-1",
       "fc_value": 136.7,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 321.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -207,13 +207,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2379.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT6-2",
       "fc_value": 136.7,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 321.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -225,13 +225,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2415.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT7-1",
       "fc_value": 144.2,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 391.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -243,13 +243,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2141.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT7-2",
       "fc_value": 144.2,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 391.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -261,13 +261,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2146.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT8-1",
       "fc_value": 144.9,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 320.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -279,13 +279,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 1693.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT8-2",
       "fc_value": 144.9,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 320.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -297,13 +297,13 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 1641.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
       "specimen_label": "CFT8-3",
       "fc_value": 144.9,
-      "fc_type": "Unknown",
+      "fc_type": "Prism 100x100x300mm",
       "fy": 320.0,
       "fcy150": "",
       "r_ratio": 0,
@@ -315,331 +315,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 1734.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT9-1",
-      "fc_value": 117.9,
-      "fc_type": "Unknown",
-      "fy": 310.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 110.0,
-      "h": 110.0,
-      "t": 5.0,
-      "r0": 55.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 1789.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT9-2",
-      "fc_value": 117.9,
-      "fc_type": "Unknown",
-      "fy": 310.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 110.0,
-      "h": 110.0,
-      "t": 5.0,
-      "r0": 55.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 1730.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT10-1",
-      "fc_value": 117.9,
-      "fc_type": "Unknown",
-      "fy": 320.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 110.0,
-      "h": 110.0,
-      "t": 5.0,
-      "r0": 55.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 1865.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT10-2",
-      "fc_value": 117.9,
-      "fc_type": "Unknown",
-      "fy": 320.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 110.0,
-      "h": 110.0,
-      "t": 5.0,
-      "r0": 55.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 1745.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT11-1",
-      "fc_value": 144.9,
-      "fc_type": "Unknown",
-      "fy": 320.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 110.0,
-      "h": 110.0,
-      "t": 5.0,
-      "r0": 55.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 1886.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT11-2",
-      "fc_value": 144.9,
-      "fc_type": "Unknown",
-      "fy": 320.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 110.0,
-      "h": 110.0,
-      "t": 5.0,
-      "r0": 55.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 1745.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT12",
-      "fc_value": 115.8,
-      "fc_type": "Unknown",
-      "fy": 310.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 110.0,
-      "h": 110.0,
-      "t": 5.0,
-      "r0": 55.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 1789.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT13-1",
-      "fc_value": 117.9,
-      "fc_type": "Unknown",
-      "fy": 310.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 110.0,
-      "h": 110.0,
-      "t": 5.0,
-      "r0": 55.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 1760.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT13-2",
-      "fc_value": 117.9,
-      "fc_type": "Unknown",
-      "fy": 310.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 110.0,
-      "h": 110.0,
-      "t": 5.0,
-      "r0": 55.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 1780.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT14-1",
-      "fc_value": 144.2,
-      "fc_type": "Unknown",
-      "fy": 391.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 108.0,
-      "h": 108.0,
-      "t": 6.0,
-      "r0": 54.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 2127.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT14-2",
-      "fc_value": 144.2,
-      "fc_type": "Unknown",
-      "fy": 391.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 108.0,
-      "h": 108.0,
-      "t": 6.0,
-      "r0": 54.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 2170.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT15-1",
-      "fc_value": 144.2,
-      "fc_type": "Unknown",
-      "fy": 391.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 108.0,
-      "h": 108.0,
-      "t": 6.0,
-      "r0": 54.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 2034.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT15-2",
-      "fc_value": 144.2,
-      "fc_type": "Unknown",
-      "fy": 391.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 108.0,
-      "h": 108.0,
-      "t": 6.0,
-      "r0": 54.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 2090.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT16-1",
-      "fc_value": 70.8,
-      "fc_type": "Unknown",
-      "fy": 310.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 110.0,
-      "h": 110.0,
-      "t": 5.0,
-      "r0": 55.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 1213.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT16-2",
-      "fc_value": 70.8,
-      "fc_type": "Unknown",
-      "fy": 310.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 110.0,
-      "h": 110.0,
-      "t": 5.0,
-      "r0": 55.0,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 1244.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT17-1",
-      "fc_value": 70.8,
-      "fc_type": "Unknown",
-      "fy": 321.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 113.0,
-      "h": 113.0,
-      "t": 6.5,
-      "r0": 56.5,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 1322.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT17-2",
-      "fc_value": 70.8,
-      "fc_type": "Unknown",
-      "fy": 321.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 113.0,
-      "h": 113.0,
-      "t": 6.5,
-      "r0": 56.5,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 1300.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
-    },
-    {
-      "ref_no": "",
-      "specimen_label": "CFT17-3",
-      "fc_value": 70.8,
-      "fc_type": "Unknown",
-      "fy": 321.0,
-      "fcy150": "",
-      "r_ratio": 0,
-      "b": 113.0,
-      "h": 113.0,
-      "t": 6.5,
-      "r0": 56.5,
-      "L": 300.0,
-      "e1": 0,
-      "e2": 0,
-      "n_exp": 1222.0,
-      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; table=table/续表 4.1 钢管 RPC 试件一览表.jpg"
+      "source_evidence": "Page [33], Table [4.1]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.1 钢管 RPC 试件一览表.jpg; loading=axial_from_setup_figure"
     },
     {
       "ref_no": "",
@@ -657,7 +333,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2000.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -675,7 +351,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2005.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -693,7 +369,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2250.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -711,7 +387,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2200.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -729,7 +405,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2300.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -747,7 +423,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2350.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -765,7 +441,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2500.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -783,7 +459,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2550.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -801,7 +477,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3200.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -819,7 +495,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3100.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -837,7 +513,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2300.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -855,7 +531,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2350.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -873,7 +549,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2700.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -891,7 +567,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2750.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -909,7 +585,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2950.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -927,7 +603,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2950.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -945,7 +621,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2950.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -963,7 +639,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2960.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -981,7 +657,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3450.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -999,7 +675,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3450.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1017,7 +693,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3500.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1035,7 +711,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3650.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1053,7 +729,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 1700.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1071,7 +747,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2000.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1089,7 +765,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 1840.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1107,7 +783,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 1930.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1125,7 +801,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 1790.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1143,7 +819,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 1850.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1161,7 +837,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2420.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1179,7 +855,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2360.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1197,7 +873,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2490.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1215,7 +891,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2450.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1233,7 +909,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2480.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1251,7 +927,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2350.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1269,7 +945,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2180.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1287,7 +963,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2480.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1305,7 +981,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2440.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1323,7 +999,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2430.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1341,7 +1017,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2500.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1359,7 +1035,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2565.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1377,7 +1053,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2490.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1395,7 +1071,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2430.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1413,7 +1089,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2750.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1431,7 +1107,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2870.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1449,7 +1125,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2880.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1467,7 +1143,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3160.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1485,7 +1161,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3170.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1503,7 +1179,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3240.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1521,7 +1197,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3340.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1539,7 +1215,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3310.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1557,7 +1233,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3350.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1575,7 +1251,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3410.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1593,7 +1269,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3400.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1611,7 +1287,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3420.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1629,7 +1305,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2780.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1647,7 +1323,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2700.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1665,7 +1341,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 2705.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1683,7 +1359,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3200.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1701,7 +1377,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3170.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1719,7 +1395,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3130.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1737,7 +1413,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3130.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1755,7 +1431,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3050.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1773,7 +1449,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3200.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1791,7 +1467,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3280.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1809,7 +1485,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3240.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1827,7 +1503,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3270.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1845,7 +1521,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3550.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1863,7 +1539,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3500.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     },
     {
       "ref_no": "",
@@ -1881,7 +1557,7 @@
       "e1": 0,
       "e2": 0,
       "n_exp": 3410.0,
-      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; table=table/续（1）表 4.2 参考文献中试件一览表.jpg; table=table/续（2）表 4.2 参考文献中试件一览表.jpg; table=table/续（3）表 4.2 参考文献中试件一览表.jpg"
+      "source_evidence": "Page [52], Table [4.2]; setup=images/f604c13894e1e662db8dd7b169dabe766fb1ecf352e0fb2ae95e90fba83856be.jpg; table=table/表 4.2 参考文献中试件一览表.jpg; text section=4.4.2 axial compression benchmark"
     }
   ],
   "Group_C": []
