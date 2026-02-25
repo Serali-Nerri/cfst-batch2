@@ -1,0 +1,5538 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Study on preloading reduction of ultimate load of circular concrete-filled steel tubular columns "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                48,
+                204,
+                684,
+                245
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fuyun Huang a,b,c,n,1 , Xinmeng Yu b,d , Baochun Chen b , Jianzhong Li a "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                255,
+                626,
+                274
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a School of Civil Engineering, Tongji University, Shanghai 250001, PR China "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b School of Civil Engineering, Fuzhou University, Fujian 350801, PR China "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c Department of Civil and Environmental Engineering, University of Nevada, Reno 89512, USA "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d Department of Civil Engineering, Dongguan University of Technology, Guangdong Province 523808, PR China "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                279,
+                598,
+                322
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/70183468532c5ed3e0b6253f96401d176e3921757de95a6b5d550fdfb126dc96.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "CrossMark "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                831,
+                205,
+                870,
+                234
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "a r t i c l e i n f o "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                351,
+                203,
+                364
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Article history: "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                379,
+                127,
+                389
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received 29 November 2014 "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                390,
+                201,
+                399
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received in revised form "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                399,
+                181,
+                409
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "13 September 2015 "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                411,
+                152,
+                421
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Accepted 14 October 2015 "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                422,
+                189,
+                431
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Available online 27 October 2015 "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                432,
+                225,
+                442
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                451,
+                105,
+                461
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Concrete filled steel tubular column "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                462,
+                238,
+                472
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Preloading reduction "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                472,
+                161,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Simplified method "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                484,
+                149,
+                494
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ultimate load capacity "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                495,
+                169,
+                505
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Preloading test "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                506,
+                132,
+                515
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "FEM "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                517,
+                77,
+                525
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "a b s t r a c t "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                327,
+                351,
+                438,
+                364
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In general, the calculation of ultimate load capacity (UL) of a concrete-filled steel tubular (CFST) column is based on the assumption that the load is resisted by both the steel tube and the concrete core simultaneously as a composite member. However, steel tubes of CFST columns are preloaded due to selfweight, wet concrete weight as well as temporary construction loads before the composite action is formed. There is still no consensus on how the preload affects the loading resistance of CFST columns and how to quantify the effect of preload on the ultimate strength. "
+                    }
+                ]
+            },
+            "bbox": [
+                327,
+                378,
+                929,
+                450
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The paper reported an experimental study on circular CFST columns subjected to preload. The testing results showed that the preloading effect increased with the increase of slenderness, decreased the ultimate load capacity and increased the deformation significantly at high preloading ratio, but did not have much influence on the ultimate load capacity at light preload. Then, a parametric analysis of coupled effects of preloading ratio with other parameters, such as slenderness ratio, eccentric ratio, as well as material properties, is presented. Finally, a simplified method is proposed to predict the ultimate load capacity of CFST columns with preload. The preloading reduction factor of simplified methods of UL based on regressive analysis can be used to evaluate the UL of CFST columns with preload after verified by overall comparison of total preloading tests. "
+                    }
+                ]
+            },
+            "bbox": [
+                326,
+                451,
+                929,
+                559
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2015 Elsevier Ltd. All rights reserved. "
+                    }
+                ]
+            },
+            "bbox": [
+                695,
+                559,
+                927,
+                571
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                612,
+                163,
+                626
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Concrete-filled steel tube (CFST) has been widely used as compression dominant structural members in high-rise buildings and arch bridges. The success of CFST structures in recent decades is mainly due to the mutually beneficial structural interaction between steel tube and concrete core, the convenient construction procedure, as well as the high cost efficiency. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                639,
+                477,
+                720
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "However, when CFST columns are used in high-rise buildings, a general construction process is to pump concrete into hollow steel tubes after completion of several storeys [1]. Similarly, when CFST members are used as ribs in arch bridges, the steel tube skeleton is usually erected before filling of wet concrete. The steel skeleton "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                721,
+                477,
+                789
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "has to sustain the self-weight and the weight of unhardened concrete before the composite action is finally formed [2]. In other words, the steel tubes are often subjected to preload arising from self-weight, unhardened concrete and construction imposed loads, etc. The scale of preload can be measured by the preloading ratio, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta _ { i }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the tube, i.e., "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                612,
+                929,
+                697
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\beta = \\sigma_ {0} / f _ {y} = \\varepsilon_ {0} / \\varepsilon_ {y} \\tag {1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/bab5c1c26ebc008ea221e972be5c1a5fac61663cc32fb09b328efc7d41e048fc.jpg"
+                }
+            },
+            "bbox": [
+                500,
+                702,
+                929,
+                720
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sigma _ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varepsilon _ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are the initial axial stress and strain in the tube; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { y }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varepsilon _ { y }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are the yield stress and strain of steel. Surely, this ratio should be safely controlled in design and construction. "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                727,
+                929,
+                770
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The UL reduction factor (RF) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "k _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "related to preload is defined as "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                770,
+                931,
+                785
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "k _ {p} = N _ {u} ^ {\\beta} / N _ {u} ^ {\\beta = 0} \\tag {2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/2a434b217296b460aa4ff396158bf31d29f9c083812d8bf1a661cb007d6a7af8.jpg"
+                }
+            },
+            "bbox": [
+                500,
+                791,
+                927,
+                808
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { u } ^ { \\beta }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the UL of CFST column with preloading ratio of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { u } ^ { \\beta = 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the UL of CFST column without preload. "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                814,
+                931,
+                844
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In general, preload accelerates the yielding of steel tube and degrades the confinement effect on the concrete core, and therefore reduces the UL of the CFST column [3–7]. Several Chinese design codes, such as the DL/T 5085-1999 (1999) [8] and the "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                844,
+                929,
+                897
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Thin-Walled Structures 98 (2016) 454–464 "
+                    }
+                ]
+            },
+            "bbox": [
+                389,
+                41,
+                613,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                52,
+                73,
+                154,
+                142
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                53,
+                145,
+                154,
+                158
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Contents lists available at ScienceDirect "
+                    }
+                ]
+            },
+            "bbox": [
+                361,
+                74,
+                620,
+                87
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Thin-Walled Structures "
+                    }
+                ]
+            },
+            "bbox": [
+                359,
+                105,
+                621,
+                124
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": " journal homepage: www.elsevier.com/locate/tws "
+                    }
+                ]
+            },
+            "bbox": [
+                314,
+                145,
+                668,
+                158
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "THIN-WALLED STRUCTURES "
+                    }
+                ]
+            },
+            "bbox": [
+                831,
+                66,
+                929,
+                160
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Abbreviations: CFST, Concrete filled steel tube; PR, Preloading ratio; SLENDER-NESS, Length diameter ratio; ER, Eccentricity ratio; UL, Ultimate load capacity; RF, Reduction factor "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                810,
+                477,
+                843
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "n Corresponding author at: School of Civil Engineering, Fuzhou University, Fuzhou 350108, PR China. Fax: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "+ 8 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "59122865355. "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                844,
+                477,
+                863
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "E-mail address: Huangfuyun@fzu.edu.cn (F. Huang). "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                865,
+                337,
+                876
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "1 Funding: NSFC, China, 51208111, and Natural Science Foundation of Fujian Province, China, 2013J05071 "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                876,
+                477,
+                897
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "http://dx.doi.org/10.1016/j.tws.2015.10.015 "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                906,
+                270,
+                918
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "0263-8231/& 2015 Elsevier Ltd. All rights reserved. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                918,
+                317,
+                929
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Notation "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                85,
+                83,
+                147,
+                95
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a, m, b, n Regressive coefficients "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                112,
+                292,
+                124
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "k, q, A, B Calculation coefficients "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                124,
+                295,
+                137
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Exterior diameter of steel tube "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                137,
+                344,
+                150
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "e"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Eccentricity "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                151,
+                223,
+                163
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { a }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Young's modulus of steel "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                165,
+                309,
+                177
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { c }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Young's modulus of concrete "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                177,
+                334,
+                190
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { c }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Characteristic compressive strength of concrete "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                191,
+                453,
+                204
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { c u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "28-day cubic strength of concrete "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                204,
+                364,
+                216
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "c u f p Proportional limit strength of steel "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                216,
+                371,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "f Yield stress of steel "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                230,
+                273,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\check { k _ { p } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "& Kp UL reduction factor of CFST column with preload "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                243,
+                460,
+                258
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "K _ { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Load at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "strain of column"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                258,
+                337,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "l _ { e }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Effective length of column "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                269,
+                317,
+                283
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L Length of CFST column "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                283,
+                295,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "The UL of stub CFST column "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                296,
+                327,
+                308
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Axial preload "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                310,
+                233,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Load capacity of composite column "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                322,
+                374,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { u s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Ultimate load capacity of steel tube "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                336,
+                376,
+                349
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { F E M } ^ { u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "FE predicted UL of CFST column "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                349,
+                352,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DBJ13-51-2003 (2003) [9] have mentioned the effect of preload. However, in DL/T 5085-1999 [8], it just mentions the preload need to be considered, but does not tell how to determine its effect. A simplified formula to calculate the preloading reduction factor of UL for circular and square CFST columns was introduced into DBJ13-51-2003 [9], but it is limited to CFST members with slenderness ratio "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda < 1 0 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                388,
+                494,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Recently, further experimental and numerical studies on preloaded CFST columns show that stub columns tend to fail by squashing, whereas intermediate and long columns tend to fail by overall buckling; higher preloading ratio might cause profound effect on slender CFST columns [10–15]. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                482,
+                494,
+                549
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is obvious that the effect of preload on CFST columns has attracted researchers' concern. However, some codes like ACI318- 85 (1985) [16] and Euro-code 4 (2004) [17] do not mention the preloading influence on UL, and also do not give the calculation method of preloading reduction factor. The existing calculation methods of UL need to update. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                549,
+                494,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In this paper, new test data pertaining to circular CFST columns varying from stub columns to slender columns with preload are briefly introduced. Based on the tests, a parametric analysis of coupled effect of preload with other parameters, such as slenderness ratios, eccentric ratios, as well as material properties, is presented in this paper. Then, a simplified method is developed to evaluate the preloading reduction of UL of CFST columns. Finally, the comparisons between the total existing tests and corresponding calculations by using the simplified method are conducted. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                630,
+                495,
+                764
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Test and finite element model "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                794,
+                295,
+                805
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1. Test "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                820,
+                127,
+                833
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1.1. Specimens "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                847,
+                174,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to better understand the preloading effects on load capacity of CFST columns, a total of 12 CFST column specimens were tested at Fuzhou University, China. The specimens consisted of short "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 3 2 4 \\mathrm { m m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", intermediate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 2 9 6 \\mathrm { m m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") and long "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 9 4 4 \\mathrm { m m } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") columns with the cross-section diameter of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 8 ~ \\mathrm { { m m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and tube thickness of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and their corresponding slenderness is 12, 48 "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                860,
+                494,
+                941
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { T e s t } ^ { u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Testing UL of CFST column "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                81,
+                754,
+                97
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { u } ^ { \\beta }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "UL of CFST column with a preloading ratio of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                97,
+                887,
+                110
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { u } ^ { \\beta = 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "UL of CFST column without preloading "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                110,
+                831,
+                123
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "r _ { c }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Radius of concrete core "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                124,
+                734,
+                136
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Preloading ratio "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                136,
+                685,
+                148
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0ε "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varepsilon _ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Initial axial strain in the tube caused by preload "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                150,
+                892,
+                163
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varepsilon _ { c } , \\varepsilon _ { c c }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Concrete strains "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                163,
+                687,
+                175
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varepsilon _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Proportional limit strain of steel "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                176,
+                789,
+                189
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varepsilon _ { y }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Yield strain of steel "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                190,
+                709,
+                201
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\xi"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Confinement coefficient "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                203,
+                736,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "λ Slenderness, for CFST simply supported column "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda = 4 L / D"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                215,
+                931,
+                240
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda _ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Normative slenderness coefficient, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda _ { 0 } = \\lambda / \\lambda _ { p }"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                242,
+                865,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Critical elastic buckling slenderness "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                255,
+                811,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\nu _ { a }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Poisson's ratio of steel "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                269,
+                727,
+                279
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\nu _ { c }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Poisson's ratio of concrete "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                281,
+                751,
+                293
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\rho"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Load eccentricity ratio, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\rho = 2 e / D"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                295,
+                789,
+                307
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sigma _ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Initial axial stress in the tube caused by preloading "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                308,
+                912,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sigma _ { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Concrete stress "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                322,
+                680,
+                332
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Δ Ratio of RF "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                334,
+                653,
+                346
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "and 72, respectively. "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                389,
+                653,
+                403
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The specimens were made by the seamless Q345 grade steel tubes, and the strength of Q345 is similar to that of A572 Grade 50 steel in the ASTM. Exterior diameter was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 8 ~ \\mathrm { { m m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and the wall thickness was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for the A572 Grade 50 steel. 9 specimens were filled with C50 grade concrete and 3 were empty for comparison. "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                403,
+                946,
+                481
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The preloading ratio and other parameters of these specimens are listed in Table 1, in which they are labelled in the form of “X– Y”, where “X” denotes the length of the specimen "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "S ="
+                    },
+                    {
+                        "type": "text",
+                        "content": "short; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { I } ="
+                    },
+                    {
+                        "type": "text",
+                        "content": "intermediate; L long); “Y” denotes the preloading ratio "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle 0 = 0 { \\mathrm { P R } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 { = } 0 . 2 5 \\mathrm { P R }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "or others; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 { = } 0 . 5 \\mathrm { P R }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "or others; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E } ="
+                    },
+                    {
+                        "type": "text",
+                        "content": "Empty), such as the specimen of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\" S  – 0 \""
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the stub CFST column without preload and “L-E” is the long empty column. The preloading ratios on the filled specimens were designed to 0.0, 0.25 and 0.50, respectively just as listed in Table 1. Otherwise, the material properties were given in Table 2. "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                482,
+                946,
+                614
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1.2. Testing method "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                517,
+                627,
+                658,
+                639
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Preload was applied through four steel bars welded to the end steel plates of the tube. Concrete was filled only after the strain gauge readings on the bars had reached the predetermined preloading ratio and had been stable for two days. The preloading setup is shown in Fig. 1 "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                640,
+                946,
+                706
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The preloaded specimens were tested using a 5000 KN "
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                706,
+                946,
+                720
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/465fe8e613c7c674777e3aa8b2a9b15653b3dedd004b2a7a5d6323eeec051e77.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Summary of static tests. "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Group</td><td>Label</td><td>PR (β)</td><td>λ</td><td>φl</td><td>NtTest(KN)</td><td>NtFEM(KN)</td><td>NtFEM/NtTest</td></tr><tr><td rowspan=\"4\">S</td><td>S-0</td><td>0.0</td><td>12</td><td>1.0</td><td>1165</td><td>1240</td><td>1.06</td></tr><tr><td>S-1</td><td>0.25</td><td></td><td></td><td>1140</td><td>1206</td><td>1.06</td></tr><tr><td>S-2</td><td>0.54</td><td></td><td></td><td>1085</td><td>1180</td><td>1.09</td></tr><tr><td>S-E</td><td>0.0</td><td></td><td></td><td>418</td><td>412</td><td>0.99</td></tr><tr><td rowspan=\"4\">I</td><td>I-0</td><td>0.0</td><td>48</td><td>0.675</td><td>792</td><td>798</td><td>1.01</td></tr><tr><td>I-1</td><td>0.25</td><td></td><td></td><td>804</td><td>794</td><td>0.99</td></tr><tr><td>I-2</td><td>0.50</td><td></td><td></td><td>729</td><td>785</td><td>1.08</td></tr><tr><td>I-E</td><td>0.0</td><td></td><td></td><td>398</td><td>390</td><td>0.98</td></tr><tr><td rowspan=\"4\">L</td><td>L-0</td><td>0.0</td><td>72</td><td>0.570</td><td>734</td><td>711</td><td>0.97</td></tr><tr><td>L-1</td><td>0.24</td><td></td><td></td><td>731</td><td>683</td><td>0.93</td></tr><tr><td>L-2</td><td>0.48</td><td></td><td></td><td>702</td><td>671</td><td>0.96</td></tr><tr><td>L-E</td><td>0.0</td><td></td><td></td><td>372</td><td>357</td><td>0.96</td></tr><tr><td colspan=\"7\">Standard deviation</td><td>5.26%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                519,
+                759,
+                946,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "F. Huang et al. / Thin-Walled Structures 98 (2016) 454–464 "
+                    }
+                ]
+            },
+            "bbox": [
+                357,
+                42,
+                657,
+                55
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "455 "
+                    }
+                ]
+            },
+            "bbox": [
+                922,
+                42,
+                944,
+                52
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e8c6bf198531e9ad24d4351603de7381c020113447b81054705fe870fb7c42b1.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2 Material properties of steel tube and concrete "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mu = 1 0 ^ { - 6 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Material</td><td colspan=\"2\">Mechanical properties</td></tr><tr><td rowspan=\"7\">Steel tube</td><td>Yield strength (fy)</td><td>336.0 MPa</td></tr><tr><td>Yield strain (εy or εe2)</td><td>1980μ</td></tr><tr><td>Proportional limit strength (fp)</td><td>270 MPa</td></tr><tr><td>Proportional limit strain (εp or εe1)</td><td>1350μ</td></tr><tr><td>Ultimate strength (fu)</td><td>539.6 MPa</td></tr><tr><td>Young&#x27;s modulus (Ea)</td><td>2.0 × 10^5 MPa</td></tr><tr><td>Poisson&#x27;s ratio (νa)</td><td>0.286</td></tr><tr><td rowspan=\"4\">Concrete</td><td>Cubic strength at 28 days (fcu)</td><td>54.9 MPa</td></tr><tr><td>Characteristic compressive strength of concrete (fc)</td><td>36.6 MPa</td></tr><tr><td>Young&#x27;s modulus (Ec)</td><td>3.45 × 10^4 MPa</td></tr><tr><td>Poisson&#x27;s ratio (νc)</td><td>0.168</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                52,
+                97,
+                480,
+                288
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "hydraulic machine after the core concrete reached its design strength. The testing method is shown in Fig. 2. External load was applied step by step with an increment of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the UL. The incremental load was halved once nonlinear response appeared (by observation). Then the specimens were loaded until no further loads could be applied. The ULs measured from the test were listed in Table 1. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                307,
+                478,
+                403
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1.3. Testing results "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                48,
+                414,
+                184,
+                428
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It was observed that the intermediate and long columns failed by overall buckling without significant plastic deformation before the UL was reached; the short columns failed by swelling out at the mid-height, which indicated plastic failure. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                428,
+                477,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The three empty tubes in different lengths were tested for comparison, each characterised by quick failure once the maximum strength was reached. Preloading was acting on the tube only, so the load–displacement curves of the preloaded specimens coincide with the curves of the empty tubes in the initial stressing stage. Subsequent loading on the composite specimens involves both the tube and the concrete core; therefore the composite specimens were much stiffer than their empty counterparts. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                482,
+                478,
+                591
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The ultimate load capacities of the specimens, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { u } ^ { T e s t }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", are listed in Table 1. From Table 1, preloading caused UL reduction decreases with slenderness. With preloading ratio of about 0.5, the UL reduction, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "k _ { p } = 1 - N _ { u } ^ { T e s t ( \\beta = 0 . 5 ) } / N _ { u } ^ { T e s t ( \\beta = 0 ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", at various λ are "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 . 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively. This is different from the reduction range of 2– "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "when "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta \\leq 0 . 6 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concluded by Zhang et al. (1997) [4]. However, when the preloading ratio is about 0.25, the UL reduction is less than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the change in stiffness is not significant. This agrees with Zhang et al. (1997) [4] and Liew & Xiong (2009) [1] in that when the preloading ratio was low, the influence of preload could be ignored. Therefore, it is reasonable to conclude that light preloading ratio has little effect on the UL of CFST columns. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                591,
+                478,
+                755
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6563f3b310d03f604bd29b769e2ed840c81f64145b6b8483627bf883e0f3d747.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. Test method. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                507,
+                70,
+                924,
+                264
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7b9fb1bc140a7d8679a9dda7f58c7c77251fec8d5a32b1e6d842c7baadc593fa.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. Discretization of CFST column cross-sections. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                507,
+                307,
+                924,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "However, at a high preloading ratio "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta = 0 . 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), the UL decreases and the corresponding axial displacement increases except the short specimen which benefits from confinement effect. Therefore, high preloading ratio reduces the UL of CFST columns. In engineering practice, it would be better to keep the preloading ratio not too high. "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                670,
+                929,
+                755
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3304fe0ed33d8f3abfea367f9dee2347adca8600ae11bfe8760dadb9849d28e7.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. Preloading device (unit: mm). "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                186,
+                767,
+                796,
+                924
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "456 "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                42,
+                75,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "F. Huang et al. / Thin-Walled Structures 98 (2016) 454–464 "
+                    }
+                ]
+            },
+            "bbox": [
+                341,
+                42,
+                643,
+                55
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/45d253b8ce24d61d56d255109e7ea66708a856bf62984d482752de4c0a4b0e4b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. Stress–strain relationship of steel. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                70,
+                71,
+                490,
+                267
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2. Finite element modelling "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                296,
+                257,
+                311
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2.1. Finite element and material properties "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                322,
+                349,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Beam188 beam element of the commercial software ANSYS (2011) [18] was adopted for numerical analysis on the CFST columns with preloading for both of steel tube and core concrete. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                336,
+                494,
+                379
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Beam188 element is a special and effective element for simulating and meshing arbitrary shaped section with more than one material. Each concrete and steel tube beam element shares a node. Therefore, the meshing points of segments at the interface of the concrete and steel tube are not necessary to couple with each other, which will be avoided to exert the complex interface implementation and simplified the model significantly compare to solid model. The cross section of the element is discretized into a number of Plane82 segments (42 for the tube section and 283 for the concrete section), as shown in Fig. 3. "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                70,
+                947,
+                208
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is assumed that there is no relative slippage between the steel tube and the concrete core. The stress–strain relationship of steel is assumed to follow a 5-segment polygonal curve which includes phases of linear elastic, elasto-plastic, plastic, strain hardening and second plastic flow (see Fig. 4). "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                208,
+                944,
+                277
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The segmented constitutive relationship of confined concrete proposed by Han (2000) [19] was adopted for the concrete core modelling. The details are as follows: "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                277,
+                946,
+                317
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left\\{ \\begin{array}{l} \\sigma = \\sigma_ {c} \\left[ A \\times \\left(\\varepsilon / \\varepsilon_ {c}\\right) - B \\left(\\varepsilon / \\varepsilon_ {c}\\right) ^ {2} \\right] \\quad (\\text {i f} \\varepsilon \\leq \\varepsilon_ {c}) \\\\ \\sigma = \\sigma_ {c} (1 - q) + \\sigma_ {c} \\times q \\times \\left(\\varepsilon / \\varepsilon_ {c}\\right) ^ {0. 1 \\xi} \\quad (\\text {i f} \\varepsilon > \\varepsilon_ {c}) \\end{array} \\right. \\quad (\\xi \\geq 1. 1 2) \\tag {3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8463a91172b5ffec8935d08f745d1fe4195f27def54e6c888b5d527f4904ca5f.jpg"
+                }
+            },
+            "bbox": [
+                517,
+                325,
+                947,
+                364
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/745e0d0fb721921a75ab132e2b80ad875faa77c31ccc22d6bb2961f3544e5260.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "a "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                100,
+                409,
+                500,
+                645
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f8ef3114b561ed13ea513aa3b8d8cff574a7ddef1c3d841f05cfc833f8d0b4cc.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "b "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                512,
+                408,
+                915,
+                645
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d544f4afec8c5440e626d9ab265fb13234a15801827491af9ed30906e6a0022c.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 5. Comparison of test and modelling results. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                277,
+                660,
+                687,
+                921
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "F. Huang et al. / Thin-Walled Structures 98 (2016) 454–464 "
+                    }
+                ]
+            },
+            "bbox": [
+                356,
+                42,
+                657,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "457 "
+                    }
+                ]
+            },
+            "bbox": [
+                922,
+                42,
+                946,
+                52
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/cd20adcf81f8befede7902a36f07e47921b5a306cc3d332e82a975801cb40390.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 3 The eccentrically loaded specimens tested by Ref. [4]. "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "* Average value. "
+                    }
+                ],
+                "html": "<table><tr><td>Specimen</td><td>Section (mm)</td><td>Number of specimen</td><td>L (mm)</td><td>Eccentricity e (mm)</td><td>λ</td><td>β</td><td>NTestu(KN)</td><td>NfEMu(KN)</td></tr><tr><td>SB-0</td><td>133 × 4.5</td><td>3</td><td>465</td><td>50</td><td>14</td><td>0.0</td><td>630*</td><td>621</td></tr><tr><td>SB-1</td><td></td><td>1</td><td></td><td></td><td></td><td>0.21</td><td>629</td><td>618</td></tr><tr><td>SB-2</td><td></td><td>1</td><td></td><td></td><td></td><td>0.30</td><td>627</td><td>612</td></tr><tr><td>SB-3</td><td></td><td>1</td><td></td><td></td><td></td><td>0.39</td><td>625</td><td>609</td></tr><tr><td>SB-4</td><td></td><td>1</td><td></td><td></td><td></td><td>0.48</td><td>614</td><td>603</td></tr><tr><td>SB-5</td><td></td><td>1</td><td></td><td></td><td></td><td>0.43</td><td>618</td><td>605</td></tr><tr><td>IB-0</td><td></td><td>1</td><td>1670</td><td></td><td>50</td><td>0.0</td><td>438</td><td>452</td></tr><tr><td>IB-1</td><td></td><td>1</td><td></td><td></td><td></td><td>0.22</td><td>430</td><td>446</td></tr><tr><td>IB-2</td><td></td><td>1</td><td></td><td></td><td></td><td>0.42</td><td>416</td><td>436</td></tr><tr><td>LB-0</td><td></td><td>2</td><td>2730</td><td>66</td><td>82</td><td>0.0</td><td>306*</td><td>304</td></tr><tr><td>LB-1</td><td></td><td>1</td><td></td><td></td><td></td><td>0.22</td><td>293</td><td>293</td></tr><tr><td colspan=\"2\">Standard deviation of NfEMu/Ntestu</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.0269</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                50,
+                97,
+                929,
+                268
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0d06b6d2308c36ab471ed7092a74e50cbe4edb2fc2ce6504433ce1a60afa75bc.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 6. Comparison of test and predicted results of SB-5, LB-0, LB-1. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                53,
+                297,
+                473,
+                540
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\xi = \\left(A _ {s} f _ {y}\\right) / \\left(A _ {c} f _ {c}\\right) \\tag {4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c43ff94d113cf385a317e409ccb4fdee2f4fd1f4d82874a499a2754bffbbeddc.jpg"
+                }
+            },
+            "bbox": [
+                50,
+                573,
+                478,
+                591
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\sigma_ {c} = f _ {c} \\times [ 1. 1 9 4 + (1 3 / f _ {c k}) ^ {0. 4 5} \\times (- 0. 0 7 4 8 5 \\xi^ {2} + 0. 5 7 8 9 \\xi) ] \\tag {5}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/53c53f3f83b98d591c8eeec725e0f552b14d4a9a7aff2b04588e02d61c9617c4.jpg"
+                }
+            },
+            "bbox": [
+                50,
+                617,
+                478,
+                636
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/629c04bc9b78373355edc965fb230ff471def058c86de2820f5a2e250d4de33e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                84,
+                692,
+                480,
+                921
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\varepsilon_ {c} = \\varepsilon_ {c c} + [ 1 4 0 0 + 8 0 0 (f _ {c} - 2 0) / 2 0 ] \\xi^ {0. 2} \\times 1 0 ^ {- 6} \\tag {6}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/fe556a427230eed440563968378a20b4b2b51a6fea160136fe75a6b944795212.jpg"
+                }
+            },
+            "bbox": [
+                502,
+                296,
+                929,
+                315
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\varepsilon_ {c c} = \\left(1 3 0 0 + 1 4. 9 3 f _ {c}\\right) \\times 1 0 ^ {- 6} \\tag {7}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9545ce2702dea82cb43f8416597e76d67b4a954fbb52f2cb45592802db51f5c5.jpg"
+                }
+            },
+            "bbox": [
+                502,
+                340,
+                929,
+                358
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "q = k / (0. 2 + 0. 1 \\xi) \\tag {8}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/7325229c7a823888f4e9e2d8d980005fb185853fcf3318d81be6abf4f8da43f5.jpg"
+                }
+            },
+            "bbox": [
+                502,
+                384,
+                929,
+                399
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "A = 2 - k \\tag {9}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/475ef8dcc8a1f59d4af5a7d729ed75340babc98edac383e7134aed793a1172af.jpg"
+                }
+            },
+            "bbox": [
+                502,
+                426,
+                929,
+                438
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "B = 1 - k \\tag {10}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/33384015ed6b626edce9485b82a2a70ff5f21d8314b0e7f203281a5f02d84dad.jpg"
+                }
+            },
+            "bbox": [
+                502,
+                467,
+                929,
+                480
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "k = 1 - 0. 1 \\xi^ {0. 7 4 5} \\tag {11}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ae93553cd6a5f2bb8e02144c3daf68f515d9cbae6c6b001078c006e8f79175f3.jpg"
+                }
+            },
+            "bbox": [
+                500,
+                506,
+                929,
+                523
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { c }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the characteristic compressive strength of concrete. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                529,
+                917,
+                543
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Similar to Han & Yao (2003) [5], a longitudinal imperfection of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "L / 1 0 0 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is also considered. The Arc-Length iterative method is employed to capture the post-UL response. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                543,
+                929,
+                583
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The initial stressing condition is achieved by inactivating the concrete elements before the preload is fully applied, after which the concrete elements are activated to resist subsequent loads together with the tube. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                583,
+                929,
+                638
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2.2. Validation of FEM "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                500,
+                651,
+                658,
+                664
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2.2.1. Current test in this paper. The load–displacement "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                664,
+                927,
+                679
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/133b3d195fdbec31fe20df6f029277e5afdee38448521862e6d7ee38a96f947d.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 7. Preloading influence on the load capacity of CFST columns. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                497,
+                691,
+                895,
+                921
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "458 "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                42,
+                75,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "F. Huang et al. / Thin-Walled Structures 98 (2016) 454–464 "
+                    }
+                ]
+            },
+            "bbox": [
+                341,
+                42,
+                640,
+                54
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/384c27d10909f702cee3f6de32049b31431a47f1333facd60c94fcd369a61257.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "a "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                100,
+                87,
+                499,
+                287
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3b62d3e5d89ea51967774819e27c4b5100c3e80c3348ea267256eef00da39b82.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "b "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                524,
+                87,
+                915,
+                286
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/56333d80094534294867ced90416d96fd54dfaeacf11681dcc85519cf8b5d44a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "C "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                100,
+                313,
+                507,
+                506
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a7ce0336f0d422f8b44c4f2c4d651b0bc511c0432944cac836b7cf26bb5c0ad2.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "d "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 8. Preloading influence on UL. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                524,
+                312,
+                910,
+                506
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "relationships measured from the tests and calculated by FEM are plotted in Fig. 5a–c. In order to make the comparison clearer, the curves in the figures are arbitrarily separated by a displacement offset of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "one by one. The predicted UL are also given in Table 1. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                544,
+                494,
+                609
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It can be seen that the predicted results for empty tubes agree very well with test results, but the accuracy of FE model of CFST specimens decrease while core concrete is involved. It was observed that the intermediate and long specimens started to develop lateral deformation at early stage of loading. Even though, the standard deviation of the ratio of the testing results to FE modelling is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 . 6 1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which means a reasonable agreement. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                611,
+                494,
+                717
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2.2.2. Zhang's (1997) test. The accuracy of the proposed FE model on eccentrically loaded CFST columns with preload is validated by modelling the tests conducted by Zhang et al. (1997) [4]. In the test, 14 specimens were fabricated in three lengths: short "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 4 6 5 \\mathrm { m m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", intermediate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 6 7 0 \\mathrm { m m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and long "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 7 3 0 \\mathrm { m m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). The geometric details of the specimens are given in Table 3. The material properties used in modelling are as follows: "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                728,
+                494,
+                820
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Steel: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { v } = 3 2 5 \\mathrm { M P a }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { a } = 2 \\times 1 0 ^ { 5 } \\mathrm { M P a }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\nu _ { a } = 0 . 2 8 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                822,
+                403,
+                836
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Concrete: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { c u } = 4 2 . 2 \\mathrm { M P a }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { c } = 3 . 2 5 \\times 1 0 ^ { 4 } \\mathrm { M P a }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\nu _ { c } = 0 . 1 6 7"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                836,
+                447,
+                849
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All the specimens are modelled with current FEM procedure and the results are listed in Table 3. Only the load-displacement curves of one each of the short (SB-5), intermediate (A120) and long (A202) specimens are shown in Fig. 6, in order to save space. Good agreement between modelling and test is achieved by separated arbitrarily with a displacement offset of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "one by one. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                849,
+                495,
+                939
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Parametric study on the UL reduction of CFST columns with preload by FEM "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                515,
+                544,
+                947,
+                572
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Previous studies show that the current FEM can predict the ultimate load capacities of CFST columns well with various preloading ratios, either concentrically or eccentrically load. Therefore, this FEM is used to carry out parametric study on the coupling influence of preloading ratios together with other parameters such as slenderness ratios, eccentricity ratios, and material properties. The cross-sectional parameters used in Section 2 are reused here. "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                583,
+                947,
+                689
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.1. Parametrical preloading ratio of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                517,
+                703,
+                766,
+                717
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.1.1. The concentrically loaded CFST columns "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                517,
+                728,
+                808,
+                742
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The numerical analyses of axial loaded CFST columns with various preload are conducted. As examples, one short "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda = 1 2 ^ { \\cdot }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") and one long ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda = 7 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") CFST columns subjected to concentric loading are modelled with various preloading ratios. The numerical results are shown in Fig. 7a and b. "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                742,
+                946,
+                808
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Because the preload is applied to the tube only, the stiffness of a preloaded column is initially less than a non-preloaded one. The stiffness increases at subsequent loading because the concrete core starts to work. For short columns, preload accelerates the plastic development, especially when the preloading ratio is high. When the preloading ratio (i.e., "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta = 0 . 8 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta = 0 . 9 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") exceeds the proportion limit of steel (about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 8 f _ { y }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") the tube undergoes plastic deformation so that the displacement increases rapidly. However, this situation actually would never happen in engineering practice. "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                808,
+                947,
+                926
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In Fig. 7a, the point "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "K _ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the column without preload that is "
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                928,
+                947,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "F. Huang et al. / Thin-Walled Structures 98 (2016) 454–464 "
+                    }
+                ]
+            },
+            "bbox": [
+                356,
+                42,
+                657,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "459 "
+                    }
+                ]
+            },
+            "bbox": [
+                922,
+                42,
+                946,
+                52
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cf4f230e13fee29fbd2ad17db4d3f4a577fdaf67067bfb6680aaae8150564caa.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                57,
+                70,
+                473,
+                293
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e4311574dd6bcb630076f08c56081fc455ee85760d89793de5185279d9b7a159.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 9. Effect of slenderness ratios on UL. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                55,
+                303,
+                457,
+                540
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "shown at the cross point with two dashed lines, is relevant to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of steel strain. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "K _ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "moves downwards with the increase of preloading ratio as marked by the vertical dash line. However, the UL of all preloading ratios do not differ too much (within "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). Therefore, preload does not affect the UL of short CFST column, which agrees with Yang & Han (2009) [7] and Patel et al. (2013) [15]. It also indicates that "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of strain is not an appropriate representative indicator of the UL of CFST columns with preload, especially when the preloading ratio is high. Fig. 7b shows that the influence of preloading on long columns is more significant than on short columns. Preloading reduces the UL and increases the corresponding axial displacements. When "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta \\ge 0 . 8 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the column fails by overall buckling, and which is prohibited. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                583,
+                478,
+                757
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.1.2. The eccentrically loaded CFST column "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                769,
+                326,
+                781
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The previous cases are used again to further understand the influence of eccentricity. Two eccentricity ratios, 0.1 and 0.4, are presented and the numerical results are plotted on Fig. 8a–d. It can be seen from the figures that the preloading effects on eccentrically or concentrically loaded CFST columns are similar: (a) preloading has very little influence on the UL of short columns; (b) preloading accelerates the plastic response of the columns, the displacement at UL also increases; (c) excessive preloading, e.g., "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\rho = 0 . 1 \\oplus \\beta = 0 . 7 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\rho = 0 . 4 \\oplus \\beta = 0 . 6 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", makes the steel tube enter plastic phase even at preloading stage, therefore should be avoided in engineering practice. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                781,
+                478,
+                926
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For slender columns (Fig. 8c and d), compared with concentric "
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                926,
+                478,
+                940
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "loading, eccentric loading intensifies the stress imbalance in the steel tube and therefore further degrades the buckling resistance of the columns, consequently, the UL decreases and the deformation increases. This trend accelerates with increase of preloading ratio. For example, in the case of long column with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\rho = 0 . 1 \\oplus \\lambda = 7 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", when "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta = 0 . 7 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the UL reduction reaches up to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the axial displacement increases to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 . 2 2 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 . 0 9 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "when no preloading is applied. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                70,
+                929,
+                177
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.2. Slenderness ratio of λ "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                502,
+                189,
+                672,
+                201
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 9 is the load–displacement curves of different slenderness ratios of CFST columns with initial stress that are modelled. As an example, numerical results are plotted on Fig. 9a and b for two preloading ratios, 0.0 and 0.72. It can be seen from the figures that the ULs reduce and the corresponding deformations enlarge with the increase of slenderness ratio despite with or without initial stress. However, because the preloading ratio accelerates the plastic response, thus the displacement of the columns with initial stress is larger than the columns without initial stress that can be seen from the dash dotted lines of Fig. 9. Furthermore, the larger slenderness, the more distinct influence by initial stress. "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                215,
+                929,
+                361
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.3. Eccentricity ratio of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\rho"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                502,
+                373,
+                672,
+                387
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 10 is the load–displacement curves of different eccentricity ratios of CFST columns. And also, for example, numerical results are plotted on Fig. 10a and b for both two preloading ratios of 0.0, 0.24 and two slenderness ratios of 12, 72, respectively. It can be seen from the figures that the ULs reduce with the increase of eccentricity ratio. Whereas for short columns the corresponding deformations enlarges with the increasing of eccentricity ratios (see Fig. 10a), but for long columns they are going up to maximum, and then going down (see Fig. 10b). Moreover, the displacement of the columns with initial stress is larger than the columns without initial stress because the preloading accelerates the plastic response. Nevertheless, if there are large eccentricity ratio, the preloading must be controlled, otherwise the tube will be buckled that can be seen from the dotted lines of Fig. 10, which should be restricted. "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                399,
+                929,
+                598
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.4. Concrete strength grades "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                502,
+                611,
+                690,
+                624
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To examine the concrete type influence on CFST columns with preload, a number of CFST columns filled with four grades of concrete (C30, C40, C50 and C60) with three length diameter ratios (12, 48 and 72) were studied numerically, and the numerical results are plotted in Fig. 11a–c, respectively. The rough parallelism of UL to preloading ratio curves with different grades of concrete in the figures indicates that the concrete strength effect is negligible. This agrees well with the conclusion in Han et al. (2003) [5]. Therefore, the concrete property effect is not considered in this parametric study. "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                636,
+                929,
+                770
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.5. The coupling influence of UL of CFST columns with preload "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                500,
+                781,
+                900,
+                796
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to have a complete coverage of possible configurations, the parameters studied here are as follows: "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                808,
+                929,
+                836
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Steel: Q235, Q345 and Q390; "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Concrete: C50; "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. β: 0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8; "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. λ: 20, 40, 60, 80, 100, 120; "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. ρ: 0, 0.05, 0.10, 0.20, 0.40, 0.60, 0.80, 1.0, 2.0. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                847,
+                813,
+                912
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Using the prescribed parameter range, a total of 327 effective "
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                926,
+                929,
+                941
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "460 "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                42,
+                75,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "F. Huang et al. / Thin-Walled Structures 98 (2016) 454–464 "
+                    }
+                ]
+            },
+            "bbox": [
+                341,
+                42,
+                640,
+                54
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/65c6e7f6dee64216bb690ccfdf919a0761b5e1040de6d8b42e907b6511d85dd4.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                102,
+                70,
+                492,
+                339
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f283bd933fb533e8ff01dfacd9b8f11a63c28f4bd26800621710ab2f4e03a605.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                517,
+                80,
+                910,
+                341
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/822b7af4e6342bf6145e3ab16780fadc1131722f0ae477935d2bc12fe98571b3.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                100,
+                351,
+                495,
+                624
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cae8018301892c8ce2e6ff5568074900071fd41945e5e4ba680296c42d7d2d4e.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 10. a. Effect of eccentricity ratios on UL of CFST columns "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda = 1 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). b. Effect of slenderness ratios on UL of CFST columns "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda = 7 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                517,
+                368,
+                914,
+                624
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "cases with various parameter combinations are modelled with current FE procedure. A number of data are extracted from the results to understand the influence on the UL of CFST columns with preload under different steel properties. As a simple example, the curves of UL reduction factors to preloading ratios of a CFST column ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda = 4 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\rho = 0 . 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") are presented, as shown in Fig. 12. It is clear that preloading influence is more significant for higher grade of steel, and this influence increases with preloading ratio. This can be contributed to the relative strength between the steel and the concrete infill. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                655,
+                495,
+                795
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Development of simplified method for calculating the preloading reduction of UL "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                831,
+                490,
+                858
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.1. Calculating method of preloading reduction factor of UL "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                870,
+                448,
+                885
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Generally, the UL calculation of CFST column with preloading, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { u } ^ { \\beta }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", can be calculated by employing a strength reduction factor of preload, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "k _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", to multiply, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { u } ^ { \\beta = 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". That is "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                897,
+                497,
+                944
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N _ {u} ^ {\\beta} = k _ {p} N _ {u} ^ {\\beta = 0} \\tag {12}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e5e9a7916aa64b8e03db73aa6a5b946fb23e5133bfb171bc5b1b1a1289c41e00.jpg"
+                }
+            },
+            "bbox": [
+                517,
+                656,
+                947,
+                675
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Therefore, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "k _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the preloading reduction factor is the mainly concerned in this paper, rather than the UL of CFST without preload because the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { u } ^ { \\beta = 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in Eq. (12) has been studied widely and also already can be calculated by using several Specifications like EU4, ACI 318-85 and DL/T 5085-1999. "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                684,
+                947,
+                755
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Based on the parametric study in Section 3.5, the preloading reduction factor of UL of CSFT columns with preload that was regressively derived can be approximated as "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                756,
+                947,
+                799
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "k _ {p} = - 0. 0 1 5 8 \\cdot a \\cdot m \\cdot \\beta^ {2} - 0. 0 8 4 7 \\cdot b \\cdot n \\cdot \\beta + 1. 0 \\tag {13}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/4333c59af85bb34722e8cc09c2c8b2ec8e0f84833c5dd1d660ad9b0a84a22afa.jpg"
+                }
+            },
+            "bbox": [
+                517,
+                809,
+                947,
+                827
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left\\{ { \\begin{array} { l } { a = 3 . 3 5 2 { \\cdot } { \\lambda _ { 0 } ^ { 2 } } } \\\\ { b = 0 . 9 8 6 { \\cdot } { \\lambda _ { 0 } } } \\end{array} } \\right."
+                    },
+                    {
+                        "type": "text",
+                        "content": "when "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda _ { 0 } \\leq 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left. b = 0 . 9 8 6 { \\cdot } \\lambda _ { 0 } \\right."
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                837,
+                778,
+                870
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left\\{ \\begin{array}{l} a = 1. 7 6 8 \\cdot \\lambda_ {0} \\\\ b = 1. 0 6 3 \\cdot \\lambda_ {0} \\end{array} \\text {w h e n} \\lambda_ {0} > 1 \\right. \\tag {14}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/09e62181424d1f1db149aeb7c51ed70b646c35dc093a5002fd5e80f79ffdbbc4.jpg"
+                }
+            },
+            "bbox": [
+                517,
+                871,
+                947,
+                905
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left\\{ \\begin{array} { l } { m = e ^ { \\rho ^ { 0 . 0 3 9 2 } } } \\\\ { n = e ^ { 1 . 2 0 9 \\cdot \\rho ^ { 0 . 0 9 8 } } } \\end{array} \\right."
+                    },
+                    {
+                        "type": "text",
+                        "content": "when "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\rho \\leq 0 . 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and ⎪ 1.209 0.098⋅ρ "
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                916,
+                788,
+                953
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "F. Huang et al. / Thin-Walled Structures 98 (2016) 454–464 "
+                    }
+                ]
+            },
+            "bbox": [
+                356,
+                42,
+                657,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "461 "
+                    }
+                ]
+            },
+            "bbox": [
+                922,
+                42,
+                946,
+                52
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d0b0f079656dc5e928923c585878b1a91345e1ab405b35649f268ef32adca6fc.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                55,
+                70,
+                472,
+                291
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c27db07d42ec8c79eac2243f1029ba5c48f3c36e91a5df4f5545fdf518104064.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                55,
+                298,
+                473,
+                519
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/dae0470795ce26a43a4a345f7d0600cce844329cfe7474307019ed310ad85517.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 11. a. Effect of concrete strength on UL reduction of CFST columns "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda = 1 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). b. Effect of concrete strength on UL reduction of CFST columns "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda = 4 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). c. Effect of concrete strength on UL reduction of CFST columns "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": ". \\lambda = 7 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                55,
+                529,
+                460,
+                747
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left\\{ \\begin{array}{l} m = 0. 1 0 3 \\cdot \\rho + 2. 5 9 5 \\\\ n = 0. 3 8 2 \\cdot \\rho + 2. 9 0 5 \\end{array} \\text {w h e n} \\rho > 0. 8 \\right. \\tag {15}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/79410c02da2f356281a5bd68202b9dd5ce9ae1e379587189fda8d9a493aff6e8.jpg"
+                }
+            },
+            "bbox": [
+                50,
+                805,
+                478,
+                841
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "and, "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                849,
+                85,
+                862
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\lambda_ {0} = \\lambda / \\lambda_ {p} \\tag {16}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d85ee09e2142a82d95bf05d87ba6db3b6b090bfab3a238790abcc5ea96de2143.jpg"
+                }
+            },
+            "bbox": [
+                50,
+                872,
+                478,
+                887
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the critical elastic buckling slenderness of hollow steel tube that depends on the type of steel only. That is, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "equals to 100, 80 and 75 for steel types Q235, Q345 and Q390, respectively. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                897,
+                480,
+                941
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e8937d699fc23b4875c9afdf1fafa4a428169fff22798e99657a97394965c81a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 12. Effect of steel grade on UL reduction of CFST columns with preloading. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                507,
+                71,
+                926,
+                267
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6bbb091e19ea2279a5f11ced0bd8a084a0a2e96d9135095e75693fdf78a21b1e.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 13. Comparison of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "k _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", predicted by FEM and the current simplified method. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                507,
+                308,
+                926,
+                514
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6cbaa5c5856d7852e6ce644d9393ba9c473d7fb8f152ce0e38608a97dba3a757.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 14. Comparison between Eqs. (23) and (19). "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                505,
+                557,
+                926,
+                781
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It can be seen from the comparison in Fig. 13 that the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "k _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "predicted by Eq. (13) agrees well with those predicted by FEM. The difference is approximately within "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                822,
+                929,
+                863
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Eq. (13) has been implemented in the update code of DBJ/T13- 136-2011(2011) [20], China, but it is somewhat complex yet. It can be also seen from Fig. 12 that the preloading reduction factors are linear while the preloading ratios are limited to 0.6. Therefore, in order to further simplify the calculation of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "K _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", based on the "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                863,
+                929,
+                936
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "462 "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                42,
+                75,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "F. Huang et al. / Thin-Walled Structures 98 (2016) 454–464 "
+                    }
+                ]
+            },
+            "bbox": [
+                341,
+                42,
+                643,
+                54
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/35b065b5f862872aeac9604b8894aebc1f305f1fec983b90f6d0428374e879e1.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 4 Total tests and corresponding calculated results by the current simplified RF methods. "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Notes: ‘–‘ denotes that there do not acquire testing result. "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">Literatures</td><td rowspan=\"2\">Label</td><td rowspan=\"2\">Slenderness ratio λ</td><td rowspan=\"2\">Eccentricity ratio ρ</td><td rowspan=\"2\">Preloading ratio β</td><td colspan=\"3\">Kp</td></tr><tr><td>Tests</td><td>Eq. (13)</td><td>Eq. (17)</td></tr><tr><td rowspan=\"9\">[12]</td><td>S-0</td><td>12</td><td>0.0</td><td>0.0</td><td>1.000</td><td>1.000</td><td>1.000</td></tr><tr><td>S-1</td><td>12</td><td>0.0</td><td>0.25</td><td>0.979</td><td>0.997</td><td>0.991</td></tr><tr><td>S-2</td><td>12</td><td>0.0</td><td>0.54</td><td>0.960</td><td>0.993</td><td>0.981</td></tr><tr><td>I-0</td><td>48</td><td>0.0</td><td>0.0</td><td>1.000</td><td>1.000</td><td>1.000</td></tr><tr><td>I-1</td><td>48</td><td>0.0</td><td>0.25</td><td>1.013</td><td>0.986</td><td>0.965</td></tr><tr><td>I-2</td><td>48</td><td>0.0</td><td>0.50</td><td>0.920</td><td>0.970</td><td>0.931</td></tr><tr><td>L-0</td><td>72</td><td>0.0</td><td>0.0</td><td>1.000</td><td>1.000</td><td>1.000</td></tr><tr><td>L-1</td><td>72</td><td>0.0</td><td>0.24</td><td>0.996</td><td>0.979</td><td>0.950</td></tr><tr><td>L-2</td><td>72</td><td>0.0</td><td>0.48</td><td>0.956</td><td>0.954</td><td>0.900</td></tr><tr><td rowspan=\"11\">[1]</td><td>CS-40-30</td><td>12.93</td><td>0.0</td><td>0.25</td><td>-</td><td>0.997</td><td>0.991</td></tr><tr><td>CS-100-0</td><td>12.93</td><td>0.0</td><td>0.0</td><td>1.000</td><td>1.000</td><td>1.000</td></tr><tr><td>CS-100-30</td><td>12.93</td><td>0.0</td><td>0.25</td><td>0.863</td><td>0.997</td><td>0.991</td></tr><tr><td>CI-40-30</td><td>31.56</td><td>0.0</td><td>0.30</td><td>-</td><td>0.989</td><td>0.973</td></tr><tr><td>CI-100-0</td><td>31.56</td><td>0.0</td><td>0.0</td><td>1.000</td><td>1.000</td><td>1.000</td></tr><tr><td>CI-100-30</td><td>31.56</td><td>0.0</td><td>0.31</td><td>1.060</td><td>0.989</td><td>0.972</td></tr><tr><td>CI-130-40</td><td>31.56</td><td>0.0</td><td>0.38</td><td>-</td><td>0.986</td><td>0.965</td></tr><tr><td>CL-40-30</td><td>56.22</td><td>0.0</td><td>0.31</td><td>-</td><td>0.980</td><td>0.950</td></tr><tr><td>CL-100-0</td><td>56.22</td><td>0.0</td><td>0.0</td><td>1.000</td><td>1.000</td><td>1.000</td></tr><tr><td>CL-100-30</td><td>56.22</td><td>0.0</td><td>0.31</td><td>-</td><td>0.979</td><td>0.950</td></tr><tr><td>CL-130-40</td><td>56.22</td><td>0.0</td><td>0.40</td><td>-</td><td>0.972</td><td>0.935</td></tr><tr><td rowspan=\"6\">[22]</td><td>D-1</td><td>28</td><td>0.128</td><td>0.44</td><td>-</td><td>0.962</td><td>0.963</td></tr><tr><td>D-2</td><td>28</td><td>0.128</td><td>0.57</td><td>-</td><td>0.950</td><td>0.952</td></tr><tr><td>D-3</td><td>50</td><td>0.0</td><td>0.50</td><td>-</td><td>0.969</td><td>0.928</td></tr><tr><td>D-4</td><td>50</td><td>0.0</td><td>0.47</td><td>-</td><td>0.971</td><td>0.932</td></tr><tr><td>D-5</td><td>23</td><td>0.154</td><td>0.65</td><td>0.840</td><td>0.953</td><td>0.954</td></tr><tr><td>D-6</td><td>23</td><td>0.0</td><td>0.0</td><td>1.000</td><td>1.000</td><td>1.000</td></tr><tr><td rowspan=\"8\">[3]</td><td>IA-0</td><td>56</td><td>0.0</td><td>0.0</td><td>1.000</td><td>1.000</td><td>1.000</td></tr><tr><td>IA-1</td><td>56</td><td>0.0</td><td>0.0</td><td>1.000</td><td>1.000</td><td>1.000</td></tr><tr><td>IA-2</td><td>56</td><td>0.0</td><td>0.28</td><td>0.998</td><td>0.982</td><td>0.955</td></tr><tr><td>IA-3</td><td>56</td><td>0.0</td><td>0.4</td><td>0.809</td><td>0.972</td><td>0.935</td></tr><tr><td>LA-0</td><td>84</td><td>0.0</td><td>0.0</td><td>1.000</td><td>1.000</td><td>1.000</td></tr><tr><td>LA-1</td><td>84</td><td>0.0</td><td>0.0</td><td>1.000</td><td>1.000</td><td>1.000</td></tr><tr><td>LA-2</td><td>84</td><td>0.0</td><td>0.25</td><td>1.049</td><td>0.975</td><td>0.940</td></tr><tr><td>LA-3</td><td>84</td><td>0.0</td><td>0.40</td><td>-</td><td>0.957</td><td>0.903</td></tr><tr><td rowspan=\"10\">[4]</td><td>IB-0</td><td>50</td><td>0.752</td><td>0.0</td><td>1.000</td><td>1.000</td><td>1.000</td></tr><tr><td>IB-1</td><td>50</td><td>0.752</td><td>0.22</td><td>0.982</td><td>0.960</td><td>0.958</td></tr><tr><td>IB-2</td><td>50</td><td>0.752</td><td>0.42</td><td>0.950</td><td>0.919</td><td>0.921</td></tr><tr><td>IB-3</td><td>50</td><td>0.752</td><td>0.58</td><td>0.941</td><td>0.883</td><td>0.890</td></tr><tr><td>IB-4</td><td>50</td><td>0.902</td><td>0.23</td><td>-</td><td>0.958</td><td>0.954</td></tr><tr><td>IB-5</td><td>50</td><td>0.902</td><td>0.42</td><td>-</td><td>0.919</td><td>0.917</td></tr><tr><td>LB-0</td><td>82</td><td>0.902</td><td>0.0</td><td>1.000</td><td>1.000</td><td>1.000</td></tr><tr><td>LB-1</td><td>82</td><td>0.902</td><td>0.22</td><td>0.958</td><td>0.930</td><td>0.929</td></tr><tr><td>LB-2</td><td>82</td><td>0.902</td><td>0.41</td><td>0.922</td><td>0.864</td><td>0.867</td></tr><tr><td>LB-3</td><td>82</td><td>0.902</td><td>0.59</td><td>0.876</td><td>1.000</td><td>0.808</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                67,
+                95,
+                947,
+                630
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2822cdf63a493f6b5126bcae20e5194d0c7c8e5aeab08508d6da9a782c26c840.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 15. Demonstration of total tests and current simplified RF evaluated methods, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "K _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                72,
+                699,
+                489,
+                911
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "parametric study, a more simplified method formula is presented as follows, "
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                689,
+                946,
+                715
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "K _ {p} = 1 - 0. 2 4 \\cdot f \\left(\\lambda_ {0}\\right) \\cdot f (\\rho) \\cdot \\beta \\tag {17}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ef8a1b087bb9e99f1a9d8c4ce3630e0df784ae2aad21648715bec32da0608c77.jpg"
+                }
+            },
+            "bbox": [
+                517,
+                721,
+                946,
+                738
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where, "
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                745,
+                568,
+                757
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left\\{ \\begin{array}{l} f \\left(\\lambda_ {0}\\right) = \\lambda_ {0} = \\lambda / \\lambda_ {p} \\\\ f (\\rho) = 0. 2 \\cdot \\rho + 0. 9 8 \\end{array} \\right. \\tag {18}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/cd06d10b65cc8440a17481e472c7345fa3c5007b7cf2951cbba4f7a6382d8525.jpg"
+                }
+            },
+            "bbox": [
+                517,
+                765,
+                947,
+                800
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig.14 shows the result of ratio ‘ Δ’ of Eq.(17) to Eq.(13) that is shown in Eq.(19). Eq.(19) means that if the ratios of ‘Δ’ are closer to 1.0, then the Eqs. (13) and (17) agree well with each other. "
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                808,
+                946,
+                847
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is revealed in Fig. 14 that the ratios of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot _ { \\varDelta } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "from Eq. (19) are close to 1.0, their average and deviation are 0.96 and 0.024, respectively, and their range are 0.91–1.05. Nevertheless, the difference of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot _ { \\varDelta } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "will be larger with the increase of preloading ratio because of the linear relationship for Eq. (17), and which will be up to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "while the preloading ratios are over 0.6. Considering the preloading ratio is usually limited to 0.6, the further simplified "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                848,
+                947,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "F. Huang et al. / Thin-Walled Structures 98 (2016) 454–464 "
+                    }
+                ]
+            },
+            "bbox": [
+                356,
+                42,
+                657,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "463 "
+                    }
+                ]
+            },
+            "bbox": [
+                922,
+                42,
+                944,
+                52
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "method of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "K _ { p } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Eq. (17), can be used to calculate the preloading RF of UL. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                70,
+                478,
+                97
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\Delta = K _ {p} / k _ {p} \\tag {19}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d85e5d620cd4b6996a77f5eb4863dda4fb43c338b14e6042764ca45bc18d7fd8.jpg"
+                }
+            },
+            "bbox": [
+                50,
+                103,
+                477,
+                119
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.2. Comparison between test results and simplified method of RF "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                48,
+                139,
+                467,
+                153
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Table 4 and Fig.15 are the comparison and demonstration of total tests [1,3,4,12,21] and corresponding evaluation by using the current simplified RF method. It can be seen that RF of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "K _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "predicted by Eqs. (13) and (17) agrees well with those test results. The averages for Eqs. (13) and (17) per test results are roughly 0.997 and 0.989, respectively, and the deviations are 0.050 and 0.052. Both the average and deviation are satisfied very well. The Eq. (17) has been accepted by the up-to-date National Specification of Design of CFST Arch Bridge (GB 50923, 2014) [22] in China, and can be referenced to other specifications. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                165,
+                478,
+                298
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Conclusions "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                324,
+                157,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CFST columns with preloading ratios of about 0.0, 0.25 and 0.5 were tested. The results show that preloading effect decreases with the increase of slenderness; light preloading does not have much influence the ultimate load capacity but increase the corresponding deformation. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                350,
+                477,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A FEM procedure based on ANSYS was used to carry out numerical analysis on CFST columns. A five-segment polygonal curve of stress–strain relationship for steel and a segmental constitutive relationship for confined concrete were adopted in the numerical modelling. It shows that FEM modelling agrees well with test results. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                416,
+                477,
+                495
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The FEM procedure was further used to study the coupling influence of length, diameter ratio, eccentricity and material properties on the UL of CFST columns with preload. Finally, a simplified method is proposed based on the parametric study to calculate the preloading reduction factor of ultimate load capacities of CFST columns. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                495,
+                477,
+                573
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is concluded from this research that: "
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                575,
+                327,
+                587
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The structural responses of concentrically and eccentrically loaded short CFST columns with preload are similar. Small preloading ratio does not affect the UL and stiffness of CFST columns; but, high preloading ratio decreases the UL and increases the deformation significantly. Larger slenderness and eccentric loading further intensify the effect, and reduces the UL up to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                587,
+                477,
+                665
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Preloading influence is more significant for higher grade of steel, and this effect increases with preloading ratio. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                667,
+                478,
+                693
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The UL reduction factor of simplified method obtained from regressive analysis can be used to evaluate the UL of CFST columns with preload, and which has been also verified with good satisfactory by compared with the testing results. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                693,
+                477,
+                746
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is better to restrict the preloading ratio as less as possible in engineering practice to mitigate the preloading influence. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                746,
+                477,
+                773
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgement "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                799,
+                181,
+                812
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I would like to appreciate with Professor Ian G. Buckle, "
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                825,
+                477,
+                839
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "University of Nevada, Reno, who gives a lot of advises for the paper. The researches were funded by national NSFC project, 51208111 and Fujian Provincial Project, 2013J05071, China. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                70,
+                929,
+                110
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Appendix A. Supplementary material "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                500,
+                139,
+                763,
+                153
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplementary data associated with this article can be found in the online version at http://dx.doi.org/10.1016/j.tws.2015.10.015. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                166,
+                929,
+                192
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                502,
+                221,
+                579,
+                235
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[1] J.Y.R. Liew, D.X. Xiong, Effect of preload on the axial capacity of concrete-filled composite columns, J. Constr. Steel Res. 65 (2009) 709–722. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[2] B.C. Chen, Examples of Concrete Filled Steel Tubular Arch Bridges (II), China Communication Press, Beijing, 2008 (in Chinese). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[3] S.J. Huang, S.T. Zhong, S.Z. Yan, H.L. Cao, Experimental research of pre-stress effect on bearing capacity of concrete filled steel tubular axial compressive members, J. Harbin Univ. C.E. Archit. 29 (6) (1996) 44–50 (in Chinese). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[4] X.Q. Zhang, S.T. Zhong, S.Z. Yan, W. Lin, H.L. Cao, Experimental study about the effect of initial stress on bearing capacity of concrete filled steel tubular members under eccentric compression, J. Harbin Univ. C.E. Archit. 30 (1) (1997) 50–56 (in Chinese). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[5] L.H. Han, G.H. Yao, Behaviour of concrete-filled hollow structural steel (HSS) columns with pre-load on the steel tubes, J. Constr. Steel Res. 59 (2003) 1455–1475. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[6] D.X. Xiong, X.X. Zha, A numerical investigation on the behaviour of concretefilled steel tubular columns under initial stresses, J. Constr. Steel Res. 63 (2007) 599–611. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[7] Y.F. Yang, L.H. Han, Experiments on rectangular concrete-filled steel tubes loaded axially on a partially stressed cross-sectional area, J. Constr. Steel Res. 65 (2009) 1617–1630. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[8] DL/T5085-1999, China Electric Power Industry Standard: Design Specifications for Steel-Concrete Composite Structures, China Electric Power Press, China, 1999 (in Chinese). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[9] DBJ13-51-2003, Technical Specifications for CFST Structures, Construction Specifications of Fujian Province, China, 2003 (in Chinese). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[10] J. Huo, X. Zeng, Y. Xiao, Cyclic behaviours of concrete-filled steel tubular columns with pre-load after exposure to fire, J. Constr. Steel Res. 67 (2011) 727–739. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[11] W. Li, L.H. Han, X.L. Zhao, Axial strength of concrete-filled double skin steel tubular (CFDST) columns with preload on steel tubes, Thin-Walled Struct. 56 (2012) 9–20. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[12] F.Y. Huang, X.M. Yu, B.C. Chen, The structural performance of axially loaded CFST columns under various loading conditions, Steel Compos. Struct. 13 (5) (2012) 451–471. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[13] Y.L. Shi, S. Wang, W.D. Wang, Research on behavior of the joint with concretefilled steel tubular column under pre-load in steel tube, J. Civ. Archit. Environ. Eng. 34 (6) (2012) 19–24 (in Chinese). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[14] Y. Li, J.H. Zhao, W.B. Liang, S. Wang, Unified solution of bearing capacity for concrete-filled steel tube columns with initial stress under axial compression, J. Civ. Archit. Environ. Eng. 35 (3) (2013) 63–69 (in Chinese). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[15] V.I. Patel, Q.Q. Liang, M.N.S. Hadi, Numerical analysis of circular concrete-filled steel tubular slender beam-columns with preload effects, Int. J. Struct. Stab. Dyn. 13 (3) (2013) 1250065-1–1250065-23. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[16] ACI 318-85, Building Code Requirements for Structural Concrete and Commentary, Farmington Hills, American Concrete Institute, Detroit, USA, 1985. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[17] Eurocode 4, BS EN 1994-1-1, Design of Composite Steel and Concrete Structures, Part 1.1: General Rules and Rules for Buildings, Commission of European Communities, Brussels, 2004. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[18] A.N.S.Y.S.Inc, Theory Reference Releases 12.1, 2011. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[19] L.H. Han, Modern CFST Structures, Science and Technology Press, Beijing, 2000 (in Chinese). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[20] GB50923, Technical Code of Concrete Filled Steel Tube Arch Bridges, China Planning Press, Beijing, China, 2014 (in Chinese). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[21] DBJ/T13-136-2011, Technical Specifications for CFST Arch Structures, Construction specifications of Fujian Province, China, 2011 (in Chinese). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[22] X. He, S.X. Zhou, W.S. Wang, Experimental study on load bearing capacity of concrete filled steel tube members with initial stress, Mod. Transp. Technol. 3 (6) (2006) 38–42 (in Chinese). "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                250,
+                929,
+                839
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "464 "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                42,
+                75,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "F. Huang et al. / Thin-Walled Structures 98 (2016) 454–464 "
+                    }
+                ]
+            },
+            "bbox": [
+                339,
+                42,
+                640,
+                55
+            ]
+        }
+    ]
+]

@@ -127,6 +127,25 @@ Treat markdown table as invalid (must fallback to image evidence) when any condi
 - one cell contains multiple candidate values for one expected scalar field
 - specimen label row count mismatches key value columns after basic alignment
 - key numeric fields are missing in markdown table but present in related table image
+- table column semantics cannot be kept self-consistent from header to row values
+
+Column-semantics checks (rule-based, no scoring):
+- dual-load column check:
+  - when header contains both calculated-load and experimental-load columns (for example `计算Nu` and `实测Nu*`)
+  - each data row must recover two load values with stable column meaning
+  - if row values drift so that calculated/experimental roles cannot be kept consistent, treat markdown table as invalid
+- source/reference column check:
+  - source-like columns (for example `试验数据来源`, `Ref.`, `Source`) should be text-style evidence (`本文`, `文献[ ]`, citation labels)
+  - if these columns are populated by load-like numeric values due to OCR shift, treat markdown table as invalid
+- ratio/formula consistency check:
+  - when a ratio column exists (for example `Nu_calc/Nu_exp`), it should be arithmetically consistent with parsed load columns
+  - if ratio meaning cannot be matched to row loads because of column drift, treat markdown table as invalid
+- decimal-fragment drift check:
+  - frequent patterns like `4 1`, `159 8`, `3 476` inside numeric columns indicate OCR split and column displacement risk
+  - if these fragments make scalar fields ambiguous, treat markdown table as invalid
+- cross-table consistency check:
+  - if another table in the same paper defines specimen labels/groups, row mapping should remain explainable across tables
+  - if markdown rows cannot be aligned without guesswork, treat markdown table as invalid
 
 Common invalid examples:
 - multi-value cell example:
@@ -139,6 +158,17 @@ Common invalid examples:
   - label row and `n_exp` row shifted by one row after OCR
 - empty-cell example:
   - required `fy` column appears as blank for most rows
+- dual-load ambiguity example:
+  - header: `| ... | Calc Nu (kN) | Exp Nu* (kN) | Ratio | Source |`
+  - bad row parse: `| ... | 4 1 | 62 | 2917 | ... |`
+  - this pattern indicates decimal split plus right-shifted columns; do not assign `n_exp` from such markdown row
+- source-column corruption example:
+  - expected source values: `This paper`, `Ref.[5]`
+  - bad parse source values: `2917`, `1203`, `1573`
+  - this indicates column displacement; treat markdown table as invalid
+- ratio inconsistency example:
+  - parsed row gives `Nu_calc=2917`, `Nu_exp=2350`, but ratio cell reads `0.86`
+  - because ratio cannot be reconciled with row loads, treat markdown table as invalid
 
 When markdown table is invalid:
 - use `table/` image as primary evidence

@@ -1,0 +1,2612 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "钢管自密实混凝土柱轴心受压承载力试验"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                118,
+                144,
+                852,
+                177
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "李 毅1唐习龙2"
+                    }
+                ]
+            },
+            "bbox": [
+                387,
+                188,
+                581,
+                209
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（1．湖南大学 土木工程学院湖南 长沙 410082；2．中山市规划设计院广东 中山 528403）"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                213,
+                841,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "摘要 对 根钢管自密实高性能混凝土柱进行了轴压强度承载力的试验研究 试验的主要参数分别为自密实混凝土的配合比和加载方式 在确定组成钢管自密实高性能混凝土柱的钢材与混凝土的应力 应变关系的基础上 利用钢管混凝土柱轴压强度承载力的实用计算方法对其受力性能进行了理论分析并采用有限元程序 ANSYS 对轴压柱的荷载-应变关系进行了分析最后得出了试验值高于理论分析值而与有限元计算值吻合较好的结论。该试验结论对相关工程实践具有一定的参考价值。"
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                243,
+                914,
+                359
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "关键词 钢管自密实高性能混凝土 轴压构件 承载力 有限元"
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                362,
+                587,
+                379
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "中图分类号 文献标志码：A"
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                382,
+                441,
+                399
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Experiment of Axial Bearing Capacity of Self-compacting Concrete-filled Steel Tubular Columns "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                63,
+                423,
+                903,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LI "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { Y i } ^ { 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "T ANG X-i long2 "
+                    }
+                ]
+            },
+            "bbox": [
+                375,
+                479,
+                589,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（1．School of Civil EngineeringHunan U niversityChangsha410082HunanChina；"
+                    }
+                ]
+            },
+            "bbox": [
+                158,
+                501,
+                808,
+                516
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2．U rban Planning and Design Institute of ZhongshanZhongshan528403GuangdongChina） "
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                518,
+                839,
+                534
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract： Eighteen self-compacting high-performance concrete-filled steel t ubular columns w ere tested under axial compressive loads．T he main parameters varied in the tests w ere mixt ure ratios of self-compacting concrete and loading modes．Based on the relationship betw een stress and strain of self-compacting concrete-filled steel t ubular and concretea practical calculation method for theoretical analysis w as applied by using axial strength bearing capacity of steel t ubular columns．T he finite element program ANSYS w as applied to the analysis of axial compressive column load-strain relationship．It show s that the test values are higher than the theoretical values and are in good agreement with the finite element analysis．T he test results have some practical references for relevant engineering application "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                546,
+                914,
+                724
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Key words： self-compacting high-performance concrete-filled steel t ube；axial compressive member；bearing capacity；finite element "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                725,
+                912,
+                763
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "0 引 言"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                13,
+                795,
+                141,
+                818
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "自密实混凝土［1-3］ 在自重或少振捣的情况下能自密实成型 对方便混凝土的施工 节约劳动力投资 减轻噪声污染 确保工程质量具有重要意义 如果将自密实混凝土灌入钢管内 形成自密实高性能"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                828,
+                468,
+                911
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "钢管混凝土 更能充分发挥 种材料的优点［4-9］"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                786,
+                918,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "自密实混凝土的力学性能和普通混凝土有所不同 特别是由于水灰比较低和掺入活性细掺料 使自密实混凝土的自收缩变形与普通混凝土有所差别从而带来钢管自密实混凝土和钢管普通混凝土的性能差异 以往各国学者大都是研究钢管普通混凝土"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                807,
+                953,
+                910
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "第25卷 第3期"
+                    }
+                ]
+            },
+            "bbox": [
+                17,
+                54,
+                170,
+                70
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "2008年9月"
+                    }
+                ]
+            },
+            "bbox": [
+                40,
+                72,
+                145,
+                88
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "建筑科学与工程学报"
+                    }
+                ]
+            },
+            "bbox": [
+                360,
+                50,
+                606,
+                72
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal of Architecture and Civil Engineering "
+                    }
+                ]
+            },
+            "bbox": [
+                253,
+                76,
+                711,
+                94
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol．25 No．3 "
+                    }
+                ]
+            },
+            "bbox": [
+                819,
+                54,
+                951,
+                70
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Sept．2008 "
+                    }
+                ]
+            },
+            "bbox": [
+                835,
+                72,
+                936,
+                89
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文章编号：1673-2049（2008）03-0026-06"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                116,
+                273,
+                131
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "收稿日期.2008-06-16 "
+                    }
+                ]
+            },
+            "bbox": [
+                44,
+                926,
+                191,
+                941
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "基金项目 国家自然科学基金项目"
+                    }
+                ]
+            },
+            "bbox": [
+                44,
+                941,
+                350,
+                955
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "作者简介：李 毅（1978-）男湖南郴州人工学博士研究生E-mail：liyi＿0514＠163．com。"
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                955,
+                629,
+                973
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                790,
+                961,
+                961,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "和钢管高强混凝土 对钢管自密实混凝土的研究报道尚不多见。"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                49,
+                468,
+                88
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本文中笔者拟通过试验及理论研究探讨钢管自密实混凝土轴压柱受力性能 进而得出可供有关工程实践参考的结论。"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                90,
+                468,
+                153
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1 试验研究"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                15,
+                163,
+                170,
+                185
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1．1 试验概况 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                15,
+                196,
+                153,
+                213
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "共进行 了 18 根 钢 管 自 密 实 高 性 能 混 凝 土柱轴心受压构件的试验研究。钢管构件的试验参"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                217,
+                468,
+                256
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "数 外径 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 1 9 ~ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "壁厚 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 . 8 \\ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "屈服强度"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { \\mathrm { y } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 6 0 \\ \\mathrm { M P a }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "长度 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "L"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 4 0 ~ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "长径比 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "L / D"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为径厚比 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D / _ { t }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 5 . 6 ^ { [ 1 0 - 1 2 ] }"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                49,
+                953,
+                108
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "配制的自密实混凝土出料坍落度在 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 0 ~ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "以上 扩展度在 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 0 ~ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "以上 浇注试件的同时 每种配合比混凝土各预留 组边长为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 0 ~ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的立方体试件和1组 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\ \\mathrm { m m } \\times 1 0 0 \\ \\mathrm { m m } \\times 3 0 0 \\ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的棱柱体试件6个以便同步确定混凝土的力学性能［13］。自密实混凝土配合比参数及试件强度见表"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                112,
+                953,
+                236
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "加载方式分为核心混凝土加载（A 式加载）和全"
+                    }
+                ]
+            },
+            "bbox": [
+                540,
+                237,
+                953,
+                256
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/47b099973752e6033d49d46118e723a55114e0116878dff3b8b850088c992231.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表1 自密实混凝土配合比"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Tab．1 Mixture Ratios of Self-compacting Concrete "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>配合比编号</td><td>试件编号</td><td>水胶比</td><td>基准水泥用量/(kg·m-3)</td><td>砂率/%</td><td>外加剂JM-SCC掺量(质量分数)/%</td><td>混凝土立方体抗压强度fcu/MPa</td><td>混凝土弹性模量Ec/10^4 MPa</td></tr><tr><td>1</td><td>CCC11~CCC16</td><td>0.35</td><td>470</td><td>40</td><td>13</td><td>44.4</td><td>3.577</td></tr><tr><td>2</td><td>CCC21~CCC26</td><td>0.35</td><td>470</td><td>38</td><td>13</td><td>44.9</td><td>3.519</td></tr><tr><td>3</td><td>CCC31~CCC36</td><td>0.36</td><td>470</td><td>38</td><td>12</td><td>47.9</td><td>3.873</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                15,
+                295,
+                951,
+                394
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "截面加载（B 式加载）2种加载方式同文献［10］。"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                399,
+                437,
+                417
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "所有钢管的两端均在车床上刨平 并严格控制其长度的一致性和精度 保证试件两端部的平整度和试件的垂直度。试件下端用 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 \\ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "厚的正方形钢板焊接封固 端板边长为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 3 9 \\ \\mathrm { { \\ m m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "采用角焊缝围焊 采用强制式搅拌机现场搅拌自密实混凝土 浇注时将钢管竖立 采用自由下落法 从钢管顶部灌入混凝土直至钢管底部 式加载的试件保持其初始浇注的状态；B 式加载的试件则在混凝土浇注两周后用高强环氧砂浆将试件顶部的混凝土表面与钢管抹平再焊接顶部盖板。"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                419,
+                468,
+                621
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "将试件放置在 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 0 \\textrm { t }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "液压压力机上进行试验为准确测量试件的变形 除在每个试件中截面每隔"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 0 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "沿纵向和环向黏贴 片电阻应变片外 同时在试件两端布置 个电测位移计以监测试件的纵向总变形 所有试验数据由 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { D H ^ { - 3 8 1 8 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "静态应变仪自动采集系统采集 试验采用 式和 式分级加载制 每级荷载约为预计极限荷载的 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 / 1 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "当荷载达到 倍极限荷载以后 每级荷载减为极限荷载的 每级荷载的持荷时间约为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\ \\mathrm { m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "临近极限荷载时徐徐连续加载 直到试件变形相当大 荷载 应变曲线出现明显的下降段时停止试验 每个试件的试验时间约为 ［14-15］ "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\mathrm { ~ h ~ } ^ { [ 1 4 - 1 5 ] }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "。"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                624,
+                468,
+                867
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1．2 试验现象与分析"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                15,
+                870,
+                215,
+                887
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "加载初期 试件的变形和形态变化均不大 当外荷载加至极限荷载的 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "60 \\% \\sim 7 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "时 钢管壁局部开始出现吕德尔斯剪切滑移线 随着外荷载的增加滑移线由少到多逐渐布满钢管壁随后进入破"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                891,
+                468,
+                970
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "坏阶段。各试件的破坏过程极为相似：加载初期钢管处于弹性阶段时 试件中截面附近的应变和竖向压缩变形随荷载的增长基本上呈线性增长 即试件处于弹性工作阶段试件外观无明显的变化；钢管进入弹塑性阶段后 试件中截面附近的应变和竖向压缩变形随荷载的增长而加快增长 钢管表面的铁锈和水泥浆开始剥落 钢管已达到屈服 此时钢管的体积明显增长 开始时体积变形大而均匀 外形鼓而不曲 而后随着荷载的继续增加 试件发生腰鼓形破坏或剪切形破坏最终以钢管的竖向压缩变形过大标志试件完成破坏并且柱体外形也已严重皱曲。试件加载和破坏后的情况如图 所示"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                399,
+                953,
+                641
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "从图 可以看出 核心混凝土变形与钢管的变形宏观表现相一致 除在钢管发生局部鼓曲和变形较大的部位混凝土易破碎外 其他部位的混凝土几乎没有裂缝 核心混凝土在钢管的约束下塑性大大提高就像一种塑性材料可以随钢管的变形发生塑性流动"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                645,
+                953,
+                764
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "严格控制试验前试件与试验机的几何和物理对中精度 以保证试件在尽可能均匀轴向受压的条件下 通过布置在试件中截面附近的纵向应变片 测得了试验轴向压力 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N"
+                    },
+                    {
+                        "type": "text",
+                        "content": "与中截面附近各测点纵向应变关系曲线 同配合比不同试件在 式 式加载条件下的荷载 平均纵向应变关系曲线如图 所示由图 可以看出 整个试验的离散性很小"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                768,
+                953,
+                909
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "从图 可以看出 在弹性阶段 每组试验曲线有很好的重合性但当应变较大时钢管进入弹塑性阶段试件上不同的地方变形不均匀甚至发生鼓曲"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                911,
+                953,
+                971
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "第3期"
+                    }
+                ]
+            },
+            "bbox": [
+                17,
+                12,
+                81,
+                29
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "李 毅等：钢管自密实混凝土柱轴心受压承载力试验"
+                    }
+                ]
+            },
+            "bbox": [
+                259,
+                12,
+                730,
+                30
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "27 "
+                    }
+                ]
+            },
+            "bbox": [
+                912,
+                14,
+                937,
+                26
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/259a879333406a385f7d03c15e4ab86e23bc0f5875b8a79c88911d3dc6a8376b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                73,
+                61,
+                406,
+                247
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2dc1ab5618255dc0420da5ba01328fa25b3ef3d87244704578a2e660f557546c.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a）试件的加载"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(b）破坏后的试件"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                73,
+                266,
+                406,
+                443
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8fe3b73f20ac185d1da4d715929644ced90ce00cc829e72574525501c1cb796b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(c）剥去部分钢管的试件"
+                    },
+                    {
+                        "type": "text",
+                        "content": "图1 试件加载和破坏后的情况"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig．1 Loading and Failure Conditions of Specimens "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                73,
+                462,
+                406,
+                645
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "所以应变片读数出现较大的差异试验曲线开始出现分叉现象如图2（b）所示。"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                716,
+                465,
+                755
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在达到极限承载力之前 试件尚未发生局部屈曲 此时中截面应变片有效 用其测得的应变来表示试件的变形是准确的 当接近极限承载力时 试件开始发生局部屈曲 其局部变形超出了应变片的量程中截面应变片失效 此时用位移计测得的变形值折算后获得的应变来表示试件的变形是合理可行的如图 所示"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                759,
+                465,
+                905
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "从图 可以看出 钢管混凝土柱具有良好的塑性和延性 在曲线下降段 承载力下降得比较平缓但是试件表现出的塑性和延性的区别并不十分明显。"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                909,
+                467,
+                969
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d46c8a58d2a178acbe6fb9f7d2373bbfdf9f58447bb9cfb7969c9e38c07df1e8.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "（a）配合比1"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                540,
+                46,
+                910,
+                189
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9f7045aeb3113bd02428c25553ac20c86a6468a3bedbf00b68485d97b8a7dcab.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                540,
+                207,
+                910,
+                352
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9f3b61bf9d3c368b4621e5c2717710a722686c96a421b0d042de136f9edf0524.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "（b）配合比2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "（c）配合比3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "图2 荷载-平均纵向应变关系曲线"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig．2 Relation Curves of Loads and Average Longitudinal Strains "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                540,
+                367,
+                914,
+                512
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2 极限承载力的计算方法"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                500,
+                604,
+                819,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "文献 中指出 钢管自密实高性能混凝土的力学性能和普通混凝土基本类似 故可以采用普通钢管混凝土的方法进行钢管自密实混凝土的计算。为此 笔者直接采用文献 中提出的承载力计算公式进行对比验算 对于圆钢管混凝土轴压构件文献［16］中利用数值方法对其极限承载力进行了大规模的参数分析 提出了圆钢管混凝土轴心受压组合强度设计值 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { \\mathrm { s c y } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的计算公式 进而得出了其轴压构件强度承载力 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { \\mathrm { u c 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的计算公式 即"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                637,
+                953,
+                822
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "f _ {\\mathrm {s c y}} = (1. 1 4 + 1. 0 2 \\xi) f _ {\\mathrm {c k}} \\tag {1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c90f8b56b5f44070c0e7dedc6dcf45eba867f6ffa7cfaa09de6b055a676558bb.jpg"
+                }
+            },
+            "bbox": [
+                620,
+                824,
+                951,
+                844
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N _ {\\mathrm {u c l}} = A _ {\\mathrm {s c}} f _ {\\mathrm {s c y}} \\tag {2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/30f4027377f56e18bd3ef219ed910f4f8663d2c4cc46c36c409b9b3f7e1617eb.jpg"
+                }
+            },
+            "bbox": [
+                625,
+                848,
+                951,
+                867
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "式中： "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { \\mathrm { c k } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为混凝土抗压强度标准值 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { \\mathrm { c k } } { = } 0 . 6 7 f _ { \\mathrm { c u } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "；ξ为约束效应系数 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\hat { \\Xi } { = }  { A _ { \\mathrm { s } } } f _ { \\mathrm { y } } / (  { A _ { \\mathrm { c } } } f _ { \\mathrm { c k } } ) ,  { A _ { \\mathrm { s } } }  { \\mathbf { \\Psi } } _ { \\mathrm { \\mathbf { \\times } } } A _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "分别为钢管和混凝土横截面面积； "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A { \\mathrm { s c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为钢管混凝土构件的全截面面积 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ A _ { \\mathrm { s c } } } = { A _ { \\mathrm { s } } } + { A _ { \\mathrm { c } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "。利用式（2）计算的 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { \\mathrm { u c 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "值见表2。"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                868,
+                955,
+                975
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "28 "
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                13,
+                54,
+                26
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "建筑科学与工程学报"
+                    }
+                ]
+            },
+            "bbox": [
+                397,
+                13,
+                581,
+                29
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "2008年"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                13,
+                951,
+                29
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/74ba3529cfeba4890987279f0f7f66af160ed56da5269367163b742fe9e10f4b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a）配合比1,A式加载"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                87,
+                52,
+                467,
+                196
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8fa5d8535d6786c781ac4aa5162bbe09fc5511bab8a3b53caea193a9c9c3d10f.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b）配合比1,B式加载 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                503,
+                52,
+                879,
+                197
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/205d7c2cc78e973979b630596c30733dfd5fb656e796d71a9e97678e35f67014.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(c）配合比2,A式加载 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                85,
+                213,
+                463,
+                358
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/073ded319b0c893f592200a452eb952bba8205244f0e17c52f4c442b344ff4bb.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(d）配合比2,B式加载 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                501,
+                213,
+                879,
+                358
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c772a4d7e606d971050b50563e707b1842f56b54c4f946bf377a4c0fa84fe268.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(e）配合比3,A式加载"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                85,
+                374,
+                463,
+                518
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1302ddbbeb5c4b98736075acf318f5790548868463e3e4ab3160cb6320d89819.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "（f）配合比3,B式加载"
+                    },
+                    {
+                        "type": "text",
+                        "content": "图3 荷载-应变关系曲线"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig．3 Relation Curves of Loads and Strains "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                500,
+                374,
+                875,
+                518
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b1caaf93f5196b0ca28caea019a7af1dbf8255cd8427b80a204735eccfe15f65.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表2 不同加载方式下钢管自密实混凝土柱的分析结果"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Tab．2 Analysis Results of Self-compacting Concrete-filled Steel Tubular Columns Under Different Loading Modes "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>序号</td><td>试件编号</td><td>fcu/MPa</td><td>加载方式</td><td>ξ</td><td>承载力试验值Nue/104N</td><td>承载力公式计算值Nuc1/104N</td><td>承载力有限元计算值Nuc2/104N</td><td>Nue·Nuc-1</td><td>Nue·Nuc-1</td></tr><tr><td>1</td><td>CCC11</td><td>44.4</td><td>B</td><td>0.86</td><td>296</td><td>221</td><td>288</td><td>1.339</td><td>1.028</td></tr><tr><td>2</td><td>CCC12</td><td>44.4</td><td>B</td><td>0.86</td><td>278</td><td>221</td><td>288</td><td>1.258</td><td>0.965</td></tr><tr><td>3</td><td>CCC13</td><td>44.4</td><td>A</td><td>0.86</td><td>287</td><td>221</td><td>285</td><td>1.299</td><td>1.007</td></tr><tr><td>4</td><td>CCC14</td><td>44.4</td><td>A</td><td>0.86</td><td>280</td><td>221</td><td>285</td><td>1.267</td><td>0.982</td></tr><tr><td>5</td><td>CCC15</td><td>44.4</td><td>A</td><td>0.86</td><td>270</td><td>221</td><td>285</td><td>1.222</td><td>0.947</td></tr><tr><td>6</td><td>CCC16</td><td>44.4</td><td>B</td><td>0.86</td><td>290</td><td>221</td><td>288</td><td>1.312</td><td>1.007</td></tr><tr><td>7</td><td>CCC21</td><td>44.9</td><td>B</td><td>0.85</td><td>316</td><td>223</td><td>293</td><td>1.417</td><td>1.078</td></tr><tr><td>8</td><td>CCC22</td><td>44.9</td><td>A</td><td>0.85</td><td>305</td><td>223</td><td>291</td><td>1.368</td><td>1.048</td></tr><tr><td>9</td><td>CCC23</td><td>44.9</td><td>A</td><td>0.85</td><td>319</td><td>223</td><td>291</td><td>1.430</td><td>1.096</td></tr><tr><td>10</td><td>CCC24</td><td>44.9</td><td>B</td><td>0.85</td><td>298</td><td>223</td><td>293</td><td>1.336</td><td>1.017</td></tr><tr><td>11</td><td>CCC25</td><td>44.9</td><td>B</td><td>0.85</td><td>263</td><td>223</td><td>293</td><td>1.179</td><td>0.898</td></tr><tr><td>12</td><td>CCC26</td><td>44.9</td><td>A</td><td>0.85</td><td>331</td><td>223</td><td>291</td><td>1.484</td><td>1.137</td></tr><tr><td>13</td><td>CCC31</td><td>47.9</td><td>A</td><td>0.80</td><td>295</td><td>231</td><td>295</td><td>1.277</td><td>1.000</td></tr><tr><td>14</td><td>CCC32</td><td>47.9</td><td>A</td><td>0.80</td><td>288</td><td>231</td><td>295</td><td>1.247</td><td>0.976</td></tr><tr><td>15</td><td>CCC33</td><td>47.9</td><td>A</td><td>0.80</td><td>275</td><td>231</td><td>295</td><td>1.190</td><td>0.932</td></tr><tr><td>16</td><td>CCC34</td><td>47.9</td><td>B</td><td>0.80</td><td>296</td><td>231</td><td>298</td><td>1.281</td><td>0.993</td></tr><tr><td>17</td><td>CCC35</td><td>47.9</td><td>B</td><td>0.80</td><td>313</td><td>231</td><td>298</td><td>1.355</td><td>1.050</td></tr><tr><td>18</td><td>CCC36</td><td>47.9</td><td>B</td><td>0.80</td><td>319</td><td>231</td><td>298</td><td>1.381</td><td>1.070</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                15,
+                620,
+                953,
+                962
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "第3期"
+                    }
+                ]
+            },
+            "bbox": [
+                17,
+                13,
+                81,
+                29
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "李 毅等：钢管自密实混凝土柱轴心受压承载力试验"
+                    }
+                ]
+            },
+            "bbox": [
+                259,
+                13,
+                730,
+                29
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29 "
+                    }
+                ]
+            },
+            "bbox": [
+                912,
+                14,
+                937,
+                26
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "(C)1994-2024 China Academic Journal Electronic Publishing House. All rights reserved.htp://www.cnki.net "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                962,
+                961,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3 有限元分析"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                13,
+                58,
+                197,
+                81
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "利用有限元程序 ANSYS 建立钢管自密实混凝土轴压柱的有限元模型［16］并将程序计算的结果和试验结果进行对比和分析。"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                90,
+                468,
+                151
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "建模中 钢管采用 单元 混凝土采用Solid65单元分别建立钢管和混凝土柱的模型在接触面采用共节点处理 在进行网格划分时 钢管壁厚方向不再细分单元混凝土节点划分较密。主要材料参数取值与试验值一致取钢管弹性模量 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { s } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 9 8 \\times 1 0 ^ { 5 } \\ \\mathrm { { M P a } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "混凝土弹性模量 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 , 6 6 \\times"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 ^ { 5 } ~ \\mathrm { { M P a } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "钢管的泊松比 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\nu"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为0．28钢管的屈服强度"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { \\mathrm { y } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "和极限强度 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { \\mathrm { { u } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "分别为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 6 0 \\ \\mathrm { M P a }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "和 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 0 0 \\ \\mathrm { M P a }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "。"
+                    }
+                ]
+            },
+            "bbox": [
+                11,
+                153,
+                468,
+                320
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "计算时采用如下假设："
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                323,
+                251,
+                340
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（1）钢管和混凝土之间无滑移。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（2）钢管和混凝土的纵向本构关系选用文献［6］中给出的圆钢管混凝土柱的本构关系。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "只考虑纵向平衡和变形协调条件"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                344,
+                465,
+                425
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "图 为 式 式加载各试件试验和有限元分析的荷载-应变曲线对比可见有限元计算值与试验值吻合较好"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                427,
+                467,
+                487
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fd63945a521f384603a62fbd4060e0c92af0246c86dc4a76cd94b2774349e89b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                56,
+                494,
+                426,
+                639
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7bc0ae9b7202d90f62cde208d34f769e51b95b0128d8c6f3c130179c79bd2fef.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a）A式加载"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(b）B式加载 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "图4 试验与有限元分析的荷载-应变曲线对比"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig．4 Comparisons of Load and Strain Curves by Finite Element Analysis and Test "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                56,
+                655,
+                426,
+                799
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "利用 计算的钢管自密实高性能混凝土柱的极限承载力值 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { \\mathrm { u c 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "值见表 由表 可以得出 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { \\mathrm { u e } } / N _ { \\mathrm { u c } } 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的平均值为 均方差为 可见试验值比理论计算值高出 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "30 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "左右；Nue／Nuc2的"
+                    }
+                ]
+            },
+            "bbox": [
+                13,
+                885,
+                468,
+                969
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "平均值为1．013均方差为0．060可见试验值与有限元分析值吻合良好。"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                49,
+                953,
+                89
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4 结 语"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                500,
+                100,
+                627,
+                122
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（1）钢管自密实高性能混凝土轴压构件具有良好的承载能力和抗变形能力。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（2）不同的加载模式状态下破坏形式没有很明显的差异 但是其承载力和延性表现出一定的差异"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（3）试验所采用的自密实混凝土配合比设计合理 该配合比的钢管混凝土构件的强度承载力与普通混凝土构件基本类似 故可以采用普通钢管混凝土构件的方法进行钢管自密实高性能混凝土构件的强度承载力计算。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（4）本次试验值高于理论分析值与有限元分析值与试验值吻合较好 可为相关工程实践提供参考"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                133,
+                953,
+                360
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "参考文献："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                501,
+                371,
+                596,
+                389
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                501,
+                394,
+                602,
+                409
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "吴中伟 廉慧珍 高性能混凝土 北京 中国铁道出版社，1999."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "WU Zhong-weiLIAN Hu-i zhen．High-performance Concrete ［ M ］．Beijing：China Railw ay Publishing House,1999. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "［ 2 ］ AIT CIN P C．High-performance Concrete ［ M ］．London：E and F N Spon1998． "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "［3］ S HA H S PA H MAD S H．High-performance Con-crete and Applications ［ M ］． London： Edw ardArnold,1994."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "韩 冰 王元丰 圆钢管混凝土轴心受压构件徐变分析的比较 中国公路学报"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "HAN BingWANG Yuan-feng．Creep Analysis Comparison of Circular Axially Compressed Concretefilled Steel T ubular Members ［ J ］．China Journal of Highway and T ransport200720（2）：83-86 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "［5］ 丁发兴余志武蒋丽忠．圆钢管混凝土轴压中长柱的承载力 中国公路学报"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "DING Fa-xingYU Zh-i w uJIANG L-i zhong "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\because"
+                            },
+                            {
+                                "type": "text",
+                                "content": "．Bearing Capacity of Middle Lonq Concrete-filled Circular Steel T ubular Columns U nder Axial Compression ［J ］．China Journal of Highway and T ransport200720（4）： 65-70. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "［6］ 陈宝春韦建刚王加迫．钢管混凝土拱桥的挠度限值研究 中国公路学报"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C HEN Bao-chunWEI Jian-gangWANG Jia-po．Research on Deflection Limit Value for CFST Arch Bridge［J ］．China Journal of Highw ay and T ransport 2007,20(6).56-60. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                419,
+                953,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "30 "
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                13,
+                54,
+                26
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "建筑科学与工程学报"
+                    }
+                ]
+            },
+            "bbox": [
+                395,
+                13,
+                583,
+                30
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "2008年"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                13,
+                951,
+                29
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "李小伟 赵均海 朱铁栋 等 方钢管混凝土轴压短柱的力学性能［J］．中国公路学报200619（4）：77-81LI Xiao-weiZ HAO Jun-haiZ HU Tie-donget alMechanics Behavior of Axially Loaded Short Columnswith Concrete-filled Square Steel T ube ［ J ］．ChinaJournal of Highway and T ransport200619（4）：77-81."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "［8］ 王毅红郭增辉李先顺等．带有芯钢管的钢管混凝土节点的受力机理［J］．建筑科学与工程学报200724（1）：64-68WANG Y-i hongGU O Zeng-huiLI Xian-shunet alBearing Mechanism of Concrete filled Steel TubularJoint with Core Steel T ube ［ J ］．Journal of Architec-ture and Civil Engineering200724（1）：64-68"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "［9］ 田宏伟赵均海魏 锦．圆钢管混凝土轴压长柱的极限承载力 ［J］．建筑科学与工程学报200724（2）：74-79.TIAN Honq-wei,ZHAO Jun-hai,WEI Jin.UltimateBearing Capacity of Concrete-filled Circular Steel T u-bular Long Columns with Axial Compression ［ J ］Journal of Architecture and Civil Engineering200724(2):74-79."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "［10］ 蔡绍怀．现代钢管混凝土结构［M］．北京：人民交通出版社,2003.CAI Shao-huai "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\cdot"
+                            },
+                            {
+                                "type": "text",
+                                "content": "．Modern Steel T ube Confined ConcreteStructures ［ M ］．Beijing：China Communications Press2003."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "［11］ 钟善桐．钢管混凝土结构［M］．3版．北京：清华大学出版社"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                15,
+                48,
+                468,
+                598
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Z HONG Shan-tong．Concrete-filled Steel T ubular Structures ［ M ］．3rd ed．Beijing：T singhua U niversity Press,2003. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "［12］ 韩林海．钢管混凝土结构－－－理论与实践［ M ］．北京：科学出版社H A N Lin-hai．Concrete-filled Steel T ubular Struc-tures － T heory and Practice ［ M ］．Beijing：SciencePress2004"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "［13］ CCES 02－2004自密实混凝土设计与施工指南［S ］ CCES 02－2004Guide to Design and Construction of Self-compacting Concrete［S ］ "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "［14］ 罗小勇余志武聂建国等．自密实混凝土结构的应 用研究 铁道学报 LU O Xiao-yongYU Zh-i w uNIE Jian-guoet al．Research on Application of Self-compacting Concrete Structures ［J ］．Journal of the China Railw ay Society 2003,25(5).75-80. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "［15］ 韩林海杨有福．矩形钢管混凝土轴心受压构件强度承载力的试验研究 土木工程学报22-31.HAN Lin-haiYANG You-fu．Study on Axial BearingCapacity of Concrete-filled-stee-l tube Columns withRectangular Section ［J ］．China Civil Engineering Jour-nal,2001,34(4),22-31."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "［16］ 郝文化．ANSYS 土木工程应用实例［M］．北京：中国水利水电出版社H AO Wen-hua．A NSYS Practice Examples in CivilEngineering ［ M ］． Beijing： China Water Pow erPress,2005."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                49,
+                953,
+                597
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "《岩土力学》2009年征订通知"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                315,
+                645,
+                653,
+                669
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "岩土力学 是全国中文核心期刊 美国 工程索引 收录期刊 同时也是中国科学引文数据库收录期刊 中国科技论文统计源期刊 且被中国期刊网 中国学术期刊 光盘版 万方数据库 重庆维普数据库全文收录 欢迎读者通过各期刊网查阅本刊内容 本刊主要报道岩土力学与工程研究及工程获得的新理论 新成果 新方法 主要内容有 岩土力学与岩土工程研究 典型工程实录 测试技术与测试方法学术讨论 学术与工程动态 学术讲座等"
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                677,
+                934,
+                780
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "岩土力学 为月刊 大 开本 页 每月 日出版 国内外公开发行 每期定价 元 全年元。国内邮发代号：38-383同时自办发行国外订户可通过中国国际图书贸易总公司订阅。汇款请注明：2009年《岩土力学》刊款。"
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                783,
+                934,
+                844
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "开户行 中国建设银行武汉市科学院支行"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                846,
+                437,
+                864
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "账号：42001237053050000260"
+                    }
+                ]
+            },
+            "bbox": [
+                552,
+                846,
+                833,
+                864
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "账 户 中国科学院武汉岩土力学研究所"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                867,
+                436,
+                886
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电 话：（027）87198484"
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                867,
+                759,
+                886
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "地 址：湖北武汉市小洪山中国科学院武汉岩土力学研究所《岩土力学》编辑部"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                889,
+                761,
+                907
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "邮 编"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                909,
+                211,
+                927
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "E-mail：ytlx＠w hrsm．ac．cn "
+                    }
+                ]
+            },
+            "bbox": [
+                552,
+                910,
+                796,
+                927
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "第3期"
+                    }
+                ]
+            },
+            "bbox": [
+                17,
+                13,
+                81,
+                29
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "李 毅等：钢管自密实混凝土柱轴心受压承载力试验"
+                    }
+                ]
+            },
+            "bbox": [
+                259,
+                13,
+                730,
+                30
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "31 "
+                    }
+                ]
+            },
+            "bbox": [
+                912,
+                14,
+                936,
+                26
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                32,
+                959,
+                961,
+                977
+            ]
+        }
+    ]
+]

@@ -1,0 +1,4566 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Behavior of concrete-filled steel tubular stub columns and beams using dune sand as part of fine aggregate "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                220,
+                747,
+                264
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Wei-Hua Wang a,b , Lin-Hai Han b,⇑ , Wei Li b , Yi-Hai Jia c "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                272,
+                505,
+                291
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a College of Civil Engineering, Huaqiao University, Xiamen 361021, PR China "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b Department of Civil Engineering, Tsinghua University, Beijing 100084, PR China "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c State Key Laboratory of Silica Sand Utilization, Beijing 101500, PR China "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                296,
+                448,
+                330
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cb174cd1214b1a8caa6ff30a663bf6046285057cc918bd0b3357a57db51450a8.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                830,
+                221,
+                929,
+                252
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "h i g h l i g h t s "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                359,
+                193,
+                372
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- We provide new test data for dune sand CFST stub columns and beams. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- We analyze strength and ductility indexes for dune sand CFST members. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- We check the feasibility of current codes for dune sand CFST members. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                387,
+                482,
+                424
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "a r t i c l e i n f o "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                448,
+                213,
+                460
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Article history: "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                472,
+                127,
+                484
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received 29 July 2013 "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                484,
+                169,
+                495
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received in revised form 8 October 2013 "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                495,
+                263,
+                505
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Accepted 31 October 2013 "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                505,
+                189,
+                515
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Available online 28 November 2013 "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                515,
+                238,
+                527
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                540,
+                105,
+                552
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Concrete filled steel tube (CFST) "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                552,
+                218,
+                563
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dune sand "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                563,
+                109,
+                573
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Stub column "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                573,
+                119,
+                583
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Beam "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                585,
+                84,
+                593
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Compressive strength "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                595,
+                164,
+                606
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Flexural strength "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                606,
+                142,
+                617
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "a b s t r a c t "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                327,
+                448,
+                442,
+                460
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The concrete using the dune sand as fine aggregate is usually regarded as having low workability and low ductility, although it has certain economic advantages. Using the dune sand concrete as the filling substance of tubular structures is possibly a way to use this kind of material, for the outer tube can provide confinement to its core concrete and thus enhance the ductility of the dune sand concrete. This paper is an attempt to investigate the behavior of concrete-filled steel tubular (CFST) stub columns and beams using dune sand as part of the fine aggregate. A series of CFST stub columns and CFST beams with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "fine aggregate replacement ratio of dune sand are tested. For the stub column specimens, the main test parameters for stub column specimens are the steel ratio, the concrete strength and the cross-sectional type. For the beam specimens, the test parameter is the cross-sectional depth. The failure modes, loaddeformation relation and the strain distribution of composite stub column and beam specimens are reported, and the strength and the ductility of test specimens are discussed using various indexes. The formulae for the compressive and flexural strength of normal CFST members are tentatively used to predict the strength of composite members using dune sand. "
+                    }
+                ]
+            },
+            "bbox": [
+                327,
+                472,
+                929,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { © }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2013 Elsevier Ltd. All rights reserved. "
+                    }
+                ]
+            },
+            "bbox": [
+                695,
+                629,
+                929,
+                641
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                678,
+                157,
+                691
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "River sand resources are excessively exploited against the background of the increasing demand of the fine aggregate in the concrete production. As one of the possible alternative options, the abundant dune sand from deserts may be used in the concrete mixtures instead of the river sand. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                704,
+                477,
+                769
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In China, the desertification area reaches nearly a quarter of the land area, and the dune sand has been used in constructions for approximately 100 years. In 1920, the dune sand concrete was used in building construction in China, and a specification of super fine sand concrete (BJG19-65) was published in 1965 [1]. According to the specification, the fineness modulus of super fine sand was defined as less than 1.5 or the average particle size was less "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                771,
+                477,
+                863
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "⇑ Corresponding author at: Department of Civil Engineering, Tsinghua University, Beijing 100084, PR China. Tel./fax: +86 10 62797067. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                883,
+                477,
+                905
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "E-mail address: lhhan@tsinghua.edu.cn (L.-H. Han). "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                906,
+                334,
+                916
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 2 5 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The average grain size ranged from 0.25 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 5 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was defined as the fine sand, and it was classified as the coarse sand when the average particle size was larger than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 5 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The diameter of dune sand ranges from 0.08 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 6 3 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and the fineness modulus is usually 0.45-0.88 [2,3]. The low fineness modulus and the poor gradation are the critical problems when using the dune sand for making concrete. The fresh concrete mixture using the dune sand as the fine aggregate has several special characteristics, such as high cohesiveness, small slump, poor fluidity and easy of segregation and low workability. In addition, the compressive strength of the dune sand concrete is usually low too [2,4]. "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                678,
+                929,
+                836
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Some research has been conducted on the workability and the mechanical behavior of cement pastes or mortars with dune sand powder [2–5]. Zhang et al. [5] carried out experimental research on the performance of mortar and concrete made of Tengri dune sand and Mu Us dune sand (both in China). Chemical composition and physical properties of dune sand were presented, after the "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                837,
+                929,
+                916
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Construction and Building Materials 51 (2014) 352–363 "
+                    }
+                ]
+            },
+            "bbox": [
+                344,
+                55,
+                636,
+                69
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                52,
+                87,
+                154,
+                157
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                52,
+                158,
+                154,
+                174
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Contents lists available at ScienceDirect "
+                    }
+                ]
+            },
+            "bbox": [
+                363,
+                89,
+                621,
+                102
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Construction and Building Materials "
+                    }
+                ]
+            },
+            "bbox": [
+                285,
+                118,
+                699,
+                141
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "journal homepage: www.elsevier.com/locate/conbuildmat "
+                    }
+                ]
+            },
+            "bbox": [
+                260,
+                158,
+                724,
+                174
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Construction  and Building MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                830,
+                81,
+                929,
+                174
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "0950-0618/$ - see front matter "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2013 Elsevier Ltd. All rights reserved. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                928,
+                423,
+                939
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "http://dx.doi.org/10.1016/j.conbuildmat.2013.10.049 "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                939,
+                322,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Nomenclature "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                85,
+                94,
+                181,
+                105
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ca4476c770a01f5b24c0df03e01e42bcf13e540bdbba75f960ebb2696405f732.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Ac</td><td>cross-sectional area of concrete</td></tr><tr><td>As</td><td>cross-sectional area of steel</td></tr><tr><td>Asc</td><td>cross-sectional area of composite member, given by \nAs + Ac</td></tr><tr><td>b</td><td>width of composite beams sections</td></tr><tr><td>B</td><td>width of square stub column sections</td></tr><tr><td>D</td><td>outside diameter of circular CFST sections</td></tr><tr><td>Ec</td><td>modulus of elasticity of concrete</td></tr><tr><td>fc</td><td>characteristic cylinder strength of concrete</td></tr><tr><td>fck</td><td>characteristic compressive strength of concrete</td></tr><tr><td></td><td>(fck = 0.67 fc for normal strength concrete)</td></tr><tr><td>fcu</td><td>compressive strength concrete cube</td></tr><tr><td>fy</td><td>yield strength of steel</td></tr><tr><td>fscy</td><td>nominal yielding strength of composite sections</td></tr><tr><td>fu</td><td>ultimate strength of steel</td></tr><tr><td>h</td><td>depth of composite beam sections</td></tr><tr><td>K0.2</td><td>initial flexural stiffness</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                80,
+                118,
+                495,
+                334
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ff4816cb92e18b4b1d60346df52584cc560681f034042b934fb8d55b2f8e0e0b.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>K0.6</td><td>working stage flexural stiffness</td></tr><tr><td>L</td><td>axial length of stub columns or beams</td></tr><tr><td>M</td><td>bending moment</td></tr><tr><td>Mu</td><td>ultimate flexural strength</td></tr><tr><td>N</td><td>axial load</td></tr><tr><td>Nu</td><td>ultimate compressive strength</td></tr><tr><td>t</td><td>wall thickness of steel tubes</td></tr><tr><td>um</td><td>mid-span deflection of composite beams</td></tr><tr><td>Wsc</td><td>modulus of composite beam sections</td></tr><tr><td>α</td><td>steel ratio (=As/Ac)</td></tr><tr><td>Δ</td><td>axial shortening of stub columns</td></tr><tr><td>ξ</td><td>confinement factor of composite section ( = α ·fy/fck)</td></tr><tr><td>ε</td><td>strain</td></tr><tr><td>εp</td><td>peak strain related to maximum axial load</td></tr><tr><td>εy</td><td>yield strain</td></tr><tr><td>φ</td><td>curvature at mid-span of beams</td></tr><tr><td>γm</td><td>flexural strength index</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                517,
+                118,
+                895,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "additives were added to the fresh concrete mixture, the maximum cube concrete strength at 28 days was 51.4 MPa with a slump of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 5 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Al-Harthy et al. [3] presented the properties of concrete using different concrete mixtures, the workability ranged from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 6 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 2 2 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the percentages of dune sand replacement was from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Compared to the fully replacement, when the fine aggregate were partially replaced, the workability improved and the strength of concrete decreased with the increase in dune sand replacement. Alhozaimy et al. [6] reported the properties of the high strength concrete under normal and autoclaved curing using the white sand or the dune sand. Results showed that it was possible to use the dune sand or the white sand as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "partial cement replacement under autoclaved curing. One of the benefits of using dune sand as the fine aggregate is that the construction cost will be reduced in some desert area. Although the workability and the strength of the dune sand concrete may not be as good as the normal concrete, the dune sand could still be an available alternative material as the fine aggregate in concrete mixture if proper curing methods are taken. Filling the concrete consisting of dune sand into steel tubes may be a possible way to use this kind of materials. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                384,
+                492,
+                660
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Concrete-filled steel tubular (CFST) structures have been widely used in high-rise buildings or bridges, and the blooming research on the mechanical behavior of CFST structures have been carried out in the past decades [7–11]. The mechanical behavior on the normal CFST members under axial compression and bending were sufficiently studied [12–15]. Recently, studies were also conducted on the CFST stub columns with special concrete infilling, such as the high performance plain concrete, the lightweight concrete "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                662,
+                492,
+                767
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "and the recycled aggregate concrete [16–18]. Due to the confinement of the outer steel tube, CFST structures using the dune sand concrete (using dune sand as part of the fine aggregate) are expected to have favorable performance under static or dynamic loading. "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                384,
+                944,
+                450
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To date, the mechanical performance of CFST members using the concrete consisting of dune sand as part of the fine aggregate (dune sand CFST) has not been studied yet. There’s no test data found in literature for such kind of CFST members. Hence, the objectives of this research are as follows: (1) to study the compressive and flexural behavior of dune sand CFST members by tests. (2) to check the feasibility of current codes in the prediction of the stiffness and strength of dune sand CFST members. A "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "fine aggregate replacement ratio of the dune sand is used for the practical reason in this investigation, i.e. the mass of the dune sand is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the total mass of fine aggregate, and the normal curing method can be applied in the experiments. "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                451,
+                944,
+                610
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Experimental program "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                517,
+                625,
+                657,
+                636
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1. Specimen preparation "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                517,
+                646,
+                650,
+                656
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "There are 26 stub column and beam specimens in total, including 10 dune sand CFST stub columns, 4 stub columns with hollow steel section, 6 dune sand reinforcement concrete (RC) stub columns and 6 dune sand CFST beams with rectangular cross section. The components of concrete mixture were shown in Fig. 1. The test parameters for composite column specimens were the confinement factor, the compressive strength of the concrete, and the cross-sectional type. Each specimen had a duplicated one with same parameters and loading conditions. The summary of the dune sand CFST columns is listed in Table 1, where the confinement factor n ¼  A f "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\begin{array} { r } { \\xi = \\frac { A _ { s } f _ { y } } { A _ { c } f _ { \\mathrm { c k } } } = \\alpha \\frac { f _ { y } } { f _ { \\mathrm { c k } } } , A _ { s } } \\end{array}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "As fy and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are areas of steel tubes and core concrete, respectively; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathscr { X }"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                667,
+                946,
+                769
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e8e129e91b4aba0d366f5966eddc5f7dd1f67c97a2acb23be0db90a2750ae8d5.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a) Dune sand fine aggregate "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                253,
+                784,
+                425,
+                901
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e7a2014b06c4e51d10af8fbbba4cb78fad5f7a3b229086e72e8659a717519799.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b) Coarse aggregate "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                433,
+                783,
+                589,
+                901
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/aa561e908702acec3f191454c74f0c614760767936b721fed1624f8963e44366.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(c) Concrete mixture "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. Components of concrete mixture. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                601,
+                783,
+                757,
+                901
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W.-H. Wang et al. / Construction and Building Materials 51 (2014) 352–363 "
+                    }
+                ]
+            },
+            "bbox": [
+                319,
+                56,
+                694,
+                68
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "353 "
+                    }
+                ]
+            },
+            "bbox": [
+                922,
+                56,
+                944,
+                66
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "is the steel ratio.) The test parameter for beam specimens was the depth of beam sections. The summary of the dune sand CFST beams is listed in Table 2. The total height (H) of stub columns was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 2 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(including two "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "thick cover plates), and the total length (L) of the beams was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 0 0 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with a clear span of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 8 0 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The cross-sectional profiles of those RC stub columns were equal to those of the core concrete in CFST specimens. Four and six longitudinal reinforcing bars with the diameter of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were assigned for the RC columns with a square or circular cross-section, respectively. For all dune sand RC stub columns, the diameter of stirrups was 6 mm and the separation distance was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The cross-sectional details can be found in Fig. 2(a and b) for the column and beam specimens, respectively. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                81,
+                477,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cover plates with a thickness of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were used for all specimens to ensure the integrity and the load transfer. One cover plate was welded to the tube end before the concrete placement, and the other one was welded after the solidification and surface treatment of core concrete. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                200,
+                477,
+                244
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2. Material properties "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                262,
+                171,
+                273
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The concrete with the cube strength of C50 and C80 was used in the tests. The mixture proportions for core concrete are listed in Table 3, where the dune sand replacement of fine aggregate was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for all specimens. The compressive cubic strength "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( f _ { \\mathrm { c u } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for C50 and C80 concrete was 54 MPa and 78 MPa, respectively. The slump for C50 and C80 concrete was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 2 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 3 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively. To ensure the compaction of the core concrete, the fresh concrete was vibrated for 2 min using concrete vibrator during the placement. The normal curing method is used for all specimens. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                282,
+                477,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For the steel material, the measured average yield strength "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( f _ { \\mathrm { y } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the ultimate strength "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( f _ { \\mathrm { u } } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the modulus of elasticity "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( E _ { s } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the Poisson’s ratio "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\gamma _ { s } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are listed in Table 4. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                370,
+                477,
+                402
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.3. Test setup and instrumentation "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                419,
+                228,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The schematic view of the test setup for stub columns is shown in Fig. 2(a), where the experiment was conducted on a machine with a loading capacity of 5000 kN. Strain gauges were arranged at the mid-height of the column, and two displacement transducers were installed to record the axial shortening of the specimens. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                442,
+                478,
+                496
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The schematic view of the test setup for beam specimens is shown in Fig. 2(b). The load was applied on two quarter points by a rigid spread beam, and two curvature gauges were placed nearby the mid-span to record the curvature of beam. Three steel strain gauges were placed longitudinally at the mid-span of beam specimens, as shown in Fig. 2(b). "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                81,
+                927,
+                134
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For the loading protocol of the specimens, the load control method was used before the specimen yielded, where the ultimate strength is estimated by DBJ specification tentatively. Each loading interval was 1/10 of the estimated ultimate strength. The displacement control method was applied after the yielding with a speed of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\mathrm { m m / m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "until the failure. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                134,
+                929,
+                189
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Test results "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                500,
+                206,
+                600,
+                219
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.1. Stub columns "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                500,
+                233,
+                613,
+                245
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(1) Failure modes "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                517,
+                259,
+                636,
+                272
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The whole test was performed in a smooth and controlled way. Fig. 3 shows the typical failure modes of stub column specimens subjected to compression. For the unfilled hollow steel tube specimens, both inward and outward local buckling occurred on the steel tubes, as shown in Fig. 3(a). For the composite stub columns, only the outward local buckling was shown on steel tubes, and the buckling position was lower than that of the hollow tubes, as shown in Fig. 3(b). Moreover, severer local buckling was found for the specimen with a thinner tube wall thickness. For the hollow steel tubes with circular cross sections, both inward and outward buckling located at about 2/3 height and near the top end of columns. For composite CFST columns, the inward local buckling of steel tubes were prevented and only the outward local buckling was found, as shown in Fig. 3(d). Failure modes of square and circular dune sand RC columns were presented in Fig. 3(e and f). A large amount of diagonal cracks appeared on the concrete surface, and the concrete crushed near the loaded ends. "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                273,
+                929,
+                496
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f377c074d0678defb59ca0a6d5c8af1d1c97c91a71f32f6f2740bcb44f106b9f.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1 Summary of stub column specimens. "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "a Average value. "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">No.</td><td rowspan=\"2\">Cross-sectional type</td><td rowspan=\"2\">Specimen label</td><td rowspan=\"2\">Cross-sectional dimension B(mm) × B(mm) × t (mm)/D(mm) × t (mm)</td><td rowspan=\"2\">Confinement factor ξ</td><td rowspan=\"2\">Strength of core concrete fcu(MPa)</td><td rowspan=\"2\">Peak displacement (mm)</td><td colspan=\"2\">Compressive strength (kN)</td></tr><tr><td>Measured</td><td>Eq. (A.1)</td></tr><tr><td>1</td><td rowspan=\"6\">t B</td><td>S-3-8-1</td><td>160 × 160 × 3.46</td><td>0.55</td><td>78</td><td>2.55</td><td>2011</td><td>2172a</td></tr><tr><td>2</td><td>S-3-8-2</td><td>160 × 160 × 3.46</td><td>0.55</td><td>78</td><td>2.15</td><td>2333</td><td></td></tr><tr><td>3</td><td>S-3-5-1</td><td>160 × 160 × 3.46</td><td>0.79</td><td>54</td><td>1.85</td><td>1784</td><td>1798a</td></tr><tr><td>4</td><td>S-3-5-2</td><td>160 × 160 × 3.46</td><td>0.79</td><td>54</td><td>1.78</td><td>1812</td><td></td></tr><tr><td>5</td><td>S-5-8-1</td><td>160 × 160 × 5.43</td><td>0.92</td><td>78</td><td>1.92</td><td>2751</td><td>2771a</td></tr><tr><td>6</td><td>S-5-8-2</td><td>160 × 160 × 5.43</td><td>0.92</td><td>78</td><td>2.08</td><td>2791</td><td></td></tr><tr><td>7</td><td rowspan=\"4\">t B</td><td>S-S-3-1</td><td>160 × 160 × 3.46</td><td>-</td><td>-</td><td>1.36</td><td>577</td><td>606a</td></tr><tr><td>8</td><td>S-S-3-2</td><td>160 × 160 × 3.46</td><td>-</td><td>-</td><td>1.09</td><td>635</td><td></td></tr><tr><td>9</td><td>S-S-5-1</td><td>160 × 160 × 5.43</td><td>-</td><td>-</td><td>2.23</td><td>1165</td><td>1179a</td></tr><tr><td>10</td><td>S-S-5-2</td><td>160 × 160 × 5.43</td><td>-</td><td>-</td><td>2.70</td><td>1193</td><td></td></tr><tr><td>11</td><td rowspan=\"4\">t B</td><td>S-R-5-1</td><td>153 × 153</td><td>-</td><td>54</td><td></td><td>801</td><td>799a</td></tr><tr><td>12</td><td>S-R-5-2</td><td>153 × 153</td><td>-</td><td>54</td><td></td><td>796</td><td></td></tr><tr><td>13</td><td>S-R-8-1</td><td>153 × 153</td><td>-</td><td>78</td><td></td><td>1420</td><td>1421a</td></tr><tr><td>14</td><td>S-R-8-2</td><td>153 × 153</td><td>-</td><td>78</td><td></td><td>1422</td><td></td></tr><tr><td>15</td><td rowspan=\"2\">t D</td><td>C-3-8-1</td><td>Φ160 × 3.46</td><td>0.58</td><td>78</td><td>5.65</td><td>2044</td><td>2057a</td></tr><tr><td>16</td><td>C-3-8-2</td><td>Φ160 × 3.46</td><td>0.58</td><td>78</td><td>4.60</td><td>2069</td><td></td></tr><tr><td>17</td><td rowspan=\"2\">t D</td><td>C-S-3-1</td><td>Φ160 × 3.46</td><td>-</td><td>-</td><td>6.88</td><td>722</td><td>729a</td></tr><tr><td>18</td><td>C-S-3-2</td><td>Φ160 × 3.46</td><td>-</td><td>-</td><td>8.37</td><td>736</td><td></td></tr><tr><td>19</td><td rowspan=\"2\">t D</td><td>C-R-8-1</td><td>Φ153</td><td>-</td><td>78</td><td></td><td>1215</td><td>1192a</td></tr><tr><td>20</td><td>C-R-8-2</td><td>Φ153</td><td>-</td><td>78</td><td></td><td>1168</td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                52,
+                538,
+                931,
+                935
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "354 "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                56,
+                73,
+                66
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W.-H. Wang et al. / Construction and Building Materials 51 (2014) 352–363 "
+                    }
+                ]
+            },
+            "bbox": [
+                302,
+                56,
+                677,
+                68
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ac3f83e8cf2ac4d1e1607c28ded34ad24c93d6b71d06e3b5393394053f799089.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2 Summary of beam specimens. "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "a Average value. "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">No.</td><td rowspan=\"2\">Cross-sectional type</td><td rowspan=\"2\">Specimen label</td><td rowspan=\"2\">Sectional dimension b × h × t (mm)</td><td rowspan=\"2\">Strength of core concrete fcu (MPa)</td><td rowspan=\"2\">Mid-span deflection um (mm)</td><td colspan=\"3\">Flexural strength Mu (kN m)</td></tr><tr><td>Measured</td><td>Eq. (A.2)</td><td></td></tr><tr><td>1</td><td rowspan=\"6\">t h</td><td>B160-1</td><td>160 × 160 × 3.46</td><td>78</td><td>192.8</td><td>59.3</td><td>59.4a</td><td>55.6</td></tr><tr><td>2</td><td>B160-2</td><td>160 × 160 × 3.46</td><td>78</td><td>189.7</td><td>59.5</td><td></td><td></td></tr><tr><td>3</td><td>B240-1</td><td>160 × 240 × 3.46</td><td>78</td><td>197.1</td><td>136.8</td><td>140.8a</td><td>107.8</td></tr><tr><td>4</td><td>B240-2</td><td>160 × 240 × 3.46</td><td>78</td><td>197.8</td><td>144.9</td><td></td><td></td></tr><tr><td>5</td><td>B320-1</td><td>160 × 320 × 3.46</td><td>78</td><td>198.2</td><td>208.6</td><td>206.0a</td><td>176.2</td></tr><tr><td>6</td><td>B320-2</td><td>160 × 320 × 3.46</td><td>78</td><td>195.3</td><td>203.3</td><td></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                105,
+                944,
+                235
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/85cc759f23a49546d6a750895f5bce798e0b1dd087d184e185d8cfb0068f9496.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a) Stub column "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                218,
+                278,
+                759,
+                438
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0729ea015fa798ae2e215e58265544098de955bf70218d99f915e46bb4d398fb.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. Schematic view of test setup (Units: mm). "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                236,
+                467,
+                793,
+                602
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ea83d047caf29819a14d03229abb4e1a4c89a4f85628ac6e0f8fd5f498ddde62.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 3 Mixture proportions and material properties of concrete. "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Core concrete</td><td>Cement (kg/m3)</td><td>Water (kg/m3)</td><td>Sand (kg/m3)</td><td>Coarse aggregate (kg/m3)</td><td>Water reducer (kg/m3)</td><td>28 days fcu (MPa)</td><td>Ec (N/mm2)</td></tr><tr><td>C50</td><td>477</td><td>181</td><td>607</td><td>1128</td><td>6.68</td><td>54</td><td>3.43 × 104</td></tr><tr><td>C80</td><td>485</td><td>144</td><td>618</td><td>1147</td><td>6.79</td><td>78</td><td>3.72 × 104</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                67,
+                677,
+                944,
+                726
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4562cb8c61400cb0654fb65ddf4ca369917081f29cd67791f0b42d1b9e16da81.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 4 Material properties of steel. "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Thickness or diameter (mm)</td><td>fy(MPa)</td><td>fu(MPa)</td><td>Es(N/mm2)</td><td>Poisson&#x27;s ratio</td></tr><tr><td>3.46</td><td>363</td><td>530</td><td>2.03 × 10^5</td><td>0.297</td></tr><tr><td>5.43</td><td>353</td><td>529</td><td>2.05 × 10^5</td><td>0.303</td></tr><tr><td>10</td><td>426</td><td>623</td><td>2.02 × 10^5</td><td>0.287</td></tr><tr><td>6</td><td>398</td><td>491</td><td>2.10 × 10^5</td><td>0.290</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                67,
+                781,
+                492,
+                863
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After the test, the outer steel tube was removed to inspect the failure mode of inner concrete. Fig. 4(a and b) show failure modes of core concrete for square and circular CFST columns, respectively. It was found that the core concrete was crushed where the steel tube buckled, while the concrete integrity was well kept. No cracks "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                885,
+                495,
+                952
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "were found on the core concrete except the crushed zone. Besides, the crushed area for square CFST columns was larger than that of circular CFST columns when the same axial shortening was reached. It is due to the fact that the outer tube with circular cross section could provide a better confinement to core concrete. "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                752,
+                944,
+                819
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(2) Axial load (N) versus axial shortening (D) responses "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                532,
+                832,
+                897,
+                846
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The axial load (N) versus the axial shortening (D) curves for all stub column specimens were presented in Fig. 5. For square CFST specimens, the axial load descended quickly after it reached the peak point, as shown in Fig. 5(a). When comparing the residual strength of S-3-8 series "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( f _ { \\mathrm { c u } } = 7 8 \\mathrm { M P a } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") and that of the S-3-5 series "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( f _ { \\mathrm { c u } } = 5 4 \\ : \\mathrm { M P a } ) _ { \\mathrm { \\ell } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), it was found that the strength of the core concrete only had a moderate effect on the residual bearing capacity of "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                858,
+                946,
+                952
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W.-H. Wang et al. / Construction and Building Materials 51 (2014) 352–363 "
+                    }
+                ]
+            },
+            "bbox": [
+                319,
+                56,
+                694,
+                68
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "355 "
+                    }
+                ]
+            },
+            "bbox": [
+                922,
+                56,
+                944,
+                66
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "square CFST columns. It can also be found that the thickness of steel tube (t) had an obvious effect on the peak displacement, which was defined as the axial shortening corresponding to the maximum axial load. For instance, for the S-3-8 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\dot { t } = 3 . 4 6 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and S-5-8 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathit { \\check { t } } = 5 . 4 3 \\ : \\mathrm { m m } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ") series, the peak displacements were "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 2 2 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 4 7 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(average value), respectively. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                81,
+                477,
+                160
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "N–D curves of hollow steel tubes are shown in Fig. 5(b). The N– D curves fell down more slowly for specimens with a thicker steel tube, after the ultimate compressive strength was reached. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                160,
+                477,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For circular CFST specimens, the load decrease was moderate after the ultimate compressive strength was reached, as shown in Fig. 5(c), which may due to the more effective confinement provided by the outer tube. The ultimate compressive strength of CFST specimen was significantly higher than that of hollow steel tube. When compared to the square specimens, the N–D curves of the circular specimens fell down slowly after the ultimate compressive "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                200,
+                477,
+                292
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "strength was reached. Besides, the average peak displacement of the circular specimens was about twice of that of the square counterpart. "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                81,
+                929,
+                121
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "N-D curves of RC stub column specimens are illustrated in Fig. 5(d). When compared to N–D curves of composite counterparts shown in previous figures, the axial load of RC stub columns fell down more quickly after the ultimate compressive strength was reached. The brittle failure occurred on the specimens using high strength concrete. When compared to the specimens with higher concrete strength, the load decrease is slower for specimens with lower concrete strength. "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                119,
+                929,
+                226
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(3) Axial load (N) versus strain (e) responses "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                239,
+                808,
+                253
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 6 shows typical N–e curves of column specimens, where S1– S4 are the compressive axial strain recorded by the steel strain "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                266,
+                929,
+                293
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2782b60c55b2f64405a239cbf497c9ab9961cf2ab5407adf5d8e22f347095c51.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a) Square hollow steel tubes "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                223,
+                321,
+                495,
+                448
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6f352e1891cb09246049896d0efe6f57c0f457563adebc0a1886c228b0b9eb9b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b) Square CFST columns "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                512,
+                322,
+                764,
+                447
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ee51f0416ae228eb44730ecdbd33114852542fa22a36bbe444c737a51ff45478.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(c) Circular hollow steel tubes "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                228,
+                465,
+                482,
+                585
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/11ae3803d9b8050b05e34e132e105e9a9fac9d47230d12ab94869938a7a7b0fa.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(d) Circular CFST columns "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                512,
+                465,
+                761,
+                585
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0309b3be60bcd69b2a314179146e406f0fbfd908f8a40feabfa882817398ea51.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(e) Square RC columns "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                231,
+                602,
+                364,
+                721
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/40fc68f8f310359558485835459666aa1c63f1a3662d8f41535d9d6967e9474b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(f) Circular RC columns "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. Failure modes of stub columns. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                514,
+                602,
+                645,
+                721
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8cb9bd65e939a9c0826f9028e300d77e026ec329321d393560aa131f1dde34b7.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a) Circular CFST columns "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                228,
+                789,
+                497,
+                915
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/06539f9a52f91a150bbec7dd82bfcdb5ebcc3452bf73b2f9e64eaa7dca28a49b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b) Square CFST columns "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. Failure modes of inner concrete. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                505,
+                788,
+                747,
+                915
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "356 "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                56,
+                73,
+                66
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W.-H. Wang et al. / Construction and Building Materials 51 (2014) 352–363 "
+                    }
+                ]
+            },
+            "bbox": [
+                302,
+                56,
+                677,
+                68
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "gauges, as shown in Fig. 2. The S5 is the nominal average axial strain, calculated from the measured axial shortening (D) normalized by the total height (H). Due to the composite action between the core concrete and the steel tube, the core concrete of dune sand CFST columns could provide a support to the steel tube when it buckled locally, and only outward buckling was found on the steel "
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                81,
+                495,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "tube. However, significant differences were found on the strain of steel tubes, due to the different local buckling degree occurred on the steel tubes. The peak strain "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\varepsilon _ { \\mathrm { p } } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "related to the maximum axial load was also presented out in Fig. 6. It can be seen that the strength development of composite members was more quickly than that of the hollow steel tube. The peak strains of the circular "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                81,
+                949,
+                161
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/41c2dfe85d660a025c5108924b344506ad14971019216294f696463a817b9694.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a) Square CFST columns "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                166,
+                191,
+                500,
+                349
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d41a01800f77c29b4d1193ff94b81e3e2bf2a349f529a9421b82e0db4de3986d.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b) Square hollow steel tubes "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                515,
+                201,
+                840,
+                349
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/24245bde0306c22bcb648b28bebd88fbdfcf9cc60a35d94d131afec5826a596d.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(c) Circular columns "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                166,
+                378,
+                485,
+                527
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cc1e5545cf2c7b3878c88bcff13045a23a70cc8194df4d8e9d84766e5a25cb27.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(d) RC columns "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 5. Axial versus axial shortening (N–D) relationships of compressive stub columns. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                515,
+                379,
+                833,
+                527
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/25abb9379fece006a82c46d4119db0db2557e2b3665549f9c44564206c8b100f.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a) Square CFST column (S-3-5-2) "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                220,
+                601,
+                500,
+                742
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a4d06c9766794f834afd9259d3e9b79aa15a695c8d68c448e91558f449c8e8ed.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b) Square hollow steel tube (S-S-5-2) "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                519,
+                601,
+                796,
+                742
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c1381925af7133d3c8b465b53e63f035d221dbf7af61332868c91e517852a196.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(c) Circular CFST column (C-3-8-2) "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 6. Typical axial load versus strain (N–e) curves of compressive stub columns. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                376,
+                775,
+                662,
+                914
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W.-H. Wang et al. / Construction and Building Materials 51 (2014) 352–363 "
+                    }
+                ]
+            },
+            "bbox": [
+                319,
+                56,
+                694,
+                68
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "357 "
+                    }
+                ]
+            },
+            "bbox": [
+                922,
+                56,
+                944,
+                66
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "composite specimens were larger than those of the square specimens, for the circular cross section confined the core concrete better and delayed the strength development. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                81,
+                478,
+                121
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.2. Beams "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                141,
+                122,
+                153
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(1) Failure modes "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                167,
+                186,
+                180
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 7 shows the failure modes of composite beam specimens. It can be seen in general, the failure mode of all specimens was overall bending, as shown in Fig. 7(a). Fig. 7(b) shows a detailed view of the buckling mode on the steel tube. A series of wave like outward local buckling was found in the compressive steel tubes between two loading points. The outward local buckling was more obvious for the specimens with a higher beam depth. After the test, the outer steel tube was removed, and it was found that the core concrete was crushed where the outward local buckling occurred, as shown in Fig. 7(b). The typical crack pattern for core concrete of beam specimen is illustrated in Fig. 7(c). It was found that the core concrete in the bottom tensile zone cracked, and both amount and width of cracks increased with the increase of beam depth. Most cracks extended less than half of the beam height, and some of them extended above the axial centre line. That was due to the neutral axis moved up when the concrete cracked [14], and this could also be demonstrated in Fig. 12. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                181,
+                477,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 8 illustrates the typical deflection curves of beam specimens where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M _ { \\mathbf { u } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the ultimate flexural strength when the tensile fiber strain of the bottom steel reached "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 { , } 0 0 0 \\mu \\varepsilon"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The sinusoids with the same peak value are presented in dashed lines for comparison. It was found that the deflection curves of flexural specimens at different load levels fitted half-sine waves well, even when the mid-span deflections were very large. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                404,
+                477,
+                498
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2) Moment (M) versus mid-span deflection "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( u _ { \\mathrm { m } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "relationships "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                510,
+                472,
+                524
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The moment (M) versus mid-span deflection "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( u _ { \\mathrm { m } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "curves of the beam specimens were presented in Fig. 9, where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                537,
+                478,
+                564
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ed2257fe6e52689c627c8290da94619bbe198bd3200a7853733f609d21ff3ad5.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 8. Typical deformation curves of beam specimens (B-24-1). "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                571,
+                81,
+                863,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "recorded cross-sectional moment, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "u _ { \\mathrm { m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the corresponding midspan deflection. It can be seen that after the steel tube walls yielded, the cross-sectional moment "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( M )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at the mid-span still increased with the increase of midspan deflection. The maximum cross-sectional moment rose greatly with the increase of beam depth. The cross-sectional moment corresponding to the maximum tensile fibre strain of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 { , } 0 0 0 \\mu \\varepsilon"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was defined as the ultimate flexural strength "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( M _ { \\mathrm { u } } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of composite beams [7] (Fig. 10). It should be noted that the cross-sectional moment still developed when the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 { , } 0 0 0 \\mu \\varepsilon"
+                    },
+                    {
+                        "type": "text",
+                        "content": "strain was reached, while the increase of the load was less than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                298,
+                929,
+                443
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The typical moment (M) versus extreme fibre compressive and tensile strains (e) relationships are shown in Fig. 10. The steel yielding strain "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathit { \\Omega } _ { \\mathit { \\varepsilon } _ { y } } = 1 8 1 5 \\mu \\mathrm { { z } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of both tensile zone and compressive zone are presented in the figure as well. It can be seen that the strains at different positions showed a significantly difference. The strain on the top surface was under compression and the strains at the mid-height and the bottom surface was under tension. It was due to the fact that the neutral axis location was moved up when the concrete was filled. "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                443,
+                929,
+                564
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/eb49f05fe34458d3a64d8ba73fb6c2c1fbe78bf7a2225240c7f94a530d5e0b56.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a) General view "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                257,
+                578,
+                742,
+                689
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/764ab06ddd74291be4e5a110f4f44bb22dcfd9795dc931a403f2da2613ec4c3a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b) Compressive core concrete (B-320-1) "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                236,
+                707,
+                668,
+                809
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/576e35ba0c22f954d41744e55172310f490e6e965d3a16896016ef8bb3a04882.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(c) Typical concrete cracks (B-320-1) "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 7. Failure modes of beam specimens. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                285,
+                828,
+                710,
+                916
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "358 "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                56,
+                73,
+                66
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W.-H. Wang et al. / Construction and Building Materials 51 (2014) 352–363 "
+                    }
+                ]
+            },
+            "bbox": [
+                302,
+                56,
+                678,
+                68
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/91438373a44b1d14578ea14110b4d744d5333a0918f9e47116dd10624e18f9ee.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a) Sectional height "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "h { = } 1 6 0 \\ \\mathrm { m m }"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                168,
+                84,
+                495,
+                239
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ea4ddf25b909d8fa8e9b1571947c1c251daa5f8c3ccd6e7928f9af91adc9a632.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b) Sectional height "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "h { = } 2 4 0 \\ \\mathrm { m m }"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                512,
+                81,
+                842,
+                239
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/aef7d5e65993d0c923e4e7e7d81729ef0bfa46ffaae794313d0107f7822741f6.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(c) Sectional height "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "h { = } 3 2 0 \\ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 9. Comparison on "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M - u _ { \\mathrm { m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "curves of flexural beams. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                341,
+                271,
+                670,
+                424
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/06f74decd37223bbf8b36e27151badf6e7675f9ce4e847d0b69c0e36bc7742ae.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a) Contradistinctive specimen-1 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                233,
+                496,
+                500,
+                656
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f9ce1a09afdd3064f6601aeb27de55dfa4f0e3de32d8fce3c11bf5b96754ad8d.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b) Contradistinctive specimen-2 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 10. Moment (M) versus longitudinal strain (e) of steel tube wall at the mid-span of flexural beams. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                515,
+                496,
+                781,
+                656
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d5a1f361c1e1fa1eb9a07fcef94101043f7e0972a35588ae1eefdc19db7e2a80.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 11. Moment (M) versus curvature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\phi \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "curves of composite beams. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                94,
+                738,
+                472,
+                916
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d227495e29a8fec8332853b6050925e446bcab4e9fbf16878c58bdaf275c94c4.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 12. Steel strain distributions at mid-span (B160-1). "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                584,
+                736,
+                880,
+                916
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W.-H. Wang et al. / Construction and Building Materials 51 (2014) 352–363 "
+                    }
+                ]
+            },
+            "bbox": [
+                319,
+                56,
+                694,
+                68
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "359 "
+                    }
+                ]
+            },
+            "bbox": [
+                922,
+                56,
+                944,
+                66
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ebf673ac1bd0afbdceef0413c13c94c648a7b22faa4030d7ff5cebef4e844484.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a) CFST stub columns "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                213,
+                84,
+                482,
+                243
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/686700172454b39fdfee4106f0052a74c365dead418409d06d373934d8d4cd2a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b) CFST Beams "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                499,
+                81,
+                769,
+                243
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/77c6a1b4c49e0fbd180eb400cf17ca19d627e8ed728d028af6c20c59d7ee2b35.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 13. Strength index. "
+                    },
+                    {
+                        "type": "text",
+                        "content": "(a) Stub columns "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                231,
+                306,
+                472,
+                467
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/77ed7ca41118d6ffb5eb2ffa8423c8e665f5ec26c09980d4e82923d244908f83.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b) Flexural beams "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                492,
+                306,
+                742,
+                465
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0e41c9b13a2c5cc8b4a77ac2ca88846c6aaf04a057bad7577413d9b950e8b202.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 14. Calculation of ductility index. "
+                    },
+                    {
+                        "type": "text",
+                        "content": "(a) Stub column specimens "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                236,
+                529,
+                742,
+                694
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a3d01ec64d1caadbad2aa43c653b374d94bb29574d81a9415c310903149ffc7f.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b) Flexural beam specimens "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 15. Ductility index. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                366,
+                725,
+                643,
+                887
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "360 "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                56,
+                73,
+                66
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W.-H. Wang et al. / Construction and Building Materials 51 (2014) 352–363 "
+                    }
+                ]
+            },
+            "bbox": [
+                304,
+                56,
+                678,
+                69
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a08095b8ef5d46fc0cdc9758f452f82764cd5cb611fd63996f9c82fc6e9e6018.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 5 Calculated results of compressive of composite stub columns (kN). "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>No.</td><td>Specimen label</td><td>Measured results (Average)</td><td>AlJ</td><td>AlJ/measured</td><td>AISC</td><td>AISC/measured</td><td>EC4</td><td>EC4/measured</td><td>DBJ (Eq. (A.1))</td><td>DBJ/measured</td></tr><tr><td>1</td><td>S-3-8-1</td><td>2172</td><td>2141</td><td>0.986</td><td>2141</td><td>0.986</td><td>2380</td><td>1.096</td><td>2362</td><td>1.087</td></tr><tr><td>2</td><td>S-3-8-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>S-3-5-1</td><td>1798</td><td>1683</td><td>0.936</td><td>1683</td><td>0.936</td><td>1841</td><td>1.024</td><td>1833</td><td>1.019</td></tr><tr><td>4</td><td>S-3-5-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>S-5-8-1</td><td>2771</td><td>2471</td><td>0.892</td><td>2471</td><td>0.892</td><td>2698</td><td>0.974</td><td>2791</td><td>1.007</td></tr><tr><td>6</td><td>S-5-8-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>C-3-8-1</td><td>2057</td><td>1848</td><td>0.898</td><td>1807</td><td>0.878</td><td>2109</td><td>1.025</td><td>1926</td><td>0.936</td></tr><tr><td>8</td><td>C-3-8-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Mean</td><td></td><td></td><td>0.928</td><td></td><td>0.923</td><td></td><td>1.030</td><td></td><td>1.013</td></tr><tr><td></td><td>Standard deviation</td><td></td><td></td><td>0.043</td><td></td><td>0.049</td><td></td><td>0.050</td><td></td><td>0.062</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                67,
+                105,
+                946,
+                259
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7baa1354b44d6b639ce9c7e60be3f902db3cca6b6167c82262caf0dba155bce5.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a) Stub columns "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                230,
+                290,
+                500,
+                453
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/45f76ef129cf9d5a8f11aa1e2d34b52a3f81e647edb9331ce74c807145f5b973.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b) Flexural beams "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 16. Comparison between measured and calculated results. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                517,
+                290,
+                781,
+                455
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ea3bf0c5a32f85d30626fbde1180a956f5d1b2db46e35de59d9ddb575e30fc04.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 17. Calculation of flexural stiffness. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                132,
+                524,
+                428,
+                699
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Moment (M) versus curvature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\phi \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "curves of composite beams with different section depths are shown in Fig. 11, where the curvature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\phi \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was recorded by two curvature gauges. It can be found that a similar pattern was found for specimens with different parameters. The M–/ curves were nearly linear before the mid-span sectional moments "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( M )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "reached about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 6 M _ { \\mathrm { u } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The development of curvature slowed down after the specimen yielded. All the dune sand CFST beam specimens exceeded a curvature of 0.2. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                740,
+                492,
+                858
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Typical strain distributions of the beam cross sections at different load levels are illustrated in Fig. 12. It could be found that the cross-sectional steel strain distributions fit the plane section assumption well during the loading process. The location of the neutral axis was near the mid-height of the beam before the specimen yielded, and it moved up as the bending deflection increased. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                858,
+                495,
+                950
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Analysis and discussion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                517,
+                517,
+                697,
+                530
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.1. Strength index "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                517,
+                544,
+                638,
+                557
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(1) Stub columns "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                534,
+                569,
+                650,
+                582
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The strength index (SI) of composite stub columns can be defined as [19]: "
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                583,
+                946,
+                610
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "S I = \\frac {N _ {\\max}}{A _ {\\mathrm {c}} f _ {\\mathrm {c k}} + A _ {\\mathrm {s}} f _ {\\mathrm {y}}} \\tag {1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9c22def76f4f6b1d1eec6a6f7bf0d71e55ccd6f606640943c74bd0e3667b4bc0.jpg"
+                }
+            },
+            "bbox": [
+                517,
+                617,
+                944,
+                646
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { \\mathrm { m a x } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the measured maximum value of the compressive load. The strength index (SI) thus calculated for tested stub columns were illustrated in Fig. 13(a), where it can be found that the strength index (SI) for all square dune sand CFST stub columns were higher than 1.0 due to the confinement provided by the outer steel tube. For the columns with the square cross section, the confinement factors "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\xi \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for specimen S-3-8 series, S-3-5 series and S-5-8 series were 0.55, 0.79 and 0.92, respectively, where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\xi"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was defined as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A _ { \\mathrm { s } } f _ { \\mathrm { y } } / A _ { \\mathrm { c } } f _ { \\mathrm { c k } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[19]. It can be found that for the square dune sand CFST column, the SI increased with the increase of the confinement factor. For the columns with circular cross section, the confinement factor was 0.58, while the corresponding SI was 1.3. It was due to the good confinement of the circular steel tube to the core concrete. "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                655,
+                946,
+                825
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(2) Beams "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                534,
+                827,
+                606,
+                839
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For the beam specimens, the moment strength index of flexural beams is defined as: "
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                839,
+                946,
+                866
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "M S I = \\frac {M _ {\\mathrm {u}}}{A _ {\\mathrm {s}} \\cdot f _ {\\mathrm {y}} \\cdot z _ {\\mathrm {y}}} \\tag {2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d15ce2f3d0c15510c2e7f1dbe923c471f87ddf280cf456997371ecb570d78778.jpg"
+                }
+            },
+            "bbox": [
+                517,
+                873,
+                944,
+                904
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M _ { \\mathbf { u } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the ultimate flexural strength corresponding to the maximum tensile fibre strain of 0.01; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A _ { s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the area of tensile steel tube (calculated as one half of the total area of the steel tube); "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { \\mathrm { y } }"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                911,
+                947,
+                953
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W.-H. Wang et al. / Construction and Building Materials 51 (2014) 352–363 "
+                    }
+                ]
+            },
+            "bbox": [
+                319,
+                56,
+                694,
+                68
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "361 "
+                    }
+                ]
+            },
+            "bbox": [
+                922,
+                56,
+                942,
+                66
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "is the yield strength of steel tubes; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z _ { \\mathrm { y } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the equivalent distance between the centroid of the tensile steel tubes and that of the compressive steel tubes. Fig. 13(b) illustrated the MSI thus obtained for the beam specimens with different sectional depths. It was found that the MSI for all composite specimens were significantly larger than 1, for the contribution of the in-filled concrete. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                80,
+                477,
+                161
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.2. Ductility index "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                174,
+                171,
+                187
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(1) Stub columns "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                201,
+                183,
+                213
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The structural ductility represents the ability to undergo large plastic deformation without significant strength degradation. A ductility index is introduced for the dune sand CFST stub column as follows [20]: "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                214,
+                477,
+                267
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "D I = \\frac {d \\left(0 . 8 5 N _ {u}\\right)}{d \\left(N _ {u}\\right)} \\tag {3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e774e681bffcc0f7b36172260ff57153ff5be6bcd147a779dbf988792a5ece21.jpg"
+                }
+            },
+            "bbox": [
+                50,
+                273,
+                475,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d ( N _ { \\mathrm { u } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the axial deformation corresponding to the ultimate compressive strength; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d ( 0 . 8 5 N _ { \\mathrm { u } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the axial deformation when the load decreased to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the ultimate compressive strength, as shown in Fig. 14(a). Fig. 15(a) shows the ductility index (DI) for the dune sand CFST stub columns, the hollow steel tubular stub columns and the RC stub columns. It was found that for square CFST column specimens, the ductility index (DI) decreased with the increase of core concrete strength. However, the DI increased with the increase of steel tube thickness. For circular CFST column specimens, the DI was much higher than that of the square counterpart. It was due to the circular steel tube provide a better confinement to the core concrete. Fig. 15(a) also illustrated the ductility index of the hollow steel tubes and the dune sand RC stub columns. As the concrete strength increased, the ductility index for RC stub columns fell down significantly due to the brittle failure of the high strength concrete. For the advantages of composite effect, the ductility of dune sand CFST stub columns was better than that of hollow steel tubes or RC stub columns. "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                308,
+                478,
+                547
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(2) Beams "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                517,
+                81,
+                589,
+                94
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For the beam specimens, the load kept increasing after the specimen yielded. The ductility index defined by Eq. (2) was not adapted. The ductility index (MDI) for flexural beams was defined herein, the MDI was calculated from the curvatures of the flexural beams (deformation behavior). The ductility index of the rectangular dune sand CFST beam was defined as: "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                95,
+                929,
+                174
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "M D I = \\frac {\\phi_ {0 . 0 1}}{\\phi_ {\\mathrm {K}}} \\tag {4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/b33e619f4635003cf85c8f4aa383ec0c6c9e717743924fb92c9d8e2eda314763.jpg"
+                }
+            },
+            "bbox": [
+                500,
+                185,
+                927,
+                213
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\phi _ { \\mathrm { K } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the mid-span curvature corresponding to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 6 M _ { \\mathrm { u } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\phi _ { 0 . 0 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the mid-span curvature when the tangent stiffness decreased to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the initial tangent stiffness from the moment (M) versus curvature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\phi \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "curves, as shown in Fig. 14(b). The MDIs for the tested flexural beams are illustrated in Fig. 15(b). It was found that the ductility index for composite flexural beams increased with the cross-sectional depth when the depth changed from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 6 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 4 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and decreased when the depth changed from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 4 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 2 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". One possible reason is that, for the specimens with the cross-sectional depth of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 2 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", severer bucklings were shown on the steel tube. Due to the limitation of the test parameters and the amount of specimens, further study should be carried out on the ductility index for dune sand CFST beams in the future. "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                223,
+                929,
+                395
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.3. Ultimate strength and flexural stiffness prediction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                500,
+                414,
+                835,
+                428
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In general, the behavior of CFST stub columns and beams using dune sand as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of fine aggregate are quite similar to the corresponding normal concrete-filled steel tubes. Therefore the following existing codes for normal CFST structures, e.g. DBJ/T13-51- 2010[21], AIJ-2008 [22], EC4-2004 [23] and AISC-360-10 [24] were adopted tentatively to predict the compressive strength of the CFST stub columns and the flexural strength of the beams for dune sand CFST members. "
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                440,
+                929,
+                547
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/dab1cc06b12c7a95ba89019d579b52772034d87b7f80a6d154e9be05b5fa0579.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 6 Calculated results of flexural strength of composite beams (kN m). "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>No.</td><td>Specimen label</td><td>Measured results (Average)</td><td>AlJ</td><td>AlJ/measured</td><td>AISC</td><td>AISC/measured</td><td>EC4</td><td>EC4/measured</td><td>DBJ (Eq.A.2)</td><td>DBJ/measured</td></tr><tr><td>1</td><td>B-160-1</td><td>59.4</td><td>55.5</td><td>0.934</td><td>55.5</td><td>0.934</td><td>56.1</td><td>0.944</td><td>55.6</td><td>0.936</td></tr><tr><td>2</td><td>B-160-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>B-240-1</td><td>140.8</td><td>103.4</td><td>0.734</td><td>103.4</td><td>0.734</td><td>104.7</td><td>0.744</td><td>107.8</td><td>0.766</td></tr><tr><td>4</td><td>B-240-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>B-320-1</td><td>206.0</td><td>164.2</td><td>0.797</td><td>164.4</td><td>0.798</td><td>166.7</td><td>0.809</td><td>176.2</td><td>0.855</td></tr><tr><td>6</td><td>B-320-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Mean</td><td></td><td></td><td>0.822</td><td></td><td>0.822</td><td></td><td>0.832</td><td></td><td>0.852</td></tr><tr><td></td><td>Standard deviation</td><td></td><td></td><td>0.102</td><td></td><td>0.102</td><td></td><td>0.102</td><td></td><td>0.085</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                52,
+                604,
+                929,
+                732
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f1d5825c0ad8be49bc901f28063a5d6b45ea93ec277869144b128489169d8f68.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 7 Calculated results of flexural stiffness "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 0 ^ { 3 } \\mathrm { k N } \\mathrm { m } ^ { 2 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">No.</td><td rowspan=\"2\">Specimen label</td><td colspan=\"3\">Measured results</td><td rowspan=\"2\">AIJ (K0.6)</td><td rowspan=\"2\">AIJ/ measured</td><td rowspan=\"2\">AISC (K0.6)</td><td rowspan=\"2\">AISC/ measured</td><td rowspan=\"2\">EC4 (K0.6)</td><td rowspan=\"2\">EC4/ measured</td><td rowspan=\"2\">DBJ (K0.6)</td><td rowspan=\"2\">DBJ/ measured</td><td></td></tr><tr><td colspan=\"2\">K0.2</td><td>K0.6</td><td></td></tr><tr><td>1</td><td>B-160-1</td><td>2.50</td><td>2.33</td><td>2.28</td><td>2.16</td><td>1.000</td><td>3.16</td><td>1.463</td><td>2.91</td><td>1.347</td><td>2.86</td><td>1.324</td><td></td></tr><tr><td>2</td><td>B-160-2</td><td colspan=\"2\">2.16</td><td>2.04</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>B-240-1</td><td>5.38</td><td>5.29</td><td>5.14</td><td>5.18</td><td>5.90</td><td>1.139</td><td>9.32</td><td>1.799</td><td>8.48</td><td>1.637</td><td>8.36</td><td>1.614</td></tr><tr><td>4</td><td>B-240-2</td><td colspan=\"2\">5.20</td><td>5.22</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>B-320-1</td><td>9.82</td><td>9.21</td><td>6.65</td><td>7.48</td><td>12.3</td><td>1.644</td><td>20.4</td><td>2.727</td><td>18.5</td><td>2.473</td><td>18.2</td><td>2.433</td></tr><tr><td>6</td><td>B-320-2</td><td colspan=\"2\">8.59</td><td>8.31</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Mean</td><td></td><td></td><td></td><td></td><td></td><td>1.261</td><td></td><td>1.996</td><td></td><td>1.819</td><td></td><td>1.790</td></tr><tr><td></td><td>Standard deviation</td><td></td><td></td><td></td><td></td><td></td><td>0.277</td><td></td><td>0.535</td><td></td><td>0.477</td><td></td><td>0.470</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                52,
+                791,
+                929,
+                945
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "362 "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                56,
+                73,
+                66
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W.-H. Wang et al. / Construction and Building Materials 51 (2014) 352–363 "
+                    }
+                ]
+            },
+            "bbox": [
+                302,
+                56,
+                677,
+                68
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(1) Stub columns "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                82,
+                81,
+                200,
+                95
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Han [7] has presented formulae to predict the ultimate compressive strength of normal concrete-filled steel tubes with rectangular and circular cross sections, which have been adopted in various Chinese local technical specifications including DBJ/T13- 51-2010 (DBJ code). The calculated results using these formulae were listed in Table 5, and plotted in Fig. 16(a). The calculated results using other codes were also listed in Table 5. The local buckling reduction was included in the codes of EC4 [23] and AISC [24], while the classification methods of hollow steel section were different in AISC and EC4 codes. The confinement of the outer steel wall was considered by the confinement factor "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\xi"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the DBJ code [21], and generally good agreements were achieved between calculated and measured results, as shown in Table 5. Mean values and standard deviations of calculated results ratio were also listed in Table 5. It can be found that the best predicted mean value was 1.013 calculated by DBJ code, and the standard deviation of various design codes varied from 0.043 to 0.062. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                107,
+                495,
+                331
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(2) Beams "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                82,
+                345,
+                154,
+                358
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Han [7] proposed equations for the prediction of flexural strength for common CFST beams, which were also adopted for dune sand CFST beams. The comparison between the measured and the calculated results was shown in Fig. 16(b). It can be seen that generally good agreement was achieved, while the predicted results were conservative when "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "h = 2 4 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 2 0 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The calculated results of composite beams with various codes were listed in Table 6, where it can be seen that the calculated results from all codes are conservative when compared to the measured ones. Within the limited experimental data, the DBJ prediction gave the closest results with a mean value of 0.852, and the standard deviation was 0.085. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                370,
+                494,
+                528
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The measured flexural stiffness for composite beams at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 2 M _ { \\mathrm { u } }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( K _ { 0 . 2 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "or "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 6 M _ { \\mathrm { u } } \\left( K _ { 0 . 6 } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were shown in Fig. 17 and the calculated ones were listed in Table 7, where the flexural stiffness at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 2 M _ { \\mathrm { u } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 6 M _ { \\mathrm { u } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "represented the initial flexural stiffness and working stage flexural stiffness, respectively [7]. In general, the working stage flexural stiffness was lower than the initial one. The measured results "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( K _ { 0 . 6 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were a little lower than the calculated one from different design codes. The AIJ code gave the best prediction, and the mean value and standard deviation were 1.261 and 0.277, respectively. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                529,
+                495,
+                663
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Conclusions "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                677,
+                169,
+                689
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This study is an attempt to investigate the behavior of concretefilled steel tubular (CFST) stub columns and beams using dune sand as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "replacement of the fine aggregate. The following conclusions can be drawn based on the limited analysis reported in the current paper. "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                703,
+                494,
+                770
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(1) The concrete mixture using the dune sand as part of the fine aggregate will have a low slump and fluidity. However, the "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "1 0 \\%"
+                            },
+                            {
+                                "type": "text",
+                                "content": "fine aggregate replacement ratio of the dune sand was available for the in-filled concrete of steel tubes, when sufficient vibration and proper curing method is applied. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(2) The dune sand concrete could work well with the outer steel tube in CFST stub columns and beams, no visible failure was found on the interface between the steel and concrete. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(3) The failure modes and the behavior of dune sand CFST specimens were similar to those of normal CFST members. The strength index for square dune sand CFST stub columns "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                781,
+                494,
+                928
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "increased with the confinement factor, and the ductility indexes of CFST stub columns were better than those of RC columns. Higher strength index and ductility index could be achieved for the CFST stub columns with circular cross section when compared to the counterparts with square cross section, for the circular tube could provide a better confinement to the core concrete. "
+                    }
+                ]
+            },
+            "bbox": [
+                556,
+                81,
+                947,
+                172
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(4) The current codes could be used tentatively in the strength and stiffness prediction of dune sand CFST structures. "
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                172,
+                947,
+                201
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                517,
+                226,
+                655,
+                240
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The research reported in the paper is supported by the Tsinghua Initiative Scientific Research Program (No. 2011THZ03). The authors thank Rechsand Science & Technology Group for providing the concrete materials using the dune sand and for the preparation of test specimens. "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                253,
+                947,
+                319
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                519,
+                332,
+                596,
+                344
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[1] Standard of Chinese Construction Ministry BJG19-65. Preparation and application standard of super-fine sand concrete. Beijing; 1965 [in Chinese]. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[2] Banfill P, Carr M. The properties of concrete made with very fine sand. Concrete 1987;3:11–6. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[3] Al-Harthy AS, Halim MA, Taha R, Al-Jabri KS. The properties of concrete made with fine dune sand. Constr Build Mater 2007;21:1803–8. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[4] Guettala S, Mezghiche B. Compressive strength and hydration with age of cement pastes containing dune sand powder. Constr Build Mater 2011;25(3):1263–9. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[5] Zhang GX, Song JX, Yang JS, Liu XY. Performance of mortar and concrete made with a fine aggregate of desert sand. Build Environ 2006;41(11):1478–81. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[6] Alhozaimy A, Jaafar MS, Al-Negheimish A, et al. Properties of high strength concrete using white and dune sand under normal and autoclaved curing. Constr Build Mater 2012;27(1):218–22. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[7] Han LH. Concrete filled steel tube structures: theory and experience. Beijing: Science Press; 2007 [in Chinese]. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[8] Liang QQ, Uy B, Liew JYR. Nonlinear analysis of concrete-filled thin-walled steel box columns with local buckling effects. J Constr Steel Res 2006;62(6): 581–91. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[9] Li W, Han LH, Zhao XL. Axial strength of concrete-filled double skin steel tubular (CFDST) columns with preload on steel tubes. Thin Wall Struct 2012;56:9–20. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[10] Lam D, Gardner L. Structural design of stainless steel concrete filled columns. J Constr Steel Res 2008;64(11, SI):1275–82. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[11] Yang YF, Han LH. Concrete filled steel tube (CFST) columns subjected to concentrically partial compression. Thin Wall Struct 2012;50:147–56. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[12] Elchalakani M, Zhao XL, Grzebieta RH. Concrete-filled circular steel tubes subjected to pure bending. J Constr Steel Res 2001;57(11):1141–68. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[13] Han LH. Flexural behavior of concrete-filled steel tubes. J Constr Steel Res 2004;60:313–37. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[14] Han LH, Lu H, Yao GH, Liao FY. Further study on the flexural behavior of concrete-filled steel tubes. J Constr Steel Res 2006;62:554–65. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[15] Moon J, Roeder CW, Lehman DE, Lee HE. Analytical modeling of bending of circular concrete-filled steel tubes. Eng Struct 2012;42:349–61. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[16] Yang YF, Han LH. Experimental behaviour of recycled aggregate concrete filled steel tubular columns. J Constr Steel Res 2006;62:1310–24. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[17] Lue DM, Liu JL, Yen T. Experimental study on rectangular CFT columns with high-strength concrete. J Constr Steel Res 2007;63(1):37–44. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[18] Mouli M, Khelafi H. Strength of short composite rectangular hollow section columns filled with lightweight aggregate concrete. Eng Struct 2007;29(8): 1791–7. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[19] Han LH. Tests on stub columns of concrete-filled RHS sections. J Constr Steel Res 2002;58(3):353–72. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[20] Han LH, Hou C, Wang LQ. Square concrete filled steel tubular (CFST) members under loading and chloride corrosion: experiments. J Constr Steel Res 2012;71:11–25. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[21] DBJ/T13-51-2010. Technical specification for concrete-filled steel tubular structures. Fuzhou (China): The Department of Housing and Urban-Rural Development of Fujian Province; 2010 [in Chinese]. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[22] AIJ. Recommendations for design and construction of concrete filled steel tubular structures. Architectural Institute of Japan (AIJ). Tokyo, Japan; 2008. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[23] Eurocode 4 (EC4). Design of composite steel and concrete structures – Part1-1: General rules and rules for buildings. EN 1994-1-1:2004, Brussels, CEN; 2004. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[24] ANSI/AISC 360-10. Specification for structural steel buildings. American Institute of Steel Construction, American National Standard; 2010. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                355,
+                947,
+                910
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W.-H. Wang et al. / Construction and Building Materials 51 (2014) 352–363 "
+                    }
+                ]
+            },
+            "bbox": [
+                319,
+                56,
+                695,
+                68
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "363 "
+                    }
+                ]
+            },
+            "bbox": [
+                922,
+                56,
+                944,
+                66
+            ]
+        }
+    ]
+]

@@ -56,6 +56,10 @@ If any required file/folder is missing, fail fast and report the missing path.
   - row/column misalignment
   - multiple values in one scalar cell
   - merged specimen labels
+  - dual-load column semantics cannot be kept consistent (for example calculated vs experimental loads drift across columns)
+  - source/reference column is filled by load-like numeric values instead of citation/text evidence
+  - ratio column meaning cannot be reconciled with parsed load columns
+  - decimal fragments (`4 1`, `159 8`, `3 476`) make scalar assignment ambiguous
 - eccentricity sign fidelity checkpoint: for `et, eb` / `e_t, e_b` / `top, bottom eccentricity`, recover and keep explicit `+/-` signs from table text; if markdown text loses signs, recover from `table/` image evidence
 - parse eccentricity signs per specimen row; mixed tables can contain both same-sign and opposite-sign rows, so do not enforce one sign pattern globally
 

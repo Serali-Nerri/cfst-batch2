@@ -26,6 +26,16 @@
    - `python .codex/skills/cfst-paper-extractor/scripts/validate_single_output.py --json-path <file> --strict-rounding`
 5. After each paper, parent copies output back to main workspace and removes the temporary worktree/branch.
 
+## Runtime Waiting And Failure Handling (User Policy)
+- Parent must not impose a fixed hard timeout for worker completion.
+- Parent may use short polling windows (for example, `wait(timeout_ms=...)`) to check status, but a polling timeout is not a failure signal.
+- If a worker is still running and has not reported failure, parent must continue waiting until completion.
+- Parent role is always orchestrator only; parent does not take over extraction logic.
+- Worker does one deterministic in-worker fix + re-validation when first validation fails.
+- If worker still fails after that in-worker retry, parent must not respawn/retry that paper; parent only records the failure and continues scheduling other papers.
+- Failure record file: `output/worker_failures.json`.
+- Each failure record should include at least: `paper_id`, `attempts`, `reason`, `intermediate_json_path`, `final_output_path`, `timestamp`.
+
 ## Explicitly Prohibited (Unless User Requests)
 - Do not use `codex exec`.
 - Do not create or run a new "generic/single-paper extraction script" outside the skill workflow.

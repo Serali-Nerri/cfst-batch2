@@ -1,0 +1,3434 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": ":1000-6869(2017) S1-0249-09 "
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                92,
+                359,
+                104
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI: 10.14006/j. jzjgxb.2017. S1.034 "
+                    }
+                ]
+            },
+            "bbox": [
+                650,
+                92,
+                890,
+                105
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3f1fc1ae59e0b88933252c906c19461b67bd73381620709a5368e9f30eec570e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                102,
+                177,
+                890,
+                407
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Experimental study on size effect of circular concrete-filled steel  tubular columns subjected to axial compression "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                122,
+                432,
+                875,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CHEN Peng 1 WANG Yuyin1 2 LIU Changyong 1 2 TIAN Yu3 "
+                    }
+                ]
+            },
+            "bbox": [
+                307,
+                488,
+                687,
+                504
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 1． School of Civil Engineering Harbin Institute of Technology Harbin 150090 China; "
+                    }
+                ]
+            },
+            "bbox": [
+                226,
+                505,
+                766,
+                517
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2． Key Lab of Structures Dynamic Behavior and Control of the Ministry of Education Harbin Institute of Technology Harbin 150090 China; "
+                    }
+                ]
+            },
+            "bbox": [
+                236,
+                519,
+                749,
+                545
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3． Beijing Institute of Architectural Design Beijing 100045 China) "
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                546,
+                704,
+                560
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract: Eighteen short columns with different diameters and steel ratios were tested to failure to investigate the size effect behavior of concrete-filled steel tubular columns subjected to axial compression． Size effect on composite elastic modulus and peak axial stress were studied.Theexperimental results show that the valueof the composite modulus remains almost constant when the diameter of the specimens is increased; the peak axial stress of the specimens tends to decrease with the increase of the column diameter and it is related to steel ratio． For the specimens with the steel ratio of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the peak axial stress is decreased from 71． 4 MPa to 68． 9 MPa when the column diameter is increased from 182 mm to 346 mm showing a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "decrease in compressive strength． In addition the size-dependent bearing capacity of concrete filled steel tubular columns was proposed on the basis of concrete ’ s size effect and component analysis． The comparison between predicted and test results indicates that the proposed formula can provide satisfactory estimation． Finally the influences of steel ratio yield stress of steel and compressive strength of concrete on size effect were analyzed based on the proposed formula. "
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                574,
+                895,
+                766
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: concrete filled steel tube; steel ratio; size effect; axial compression test; peak stress "
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                770,
+                759,
+                785
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 51378152) 。( 1988— ) ，银( 1975— ) ，: 2017 8"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                856,
+                374,
+                904
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "E-mail: chenpeng. hit@ hotmail. com E-mail: wangyuyin@ hit. edu. cn "
+                    }
+                ]
+            },
+            "bbox": [
+                426,
+                869,
+                658,
+                892
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal of Building Structures "
+                    }
+                ]
+            },
+            "bbox": [
+                218,
+                74,
+                421,
+                87
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "38 1 2017 11 "
+                    }
+                ]
+            },
+            "bbox": [
+                640,
+                65,
+                828,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 38 Suppl. 1 Nov． 2017 "
+                    }
+                ]
+            },
+            "bbox": [
+                640,
+                78,
+                828,
+                87
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "034 "
+                    }
+                ]
+            },
+            "bbox": [
+                860,
+                72,
+                887,
+                84
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "249 "
+                    }
+                ]
+            },
+            "bbox": [
+                853,
+                922,
+                884,
+                934
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                28,
+                963,
+                835,
+                979
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0 "
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                102,
+                119,
+                117
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a15bea67f5c9b121a46c4a6d8fff465ba51e74fd97223abcb442bf4fe3118aab.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"9\">530 m</td><td></td></tr><tr><td>1.32 m4;</td><td colspan=\"8\">432 m</td><td></td></tr><tr><td>1.8 m5;</td><td colspan=\"8\">518 m</td><td></td></tr><tr><td></td><td colspan=\"8\">3.5 m×</td><td></td></tr><tr><td>5.6 m6。</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Sakino7</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>150 mm</td><td>900 mm</td><td>1.1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>18.3%。</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>D。</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>4.5%、6.5%</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td>182、266、</td><td></td></tr><tr><td></td><td>346 mm</td><td>2</td><td></td><td></td><td></td><td></td><td></td><td>187、246、308 mm。</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>H)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>C45</td><td>2。</td><td>6</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>fc&#x27; 54.3 MPa。</td><td colspan=\"4\">Q235</td><td></td></tr><tr><td></td><td></td><td></td><td>Sakino</td><td colspan=\"5\">GB/T 228.1-201014。</td><td></td></tr><tr><td>7</td><td>108~450 mm</td><td>36</td><td>f_c&#x27;</td><td colspan=\"5\">f_y&#x27;</td><td></td></tr><tr><td></td><td>120~323 mm</td><td>48</td><td>E_sc</td><td>N_u</td><td colspan=\"4\">1。</td><td></td></tr><tr><td></td><td></td><td></td><td>1.2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>。</td><td>13</td><td>252</td><td colspan=\"6\">10 MN</td><td></td></tr><tr><td>320 mm</td><td colspan=\"8\">80~</td><td></td></tr><tr><td colspan=\"9\">250</td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                100,
+                141,
+                900,
+                938
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                28,
+                963,
+                835,
+                979
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e23e65c7bf613b90bb82a4fbbfcf32ab8b63ffc1c780019ae3cdbf2196f4f356.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1 Design parameters and test results of specimens "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\" colspan=\"2\"></td><td rowspan=\"2\">D /mm</td><td rowspan=\"2\">t /mm</td><td rowspan=\"2\">H /mm</td><td rowspan=\"2\">α /%(As/Ac)</td><td rowspan=\"2\">fc&#x27; /MPa</td><td rowspan=\"2\">fy /MPa</td><td colspan=\"2\">Ese /GPa</td><td colspan=\"2\">Nu /kN</td></tr><tr><td colspan=\"2\">1803</td><td rowspan=\"2\" colspan=\"2\">1872</td></tr><tr><td rowspan=\"3\">LS</td><td>LS-1</td><td>182.48</td><td>1.99</td><td>548</td><td>4.5</td><td>54.3</td><td>312.8</td><td colspan=\"2\">39.3</td></tr><tr><td>LS-2</td><td>182.90</td><td>2.00</td><td>548</td><td>4.5</td><td>54.3</td><td>312.8</td><td>43.2</td><td>41.0</td><td>1889</td><td>1872</td></tr><tr><td>LS-3</td><td>182.73</td><td>2.04</td><td>548</td><td>4.6</td><td>54.3</td><td>312.8</td><td colspan=\"2\">40.5</td><td colspan=\"2\">1924</td></tr><tr><td rowspan=\"3\">LM</td><td>LM-1</td><td>266.42</td><td>2.85</td><td>799</td><td>4.4</td><td>54.3</td><td>311.6</td><td colspan=\"2\">42.1</td><td colspan=\"2\">3963</td></tr><tr><td>LM-2</td><td>266.19</td><td>2.89</td><td>799</td><td>4.5</td><td>54.3</td><td>311.6</td><td>41.7</td><td>40.8</td><td>3923</td><td>3935</td></tr><tr><td>LM-3</td><td>265.49</td><td>2.82</td><td>799</td><td>4.4</td><td>54.3</td><td>311.6</td><td colspan=\"2\">38.6</td><td colspan=\"2\">3920</td></tr><tr><td rowspan=\"3\">LL</td><td>LL-1</td><td>346.49</td><td>3.68</td><td>1039</td><td>4.4</td><td>54.3</td><td>318.4</td><td colspan=\"2\">43.9</td><td colspan=\"2\">6327</td></tr><tr><td>LL-2</td><td>346.31</td><td>3.67</td><td>1039</td><td>4.4</td><td>54.3</td><td>318.4</td><td>38.3</td><td>40.7</td><td>6586</td><td>6484</td></tr><tr><td>LL-3</td><td>345.89</td><td>3.69</td><td>1039</td><td>4.4</td><td>54.3</td><td>318.4</td><td colspan=\"2\">39.8</td><td colspan=\"2\">6538</td></tr><tr><td rowspan=\"3\">HS</td><td>HS-1</td><td>187.22</td><td>2.93</td><td>562</td><td>6.6</td><td>54.3</td><td>353.5</td><td colspan=\"2\">46.0</td><td colspan=\"2\">2272</td></tr><tr><td>HS-2</td><td>186.91</td><td>2.95</td><td>562</td><td>6.6</td><td>54.3</td><td>353.5</td><td>46.5</td><td>46.1</td><td>2287</td><td>2265</td></tr><tr><td>HS-3</td><td>187.28</td><td>2.93</td><td>562</td><td>6.5</td><td>54.3</td><td>353.5</td><td colspan=\"2\">45.8</td><td colspan=\"2\">2237</td></tr><tr><td rowspan=\"3\">HM</td><td>HM-1</td><td>246.94</td><td>3.86</td><td>741</td><td>6.6</td><td>54.3</td><td>362.5</td><td colspan=\"2\">47.0</td><td colspan=\"2\">4071</td></tr><tr><td>HM-2</td><td>246.90</td><td>3.83</td><td>741</td><td>6.5</td><td>54.3</td><td>362.5</td><td>43.8</td><td>44.6</td><td>4125</td><td>4121</td></tr><tr><td>HM-3</td><td>246.86</td><td>3.81</td><td>741</td><td>6.5</td><td>54.3</td><td>362.5</td><td colspan=\"2\">43.1</td><td colspan=\"2\">4166</td></tr><tr><td rowspan=\"3\">HL</td><td>HL-1</td><td>308.84</td><td>4.67</td><td>925</td><td>6.3</td><td>54.3</td><td>350.0</td><td colspan=\"2\">44.5</td><td colspan=\"2\">6179</td></tr><tr><td>HL-2</td><td>307.40</td><td>4.69</td><td>925</td><td>6.4</td><td>54.3</td><td>350.0</td><td>45.9</td><td>45.6</td><td>6277</td><td>6270</td></tr><tr><td>HL-3</td><td>308.48</td><td>4.66</td><td>925</td><td>6.3</td><td>54.3</td><td>350.0</td><td colspan=\"2\">46.5</td><td colspan=\"2\">6355</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                116,
+                895,
+                404
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0703e3ed3c75b1bacf4813abef31ead84089a4c595995c67969a9ef0870f0952.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "（a）LS、LM、LL组试件"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                112,
+                426,
+                473,
+                529
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4dcd7adf0cf45118bb2bbcb0bf9a791686b81f97c34e39d57d37baeaded203be.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig． 1 Specimens before test "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                112,
+                551,
+                473,
+                655
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（b）HS、HM、HL组试件"
+                    }
+                ]
+            },
+            "bbox": [
+                215,
+                657,
+                368,
+                669
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                236,
+                678,
+                247,
+                690
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                240,
+                720,
+                255,
+                731
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/19ae9e3bf684b785b58c59f5da10a7fea1bd79f4ac6a0016869b52e3158b3a0c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2 Mix proportion of concrete "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td></td><td colspan=\"5\">/(kg·m-3)</td></tr><tr><td>C45</td><td>0.45</td><td>180</td><td>400</td><td>1180</td><td>670</td><td>4.0</td></tr><tr><td>(LVDT)</td><td>LVDT</td><td></td><td></td><td>0.001 mm;</td><td></td><td></td></tr><tr><td>LVDT</td><td></td><td></td><td></td><td></td><td></td><td>3</td></tr><tr><td>LVDT</td><td></td><td></td><td>20、50、100 mm。</td><td></td><td></td><td></td></tr><tr><td>90°</td><td></td><td>4</td><td></td><td></td><td>1</td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                750,
+                485,
+                888
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6d31afb2cdec6d31715f7fc56c9907b5b166a8472b10466d37a608d036f13a9e.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig． 2 Test setup and instrumentation "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                578,
+                419,
+                892,
+                703
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2825da04c41250651ab71dbcf2805a4fd26afb680e16b525fe38ba6b1826c5c6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                507,
+                747,
+                892,
+                890
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                371,
+                86,
+                383,
+                97
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "251 "
+                    }
+                ]
+            },
+            "bbox": [
+                853,
+                922,
+                882,
+                934
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                28,
+                963,
+                835,
+                979
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                102,
+                117,
+                117
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/67154dd4142d1476cc607a61d1d22dbe2f888274c0b940318bfd2e2b91ce49a6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                102,
+                137,
+                482,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0. 3 。 0. 7Nu "
+                    }
+                ]
+            },
+            "bbox": [
+                295,
+                244,
+                482,
+                260
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                250,
+                388,
+                295,
+                403
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/027ae832463ab5cac2205e14a7e98dba15c9e8149512057f6e3dac3445a183fc.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                164,
+                426,
+                411,
+                554
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ccfc3f0414318f4b6a6638415a34f82f2d7a54ae3e6c490872f89827a680dedd.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "（a）荷载-轴向应变曲线"
+                    },
+                    {
+                        "type": "text",
+                        "content": "（b）荷载比-横向泊松比曲线"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                171,
+                573,
+                413,
+                701
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 LS-2 "
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                725,
+                231,
+                736
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/20c74f2075d57ad9ae3c539a1d9927abf6f58c19480f1bbf719c77c74d78ca3b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig． 3 Test curves of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N { \\ - } _ { \\mathcal { E } _ { \\mathrm { v } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N / { N _ { \\mathrm { u } } } \\nearrow _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of specimen LS-2 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                137,
+                789,
+                542,
+                853
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/67e69e1d0061c83701bf8d0f066f670ac8ec2a432f0e34147387bc1a8019134f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                554,
+                91,
+                852,
+                219
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1d1a6964864a3c9fa074ee365afad21749127bf68a60ccf535b11d639f9ae0ab.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig． 4 Failure mode of specimens ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha = 4 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                630,
+                222,
+                776,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(c)试件LL-1 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                341,
+                736,
+                353
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4 ( α = 4. 5% ) "
+                    }
+                ]
+            },
+            "bbox": [
+                584,
+                360,
+                774,
+                373
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5 18 "
+                    }
+                ]
+            },
+            "bbox": [
+                566,
+                470,
+                620,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 5% "
+                    }
+                ]
+            },
+            "bbox": [
+                598,
+                577,
+                642,
+                590
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "(D = 1 8 2 \\mathrm {m m})",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/1a94345c514cb8b83f64779af43a96492066413f4fec770e369ff31dc7eb12f5.jpg"
+                }
+            },
+            "bbox": [
+                532,
+                595,
+                636,
+                608
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "(D = 3 4 6 \\mathrm {m m})",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/509b3276a6db66db96a422e8fc5c411001dfe3cfe38ebc0093403d71f620b5c6.jpg"
+                }
+            },
+            "bbox": [
+                515,
+                613,
+                618,
+                627
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "(4.5\\% ,6.5\\%)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/fbba974959ffddce8f5f453432f2ebeded18f2215062ac39f9a63225a49243af.jpg"
+                }
+            },
+            "bbox": [
+                515,
+                665,
+                621,
+                678
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "E _ {\\mathrm {s c}} = N / \\left(A _ {\\mathrm {s}} + A _ {\\mathrm {c}}\\right) \\varepsilon_ {\\mathrm {y}} \\tag {1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/21d537c065aa3e3b3aba6ee906d4c79daf59a4483e2230dfd40d5e83eb65d108.jpg"
+                }
+            },
+            "bbox": [
+                613,
+                895,
+                889,
+                910
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { s c } }"
+                    }
+                ]
+            },
+            "bbox": [
+                868,
+                862,
+                890,
+                873
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                873,
+                879,
+                882,
+                890
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "252 "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                921,
+                142,
+                934
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                28,
+                963,
+                833,
+                979
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f8218227c905b655742ea9f46c85b515b79e71e0282acca7910054bdc17cbbb5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                164,
+                91,
+                423,
+                231
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b93c53e6d956430eb9453e2ed37c07ebc86d48a9af34f758fcc19c300a51f8cf.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha { = } 4 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(b)a=6.5% "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                161,
+                250,
+                423,
+                386
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0cf3ac48735ed41a678a830dc2cabf894205f94f4a7fb5868fd5a29e7150462b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig． 5 Load versus axial strain curves of specimens "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                186,
+                410,
+                359,
+                420
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/41cd7cbac278387793144cf2f6df9781016c41a4cbe401c9dce31d41202fecde.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                100,
+                451,
+                482,
+                575
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. 5% "
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                596,
+                146,
+                611
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f980dd5728a8707d6b39e54dc09331a7b4aecadc07368ddbe431d4439a866237.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig． 6 Influence of diameter on composite elastic modulus "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                156,
+                713,
+                421,
+                862
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 2 "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                85,
+                544,
+                98
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\sigma_ {\\mathrm {u}} \\quad :",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/4d6cbcbd0bd4b01d26b32167ad8a4bc3949854a5157a6ce6d90d0abdaa924047.jpg"
+                }
+            },
+            "bbox": [
+                616,
+                105,
+                747,
+                118
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\sigma_ {\\mathrm {u}} = N _ {\\mathrm {u}} / \\left(A _ {\\mathrm {s}} + A _ {\\mathrm {c}}\\right) \\tag {2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/2328bc640427141b2651bc49358b2e48c70594251c0c469a37e3fca610720e70.jpg"
+                }
+            },
+            "bbox": [
+                628,
+                123,
+                887,
+                137
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N _ {n} \\quad \\circ",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/84dcd42504d046bed4c12264f1659732462219c3d7a942551ca182a9661f429f.jpg"
+                }
+            },
+            "bbox": [
+                551,
+                141,
+                768,
+                154
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "7 \\quad 4.5 \\% ,6.5 \\%",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/87f28da346443eddbbbcaa837aeae4967af7c1fdcdb67f77ee4e4bcd92334d31.jpg"
+                }
+            },
+            "bbox": [
+                566,
+                159,
+                836,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 5% "
+                    }
+                ]
+            },
+            "bbox": [
+                532,
+                193,
+                576,
+                206
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "182 mm 346 mm "
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                230,
+                677,
+                243
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "68. 9 MPa 。"
+                    }
+                ]
+            },
+            "bbox": [
+                566,
+                247,
+                643,
+                260
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "71. 4 MPa "
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                230,
+                892,
+                243
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. 5% "
+                    }
+                ]
+            },
+            "bbox": [
+                813,
+                247,
+                855,
+                260
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. 5% "
+                    }
+                ]
+            },
+            "bbox": [
+                778,
+                336,
+                821,
+                349
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/72be137be906ded37288d0d5aebec5633246537579961e1ec2492ec2d3c44497.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "7 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig． 7 Influence of diameter on peak axial stress "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                571,
+                376,
+                833,
+                514
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 3 "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                560,
+                542,
+                573
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "15 "
+                    }
+                ]
+            },
+            "bbox": [
+                603,
+                646,
+                615,
+                655
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LM-2 "
+                    }
+                ]
+            },
+            "bbox": [
+                608,
+                737,
+                710,
+                750
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\sigma_ {\\mathrm {s v}} \\cdot \\sigma_ {\\mathrm {s c}} \\cdot \\sigma_ {\\mathrm {s}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/7a1335bef7a124b0d713957a861db188180d5ab47ed37e55aa7d74e234da0603.jpg"
+                }
+            },
+            "bbox": [
+                742,
+                758,
+                892,
+                771
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\sigma_ {\\mathrm {c v}} \\quad \\varepsilon_ {\\mathrm {v}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/937948191cc29afe965790acb536d8b0c2fd470c45b79d87518900abc1f610b1.jpg"
+                }
+            },
+            "bbox": [
+                512,
+                794,
+                769,
+                807
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\sigma_ {\\mathrm {s v}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/4a262c4988e4c09a192f2a73e61d975a80b4420118ba5d1af426c2d0e597c624.jpg"
+                }
+            },
+            "bbox": [
+                547,
+                809,
+                836,
+                822
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left( \\begin{array}{l l} O A & \\end{array} \\right) \\quad (A B) 。",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/5563ef1fad9f7517b24bfd20512ab5f54be30a24e4c0cc30ee17ade630a96495.jpg"
+                }
+            },
+            "bbox": [
+                598,
+                826,
+                831,
+                841
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "OA "
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                845,
+                537,
+                858
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A "
+                    }
+                ]
+            },
+            "bbox": [
+                878,
+                898,
+                892,
+                910
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "253 "
+                    }
+                ]
+            },
+            "bbox": [
+                853,
+                922,
+                882,
+                934
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                28,
+                963,
+                833,
+                979
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "mises "
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                156,
+                142,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( AB ) ，"
+                    }
+                ]
+            },
+            "bbox": [
+                236,
+                173,
+                302,
+                189
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b27d1737b0fc3db61f51a51bf2898b8b1d603ba722a0208bad4490054a4e02c7.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "8 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                157,
+                212,
+                428,
+                370
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1aa1915d4bb0a9b263796d8efb03005cbfda7a9bcf82ebc3598cd29f6deccfc4.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig． 8 Stress states of steel tubes and concrete core "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                124,
+                418,
+                477,
+                523
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0. 53fy 。"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                525,
+                159,
+                541
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/28e54b8e0ed886b55f13f16eb8248bd3d285a03cfa7382352f4293c85cfc5888.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig． 9 Axial stress of steel tube at ultimate load "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                157,
+                546,
+                428,
+                707
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 4 "
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                734,
+                134,
+                747
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c c} N _ {\\mathrm {u}} & : \\\\ N _ {\\mathrm {s}} & \\gamma_ {\\mathrm {u}} f _ {\\mathrm {c}} ^ {\\prime} A _ {\\mathrm {c}} \\\\ \\Delta f A _ {\\mathrm {c}} & \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/1141a9153b1e35a0bb3cbdb67b71986774504657a660546f761e20e79746f9fc.jpg"
+                }
+            },
+            "bbox": [
+                228,
+                753,
+                482,
+                804
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N _ {\\mathrm {u}} ^ {\\prime} = 0. 5 3 f _ {\\mathrm {y}} A _ {\\mathrm {s}} + \\gamma_ {\\mathrm {u}} f _ {\\mathrm {c}} ^ {\\prime} A _ {\\mathrm {c}} + \\Delta f A _ {\\mathrm {c}} \\tag {3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/064c36070281c93161db48fa5161a0465086045f4447cebb380a3f35f489e59b.jpg"
+                }
+            },
+            "bbox": [
+                181,
+                807,
+                478,
+                824
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c c} \\vdots & \\gamma_ {\\mathrm {u}} \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/78703c4f90cc46b9be5e536704427599685f869b878bbc4776a3daeb39695811.jpg"
+                }
+            },
+            "bbox": [
+                137,
+                828,
+                166,
+                841
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Sakino 7 "
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                844,
+                181,
+                857
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\gamma_ {\\mathrm {u}} = \\left(\\frac {D}{1 5 0}\\right) ^ {- 0. 1 1 2} \\tag {4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/7192c5cb116bc4682e534a924d336640b2c1a9168935e613ccc3e40ccabe310d.jpg"
+                }
+            },
+            "bbox": [
+                231,
+                860,
+                478,
+                890
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\Delta f",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c543f26d78e36085a5af349a008535d4201904b0264484a84f5a64132bdd54fc.jpg"
+                }
+            },
+            "bbox": [
+                376,
+                895,
+                400,
+                909
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\Delta f = 1. 1 2 \\xi f _ {\\mathrm {c}} ^ {\\prime} \\tag {5}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c5e2f7e042f8a4b598893b73b353892f693acca9d297e3d1db61eb42eab54fc7.jpg"
+                }
+            },
+            "bbox": [
+                650,
+                85,
+                889,
+                101
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ξ "
+                    }
+                ]
+            },
+            "bbox": [
+                557,
+                105,
+                571,
+                117
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} \\xi = \\frac {A _ {\\mathrm {a}} f _ {\\mathrm {y}}}{A _ {\\mathrm {c}} f _ {\\mathrm {c}}} \\tag {6} \\\\ \\begin{array}{c c c} 1 0 & \\xi & \\Delta f / f _ {\\mathrm {c}} ^ {\\prime} \\\\ & \\xi & \\Delta f / f _ {\\mathrm {c}} ^ {\\prime} \\end{array} \\\\ \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/5770d4a9ca4f4b7542bf20070bb6f2122797d408a354d2fa8c50738053a43928.jpg"
+                }
+            },
+            "bbox": [
+                568,
+                122,
+                889,
+                189
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/11db60c277fa68945d87084a3856f9133baca0204a9cef4b4cd948e347d3e85e.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig． 10 Influence of confinement factor "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\xi"
+                    },
+                    {
+                        "type": "text",
+                        "content": "on "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta f"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                568,
+                196,
+                838,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 5) ( 3 ) "
+                    }
+                ]
+            },
+            "bbox": [
+                581,
+                395,
+                687,
+                410
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} N _ {\\mathrm {u}} ^ {\\prime} \\\\ N _ {\\mathrm {u}} ^ {\\prime} = 0. 5 3 f _ {\\mathrm {y}} A _ {\\mathrm {s}} + \\left(\\gamma_ {\\mathrm {u}} + 1. 1 2 \\xi\\right) f _ {\\mathrm {c}} ^ {\\prime} A _ {\\mathrm {c}} \\tag {7} \\\\ \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/4d1d1b53726a6f788378d0f9b03e0e1183b9e579a0545178fb6ccf0f9ec6499c.jpg"
+                }
+            },
+            "bbox": [
+                552,
+                413,
+                887,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11 "
+                    }
+                ]
+            },
+            "bbox": [
+                569,
+                449,
+                690,
+                463
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "(7) \\tag {7}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/5a9ec27ea627341f8205170335ee09983b5cbc693e6bd46189ca70bddcf40d6e.jpg"
+                }
+            },
+            "bbox": [
+                663,
+                449,
+                690,
+                462
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "1. 0 0 \\quad R ^ {2} = 0. 9 9 \\tag {7}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9db67aa7c20ab31e68107a62e762824171833d1c3e020be45a1f8576cf600a6c.jpg"
+                }
+            },
+            "bbox": [
+                556,
+                464,
+                884,
+                481
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( ) "
+                    }
+                ]
+            },
+            "bbox": [
+                564,
+                483,
+                589,
+                498
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6ca38c4746fbc3d68ade22947cde3321dbabb6bc399bf13318572a6b358c534c.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig． 11 Prediction accuracy of formula ( 7) "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                568,
+                507,
+                838,
+                671
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "(7)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8522c189c5464c2717a3cada467edc4a87b4471aa83a7dca33ea8a50433a50a8.jpg"
+                }
+            },
+            "bbox": [
+                682,
+                699,
+                709,
+                713
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "396 "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                718,
+                541,
+                730
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "6 0 \\mathrm {m m} \\leqslant D \\leqslant 1 0 2 0 \\mathrm {m m} \\quad 2 \\leqslant H / D \\leqslant",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8c32862ddf5e5521bde65b44a8fee42864df62d10f3eceae1e757811c49b23c8.jpg"
+                }
+            },
+            "bbox": [
+                532,
+                734,
+                890,
+                749
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                753,
+                524,
+                765
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "0. 0 1 8 \\leqslant \\alpha \\leqslant 0. 3 2 6",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f5aa64718ee9296b959e98bb7a2987483baba942e7cf4f9769345424fe9bd8db.jpg"
+                }
+            },
+            "bbox": [
+                650,
+                753,
+                800,
+                766
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "1 5 \\mathrm {M P a} \\leqslant f _ {\\mathrm {c}} ^ {\\prime} \\leqslant 1 0 8 \\mathrm {M P a 。}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/27bc7391a0977de16b5b4815e5e795d7894c6b4f67cfa524ae4b35689e4ad353.jpg"
+                }
+            },
+            "bbox": [
+                675,
+                771,
+                880,
+                785
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12 13 EC4 8 ( 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                566,
+                791,
+                838,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                532,
+                828,
+                541,
+                838
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12 "
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                827,
+                605,
+                839
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm {E C 4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/89a4077b3dfb4a730877130f49b70b5f0463fa1458fc106646ec80a3ed8c2218.jpg"
+                }
+            },
+            "bbox": [
+                682,
+                827,
+                712,
+                839
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "0. 9 2, 0. 9 7, 1. 0 2 。",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d6fd6bbe39ff3012bc4dc26b7ee21df8e85f0345ccd901b4b7823cc6cf8f1330.jpg"
+                }
+            },
+            "bbox": [
+                702,
+                845,
+                831,
+                857
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "EC4 EC4 "
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                881,
+                564,
+                892
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                534,
+                881,
+                564,
+                892
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "13 "
+                    }
+                ]
+            },
+            "bbox": [
+                778,
+                881,
+                852,
+                892
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                759,
+                898,
+                784,
+                913
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "254 "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                922,
+                142,
+                934
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                28,
+                963,
+                833,
+                979
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/32a8247c33f2aca3a3e51c7df1a8cf06bab52ad1997f4951f11a5d47b9fb035a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "（a）60 mm≤D≤200 mm"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                105,
+                89,
+                349,
+                218
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7e069e4f9a1a15b13a1e2df35145a7144c98fdab14b9eb91bb2a699854af7e02.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "（b）200 mm<D≤400 mm"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                374,
+                90,
+                621,
+                218
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/12b1551cbef62858e3ce72ac126a37905a9f9e2333dc77db5e55f3eeb9acf0df.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "（c）400 mm<D≤1020 mm"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                648,
+                90,
+                894,
+                218
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d53c5728f3e65f9e786a0e2a25733addd39a6ccdc064c99db0df31e7e63be562.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "12 EC4 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig． 12 Prediction accuracy of EC4 on peak axial stress of statistical specimens "
+                    },
+                    {
+                        "type": "text",
+                        "content": "（a）60mm≤D≤200mm"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                104,
+                282,
+                347,
+                411
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1dbae8d76a1c2d84557be254d36a4aa278f7450b87b67ca9268aedb83857019a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "（b）200 mm<D≤400 mm"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                376,
+                282,
+                621,
+                411
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6cbfa1037b5a8dd123034ec0e878f5867061ac92d7b3ae27f6169484a91b090e.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "（c）400 mm<D≤1020mm"
+                    },
+                    {
+                        "type": "text",
+                        "content": "13 ( 7) "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig． 13 Prediction accuracy of formula ( 7) on peak axial stress of statistical specimens "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                650,
+                282,
+                894,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 02 、1. 01 、1. 00"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                491,
+                220,
+                504
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                327,
+                563,
+                354,
+                577
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 5 "
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                546,
+                132,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D 、 α 、 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { \\mathrm { y } }"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                618,
+                374,
+                634
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { \\mathrm { c } } ^ { ' }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "。"
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                637,
+                184,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "14a 、14b 、14c"
+                    }
+                ]
+            },
+            "bbox": [
+                157,
+                655,
+                250,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "f _ { \\mathrm { y } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "、"
+                    }
+                ]
+            },
+            "bbox": [
+                188,
+                674,
+                216,
+                689
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sigma _ { \\mathrm { ~ u ~ } } ^ { \\mathrm { ~ \\prime ~ } }"
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                693,
+                211,
+                706
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D = 1 5 0 ~ \\mathrm { m m }"
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                709,
+                260,
+                724
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8126eae8d3f1f32efe6cf7796700ac80f64407119f50ef0e753850635040de9f.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a)截面含钢率对尺寸效应的影响 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                105,
+                727,
+                364,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "f 'c "
+                    }
+                ]
+            },
+            "bbox": [
+                371,
+                674,
+                389,
+                688
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "α 、"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                658,
+                463,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "σ u 150 "
+                    }
+                ]
+            },
+            "bbox": [
+                408,
+                696,
+                445,
+                706
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/90fc8aec87219ace0db8e77ebe1e3a0102ead4b45e7383713a3678ab2450cf35.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b)钢材屈服强度对尺寸效应的影响 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                368,
+                727,
+                628,
+                859
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                600,
+                618,
+                890,
+                634
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                652,
+                638,
+                766,
+                650
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "15a "
+                    }
+                ]
+            },
+            "bbox": [
+                784,
+                656,
+                808,
+                667
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/510a302a93a0f1a14ff62c5fed3d52d0e2d7c67bd1d64278e6ebdea91691aedd.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig． 14 Size effect on peak axial stress of CFST column "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                633,
+                727,
+                892,
+                859
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(c)混凝上强度对尺寸效应的影响 "
+                    }
+                ]
+            },
+            "bbox": [
+                678,
+                863,
+                870,
+                875
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "14 "
+                    }
+                ]
+            },
+            "bbox": [
+                376,
+                883,
+                394,
+                894
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "255 "
+                    }
+                ]
+            },
+            "bbox": [
+                853,
+                922,
+                882,
+                934
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                28,
+                963,
+                833,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b7af96fa444fdabccf4f693330ee80b4cad4bc84c506434ea71b52d8185d1fab.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                137,
+                83,
+                894,
+                350
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9648720f6dc37cfb6793f6d37e7cc1f53bdb35c110dd7a6fb826bb24797d7086.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                161,
+                356,
+                428,
+                493
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/162ac24a5c0e8e2307e51db4bcdd41559330cf4debee89712b97758fac975a20.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b)工程构件"
+                    },
+                    {
+                        "type": "text",
+                        "content": "15 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig． 15 Size effect on peak axial stress of CFST columns in test and actual engineering "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                163,
+                495,
+                428,
+                644
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                741,
+                117,
+                755
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "18 "
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                777,
+                193,
+                789
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) "
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                846,
+                154,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "182 mm "
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                898,
+                289,
+                910
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "346 mm "
+                    }
+                ]
+            },
+            "bbox": [
+                344,
+                898,
+                401,
+                910
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 HATZIGEORGIOU G D.Numerical model for the behavior and capacity of circular CFT columns: part 1: theory J ． Engineering Structures 2008 30 ( 6 ) : 1573-1578． "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                369,
+                892,
+                429
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 HAN L H LI W BJORHOVDE R． Developments and advanced applications of concrete-filled steel tubular ( CFST ) structures: members J ． Journal of Constructional Steel Research 2014 100(9):211-228. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                434,
+                894,
+                495
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 HAN L H AN Y F． Performance of concrete-encased CFST stub columns under axial compression J ． Journal of Constructional Steel Research 2014 93 ( 1) : 62-76． "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                498,
+                892,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                563,
+                532,
+                574
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J ． 2015 ( 9 ) : "
+                    }
+                ]
+            },
+            "bbox": [
+                685,
+                579,
+                889,
+                590
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "42-44． ( WANG Jianjun FENG Zhi HAN Yu QIN Dayan． Steel structure on-site welding process of Hejiang Yangtze River Ibridge arch truss J.Western China Communications Science ＆ Technology 2015 ( 9) : 42-44． ( in Chinese) ) "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                552,
+                594,
+                894,
+                671
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                676,
+                532,
+                686
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "J ． 2010 31( 1) : 47-55． ( FANG Xiaodan WEI Hong JIANG Yi et al． Seismic design of the Guangzhou West Tower J ． Journal of Building Structures 2010 31( 1) : 47-55． ( in Chinese) ) "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                552,
+                690,
+                892,
+                753
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                756,
+                532,
+                766
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J ． 2012 42 "
+                    }
+                ]
+            },
+            "bbox": [
+                731,
+                771,
+                892,
+                783
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "( 10) : 1-6． ( ZHAO Hong LEI Qiang HOU Shengli LIN Hai． Engineering application of 8 concrete columns mega frame-core wall system in Guangzhou East Tower J ． Building Structure 2012 42 ( 10 ) : 1-6． ( in Chinese) ) "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                552,
+                787,
+                892,
+                865
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7 "
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                868,
+                532,
+                879
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "SAKINO K NAKAHARA H MORINO S NISHIYAMA I． Behavior of centrally loaded concretefilled steel-tube short columns J ． Journal of Structural "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                552,
+                868,
+                894,
+                912
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "256 "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                921,
+                142,
+                934
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                28,
+                963,
+                833,
+                979
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Engineering ASCE 2004 130( 2) : 180-188． "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8 European Committee for Standardization ( CEN ) ． Eurocode 4: design of composite steel and concrete structurespart 1-:general rulesand rulesfor buildings: EN 1994-1-1 S ． Brussels: CEN 2004． "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9 Architectural Institute of Japan(AIJ) .Recommendations for design and construction of concrete filled steel tubular structures S. Tokyo: AIJ 2008. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10 American Institute of Steel Construction． Specification for structural steel buildings: AISC 360-10 S ． Chicago IL: AISC 2010． "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11 : GB 50936—2013 S ． 2013． ( Code for design of concrete filled steel tubular structures: GB 5O936— 2013 S ． Beijing: China Architecture and Building Press 2013． ( in Chinese) ) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12 YAMAMOTO T KAWAGUCHI J MORINO S． Experimental study of scale effects on the compressive behavior of short concrete-filled steel tube columns J ． Composite Construction in Steel and Concrete 2000 25:879-891. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                85,
+                484,
+                418
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "13 "
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                86,
+                539,
+                96
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                697,
+                102,
+                858,
+                115
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": ") ，2012 28 ( 6) : 974-980． ( LU Xinzheng ZHANG Wankai LI Yi YE Lieping． Size effect of axial strength of concrete-filled square steel tube columns J ． Journal of Shenyang Jianzhu University ( Natural Science ) ，2012 28 ( 6 ) : 974-980． ( in Chinese) ) "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                118,
+                892,
+                215
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "14 "
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                219,
+                539,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": ": GB/T "
+                    }
+                ]
+            },
+            "bbox": [
+                678,
+                219,
+                892,
+                230
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "228． 1—2010 S ． "
+                    }
+                ]
+            },
+            "bbox": [
+                552,
+                235,
+                697,
+                247
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2010． ( Metallic materials-tensile testing: part 1: method of test at room temperature: GB /T 228． 1—2010 S.Beijing:China Architecture & Building Press 2010． ( in Chinese) ) "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                552,
+                250,
+                892,
+                315
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "15 "
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                319,
+                539,
+                329
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D ． 2003: 63-68． WANG Yuyin． Research on behavior of axially loaded circular steel tubes filled with high strength concrete D ． Harbin: Harbin Institute of Technology 2003: 63-68． ( in Chinese) ) "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                563,
+                335,
+                890,
+                414
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "257 "
+                    }
+                ]
+            },
+            "bbox": [
+                853,
+                921,
+                882,
+                934
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                28,
+                963,
+                833,
+                978
+            ]
+        }
+    ]
+]

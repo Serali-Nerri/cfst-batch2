@@ -1,0 +1,2148 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "doi: 10.3969/j.issn.1002-3550.2015.07.005 "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                63,
+                344,
+                76
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3e02a8a616fd7b89006b2d59bf2198bdef2ce7bbef78db578d26352cd6a42112.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Ultimate strength analysis to thin - walled circular concrete - filled steel tube column under axial compression "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                153,
+                791,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ZHANG Fengjie  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^{12}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " XIA Junwu  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^{12}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " CHANG Hongfei  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^{12}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " TAN Yongchao  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^{1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " XIA Xiang "
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                392,
+                754,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1.Jiangsu Key Laboratory of Environmental Impact and Structural Safety in Engineering China University of Mining and Technology Xuzhou 221008 China; 2.State Key Laboratory for Geomechanics and Deep Underground Engineering Xuzhou 221008 China) "
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                409,
+                877,
+                439
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract: In order to study ultimate bearing capacity of the thin - walled circular steel tube concrete column is applicable CECS: 2012 \"technical specification for concrete filled steel tubular\" it made of different thickness  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(t = 0.92"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 1.42 1.92 mm) different height different pipe strength experimental study of 9 root circular steel tube concrete column components the test results show that concrete filled thin - walled steel tube columns are still bearing capacity and good ductility load carrying capacity of members comparison the experimental results are consistent with the calculated results according to actual strength member that thin - walled circular steel tube concrete column axial compression bearing capacity is still use the \"rules\" provides formula and according to the \"rules\" provides the calculation formula on the conservative side based on the experimental results and the limit of concrete filled thin - walled steel tube columns bearing capacity value of suggestion. "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                458,
+                890,
+                586
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Key words: thin - walled; concrete - filled steel tube column; axial compression; ultimate bearing capacity "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                589,
+                712,
+                602
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/86d5e0746c811d8547677ad74a0a2c16fd7068c4b877757892beb2ae0b41c6cd.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                72,
+                621,
+                922,
+                939
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "2015 7 (309) "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                24,
+                300,
+                38
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Number 7 in 2015(Total No.309) "
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                42,
+                290,
+                55
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Concrete "
+                    }
+                ]
+            },
+            "bbox": [
+                480,
+                43,
+                547,
+                55
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "THEORETICAL RESEARCH "
+                    }
+                ]
+            },
+            "bbox": [
+                737,
+                42,
+                905,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "18· "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                940,
+                129,
+                951
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "(C)1994-2022 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net "
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                963,
+                835,
+                979
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0e652e71be0a21d721430f351cdedaf696ca956d305df52cf8bc7d5fbc895032.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td>D/mm</td><td>t/mm</td><td>D/t</td><td>θ1</td><td>θ2</td><td>h/mm</td><td>φi</td><td>fc/(N/mm2)</td><td>fc&#x27;/ (N/mm2)</td><td>fy/(N/mm2)</td><td>fy&#x27;/ (N/mm2)</td></tr><tr><td>CSC 1</td><td>139</td><td>0.92</td><td>151</td><td>0.407</td><td>0.27</td><td>500</td><td>1</td><td>14.3</td><td>31.2</td><td>215</td><td>317</td></tr><tr><td>CSC 2</td><td>139</td><td>0.92</td><td>151</td><td>0.407</td><td>0.27</td><td>600</td><td>0.935 3</td><td>14.3</td><td>31.2</td><td>215</td><td>317</td></tr><tr><td>CSC 3</td><td>139</td><td>0.92</td><td>151</td><td>0.407</td><td>0.27</td><td>900</td><td>0.819 1</td><td>14.3</td><td>31.2</td><td>215</td><td>317</td></tr><tr><td>CSC 4</td><td>139</td><td>0.92</td><td>151</td><td>0.407</td><td>0.27</td><td>1 200</td><td>0.752 5</td><td>14.3</td><td>31.2</td><td>215</td><td>317</td></tr><tr><td>CSC 5</td><td>139</td><td>1.42</td><td>97.87</td><td>0.633</td><td>0.396</td><td>500</td><td>1</td><td>14.3</td><td>31.2</td><td>215</td><td>293</td></tr><tr><td>CSC 6</td><td>139</td><td>1.92</td><td>72.4</td><td>0.866</td><td>0.609</td><td>500</td><td>1</td><td>14.3</td><td>31.2</td><td>215</td><td>329.8</td></tr><tr><td>CSC 7</td><td>139</td><td>0.92</td><td>151</td><td>0.374</td><td>0.48</td><td>600</td><td>0.935 3</td><td>14.3</td><td>31.2</td><td>315</td><td>427.66</td></tr><tr><td>CSC 8</td><td>139</td><td>0.92</td><td>151</td><td>0.374</td><td>0.48</td><td>900</td><td>0.819 1</td><td>14.3</td><td>31.2</td><td>315</td><td>427.66</td></tr><tr><td>CSC 9</td><td>139</td><td>0.92</td><td>151</td><td>0.374</td><td>0.48</td><td>1 200</td><td>0.752 5</td><td>14.3</td><td>31.2</td><td>315</td><td>427.66</td></tr><tr><td colspan=\"4\">: θ1 — 《 》; f_c — —</td><td colspan=\"3\">; θ2 — —</td><td colspan=\"2\">; φ1 — —</td><td colspan=\"3\">; f_c — —</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                80,
+                114,
+                917,
+                293
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.2 加载方式设计"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                75,
+                297,
+                225,
+                311
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/57084dc02126d305a7fdf99425ab4baa882dbf323058b36aa36d3456f3fd3154.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">7 000 kN</td></tr><tr><td>200 t</td><td></td></tr><tr><td>、</td><td>、</td></tr><tr><td>50 kN</td><td>3 min</td></tr><tr><td>20 kN。</td><td>1。</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                73,
+                317,
+                482,
+                436
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.3 构件破坏形态 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                75,
+                441,
+                226,
+                455
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6ec02ecf102b81fe0919314e38b85304daa8105fcf0898e9880a2c88bec15181.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>(CSCC3)</td><td>( CSCC9)</td></tr><tr><td>2(a)、(b)、(c)</td><td></td></tr><tr><td>2(d)</td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                75,
+                458,
+                478,
+                545
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/140e8a8d961d5743a4e5a38d4446f066e7ba37ba5966542502c4430022f05ff5.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                537,
+                351,
+                890,
+                549
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ac9ad983b2c25e23dc960ff4fbf6e076e9df432309e1456ac6c9db4609a4776b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a)CSCC1破坏形态 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                78,
+                589,
+                277,
+                709
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/40f00850adeedacecd6433315aeadcef5b4e0e28a707af5038b19e6e31c1dd26.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b)CSCC3破坏形态 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                292,
+                590,
+                490,
+                709
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/bf98b8c5240534b59cdeb623b24428d72190f9006e8941e27daa886a2efbef85.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(c)CSCC4破坏形态 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                505,
+                589,
+                704,
+                709
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fd98c8a352d7965692d8acdc224121b3fd092a293c02176ba03ebf89251a6e08.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(d)CSCC9破坏形态 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                719,
+                590,
+                917,
+                709
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2 薄壁钢管混凝土柱力学性能影响因素分析"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                73,
+                749,
+                473,
+                766
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1 钢管材性影响"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                73,
+                776,
+                226,
+                790
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "《"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                794,
+                191,
+                806
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N _ {0} \\quad , N _ {1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/431aa715be07aa9f6f2cd1317ac0a3b318e8e56d85d2602e5a7234730df28ee6.jpg"
+                }
+            },
+            "bbox": [
+                95,
+                829,
+                228,
+                845
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "》"
+                    }
+                ]
+            },
+            "bbox": [
+                369,
+                794,
+                379,
+                806
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2。"
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                813,
+                462,
+                825
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9d3862712e2837ac4435a8a5eda4e5edbb4d883ef6ea3957c518948df962dc05.jpg"
+                }
+            },
+            "bbox": [
+                95,
+                883,
+                220,
+                895
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{2}"
+                    }
+                ]
+            },
+            "bbox": [
+                416,
+                831,
+                445,
+                844
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "N "
+                    }
+                ]
+            },
+            "bbox": [
+                300,
+                902,
+                312,
+                915
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N _ {0}, N _ {1}, N _ {2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/6ce7fef71e6526c139a9dd76084f5438993145c19fd2357259a3be47745c433c.jpg"
+                }
+            },
+            "bbox": [
+                146,
+                920,
+                216,
+                934
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4bb7cef87da63798edb57af3d33759ad7bdb01730ff456694a0e3f4c656ed5b4.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">N0、N1</td><td>;</td><td colspan=\"2\">N0、N2</td></tr><tr><td colspan=\"2\">Q235</td><td></td><td>1.47%</td><td>5.31%</td></tr><tr><td>5</td><td></td><td></td><td>10%</td><td>17.73%。</td></tr><tr><td></td><td>2</td><td>3、4。</td><td></td><td></td></tr><tr><td>2</td><td>3、4</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Q345</td><td>Q235</td><td></td></tr><tr><td></td><td colspan=\"2\">80%</td><td>Q235</td><td></td></tr><tr><td>Q345</td><td colspan=\"2\">;</td><td></td><td></td></tr><tr><td></td><td colspan=\"2\">Q345</td><td></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                541,
+                741,
+                915,
+                901
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "； Q235"
+                    }
+                ]
+            },
+            "bbox": [
+                700,
+                921,
+                766,
+                935
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "10 mm "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                64,
+                142,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                366,
+                64,
+                379,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "1。"
+                    }
+                ]
+            },
+            "bbox": [
+                815,
+                64,
+                833,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "10 mm "
+                    }
+                ]
+            },
+            "bbox": [
+                221,
+                82,
+                270,
+                93
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "19 "
+                    }
+                ]
+            },
+            "bbox": [
+                867,
+                940,
+                905,
+                951
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "(C)1994-2022 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net "
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                963,
+                833,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/503915cb8817cf9eda5742487a25ac0386478dfeae53e7b503e3e66003a95787.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td>θ1</td><td>θ2</td><td>N1/kN</td><td>N2/kN</td><td>N0/kN</td><td>N0/N1/%</td><td>N0/N2/%</td><td>N2/N1/%</td></tr><tr><td>CSCC 1</td><td>0.407</td><td>0.27</td><td>344.8</td><td>638.6</td><td>648.8</td><td>188.48</td><td>101.47</td><td>185.75</td></tr><tr><td>CSCC 2</td><td>0.407</td><td>0.27</td><td>322.5</td><td>597.3</td><td>629.9</td><td>195.04</td><td>105.31</td><td>185.21</td></tr><tr><td>CSCC 3</td><td>0.407</td><td>0.27</td><td>282.4</td><td>523.1</td><td>550.2</td><td>194.76</td><td>105.14</td><td>185.23</td></tr><tr><td>CSCC 4</td><td>0.407</td><td>0.27</td><td>255.0</td><td>480.6</td><td>490.1</td><td>192.16</td><td>101.96</td><td>188.47</td></tr><tr><td>CSCC 5</td><td>0.633</td><td>0.396</td><td>424.4</td><td>732.3</td><td>749.7</td><td>176.65</td><td>102.38</td><td>172.57</td></tr><tr><td>CSCC 6</td><td>0.866</td><td>0.609</td><td>504.2</td><td>893.2</td><td>931.9</td><td>184.83</td><td>104.33</td><td>177.15</td></tr><tr><td>CSCC 7</td><td>0.374</td><td>0.48</td><td>435.7</td><td>930.0</td><td>1 029.2</td><td>236.17</td><td>110.65</td><td>213.45</td></tr><tr><td>CSCC 8</td><td>0.374</td><td>0.48</td><td>357.6</td><td>813.8</td><td>940.6</td><td>262.86</td><td>115.51</td><td>227.57</td></tr><tr><td>CSCC 9</td><td>0.374</td><td>0.48</td><td>328.5</td><td>747.5</td><td>880.7</td><td>267.88</td><td>117.73</td><td>227.55</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                79,
+                919,
+                221
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a887c8f7b6ca8c90f90496299930f9a3548bd0a594013adc1b0795212f27b00c.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "3 Q235 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                89,
+                250,
+                472,
+                395
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/433532b56d4246a5c1328adb45a430a8c3e9de2e8ca1fb699bf3172edf6f6325.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "5 D/T— "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                574,
+                250,
+                860,
+                388
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/20cb45425c4d3aef3fd1886f666454b7620843d06abf0203a6f23d1b1aae7aba.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "4 Q345、Q235 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                85,
+                420,
+                475,
+                581
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/10f33967e54d86f490920910ee9fc50cece9add5e99a36f6c7f2185edd01b6cc.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                584,
+                419,
+                867,
+                555
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "50% "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                655,
+                146,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2 径厚比  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(D / T)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 影响"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                671,
+                258,
+                687
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.3 长径比  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(L / D)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的影响"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                630,
+                710,
+                644
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5、6。"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                743,
+                356,
+                757
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5 3  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D / T"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                760,
+                354,
+                774
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "。 6 CSCC1 CSCC5"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                797,
+                391,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CSCC6 "
+                    }
+                ]
+            },
+            "bbox": [
+                226,
+                833,
+                307,
+                845
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D/T ； D/T"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                885,
+                484,
+                898
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CSCC1 "
+                    }
+                ]
+            },
+            "bbox": [
+                297,
+                904,
+                394,
+                916
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0.5 "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                922,
+                137,
+                934
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7.8。 3 8"
+                    }
+                ]
+            },
+            "bbox": [
+                564,
+                684,
+                791,
+                697
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CSCC1、CSCC2、CSCC4  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{3}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 331.2、"
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                702,
+                917,
+                715
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "344.1、331.2 kN"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                720,
+                623,
+                732
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{3} / N_{2}"
+                    }
+                ]
+            },
+            "bbox": [
+                544,
+                737,
+                813,
+                752
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e35a586e1656ed267e73c1bbbb5bcc48c1ab3b0d7e09b7dc48f7b26c3cac6f18.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                576,
+                758,
+                855,
+                912
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "·20· "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                940,
+                129,
+                951
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                366,
+                64,
+                376,
+                74
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "(C)1994-2022 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net "
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                963,
+                833,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/04531189a49596281506837d5713578302ac63a31ab6254ed02644e085c213f3.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                141,
+                67,
+                421,
+                219
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/57c9f1959303ada3282fdb76e7b85855f38173308a5f85cd3e31f2e698302da8.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td>/mm</td><td>N3/kN</td><td>N1/kN</td><td>N0/kN</td><td>N3/N0/%</td></tr><tr><td>CSCC 1</td><td>5.46</td><td>331.2</td><td>344.8</td><td>648.8</td><td>51.05</td></tr><tr><td>CSCC 2</td><td>4.96</td><td>344.1</td><td>322.5</td><td>629.9</td><td>54.63</td></tr><tr><td>CSCC 3</td><td>4.87</td><td>401.4</td><td>282.4</td><td>550.2</td><td>72.96</td></tr><tr><td>CSCC 4</td><td>4.72</td><td>331.2</td><td>255.0</td><td>490.1</td><td>67.57</td></tr><tr><td>CSCC 5</td><td>5.87</td><td>667.7</td><td>424.4</td><td>749.7</td><td>89.06</td></tr><tr><td>CSCC 6</td><td>6.95</td><td>900.2</td><td>504.2</td><td>931.9</td><td>96.60</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                80,
+                241,
+                482,
+                354
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 薄壁圆钢管混凝土柱构件极限承载力修正建议"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                387,
+                482,
+                423
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1、2、3"
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                434,
+                206,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3、4 "
+                    }
+                ]
+            },
+            "bbox": [
+                242,
+                435,
+                270,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{0}"
+                    }
+                ]
+            },
+            "bbox": [
+                344,
+                435,
+                364,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 88.48%(Q235) "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                454,
+                245,
+                469
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "136.17%（Q345）；  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{2}"
+                    }
+                ]
+            },
+            "bbox": [
+                265,
+                454,
+                428,
+                468
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 85.21%（Q235）"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                472,
+                248,
+                487
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "113.45%（Q345）；  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{2}"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{0}"
+                    }
+                ]
+            },
+            "bbox": [
+                272,
+                472,
+                484,
+                488
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{0}"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{2}5.31\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (Q235) "
+                    }
+                ]
+            },
+            "bbox": [
+                295,
+                491,
+                460,
+                505
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "17.73%(Q345) 《 》"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                508,
+                278,
+                523
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{3}"
+                    }
+                ]
+            },
+            "bbox": [
+                173,
+                545,
+                221,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{1}"
+                    }
+                ]
+            },
+            "bbox": [
+                231,
+                545,
+                250,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CSCC1 "
+                    }
+                ]
+            },
+            "bbox": [
+                317,
+                545,
+                366,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{3}"
+                    }
+                ]
+            },
+            "bbox": [
+                408,
+                545,
+                428,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{1}"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{3}"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 。"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                562,
+                295,
+                577
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6、8 "
+                    }
+                ]
+            },
+            "bbox": [
+                268,
+                582,
+                299,
+                593
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6.8  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{0}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 80%~85%  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{0}"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{2}"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(N_{2} / N_{1})"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 80%~85% "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                670,
+                443,
+                702
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "《 》  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "50\\%"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                706,
+                268,
+                719
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "《 》"
+                    }
+                ]
+            },
+            "bbox": [
+                413,
+                741,
+                465,
+                755
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.5。"
+                    }
+                ]
+            },
+            "bbox": [
+                203,
+                778,
+                235,
+                790
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4 结论"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                804,
+                151,
+                819
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1) "
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                831,
+                137,
+                845
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "(D / T)"
+                    }
+                ]
+            },
+            "bbox": [
+                273,
+                848,
+                413,
+                864
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "(D / T)"
+                    }
+                ]
+            },
+            "bbox": [
+                270,
+                884,
+                317,
+                898
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2) "
+                    }
+                ]
+            },
+            "bbox": [
+                546,
+                63,
+                571,
+                77
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(3) "
+                    }
+                ]
+            },
+            "bbox": [
+                546,
+                117,
+                571,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "《 》 《 》"
+                    }
+                ]
+            },
+            "bbox": [
+                566,
+                134,
+                794,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.5。"
+                    }
+                ]
+            },
+            "bbox": [
+                583,
+                189,
+                613,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 J. 2008 (25): 174 - 175. "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                246,
+                919,
+                281
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 2007. "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                288,
+                857,
+                323
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 M. 2007. "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                332,
+                872,
+                366
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4 M. 2004. "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                376,
+                899,
+                388
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5 J. 2002 18(4):1-7. "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                398,
+                873,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6 BODE H Columns of steel tubular sections filled with concrete - design and application J .Acier Stahl Steel 11(12):388-393. "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                441,
+                915,
+                476
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7 BRIDGE R Q. Concrete filled steel tubular columns C //Report No.R283 School of Civil Engineering Austrial 1976 29-40. "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                483,
+                919,
+                518
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8 J. 1984(6). "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                527,
+                915,
+                562
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9 OGOODE C D J. 1996 26(3):23-27. "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                571,
+                917,
+                605
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10 J. 2005 35(1):22-27. "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                615,
+                833,
+                649
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11 J. 2012 28(3):34-42. "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                658,
+                833,
+                692
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12 J. 2011 32(8):69-78. "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                701,
+                902,
+                734
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "13 "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                744,
+                712,
+                756
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J. 2009 29(2):70-74."
+                    }
+                ]
+            },
+            "bbox": [
+                579,
+                765,
+                895,
+                778
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "14 "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                788,
+                630,
+                799
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J. 2006 27(5):16-22. : (1979-) "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                808,
+                915,
+                848
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(221008) "
+                    }
+                ]
+            },
+            "bbox": [
+                569,
+                875,
+                895,
+                889
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "： 13645228766"
+                    }
+                ]
+            },
+            "bbox": [
+                569,
+                895,
+                668,
+                907
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "·21· "
+                    }
+                ]
+            },
+            "bbox": [
+                867,
+                940,
+                905,
+                952
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "(C)1994-2022 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net "
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                963,
+                835,
+                979
+            ]
+        }
+    ]
+]

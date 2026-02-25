@@ -1,0 +1,3387 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3ec50f5d0fed474bcd395ab06f077ca06b368fe7421e7ab45eb040c97ee7e635.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                127,
+                135,
+                865,
+                340
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Experimental study on the axial compression performance of high-strength concrete filled steel tube columns "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                211,
+                353,
+                784,
+                385
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ke Xiaojun1 2 Chen Zongping 2 Ying Wudang 2 Xue Jianyang 1 "
+                    }
+                ]
+            },
+            "bbox": [
+                268,
+                388,
+                726,
+                406
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 1 School of Civil Engineering Xi'an University of Architecture and Technology Xi'an 710055 China; "
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                407,
+                815,
+                423
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 College of Civil Engineering and Architecture Guangxi University Nanning 530004 China) "
+                    }
+                ]
+            },
+            "bbox": [
+                205,
+                425,
+                786,
+                439
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract: To study the axial compression performance of high-strength concrete filled steel tube ( HCFST) columns 5 HCFST specimens and 2 contrastive specimens ( one hollow steel tube specimen and one pure concrete specimen) were designed for the axial compresion test considering the variable parameters of concrete strength and length-diameter ratio． Test results indicate that HCFST specimens and hollow steel tube specimen are waist-shaped failure and the pure concrete specimen is vertical splitting failure． Load-axial displacement curves of all specimens except the pure concrete specimen are basically similar they all experience three stages as rising stage falling stage and rally stage． The ultimate bearing capacity of HCFST specimens increases with the increase of concrete strength and decreases with the increase of lengthdiameter ratio． According to the analysis of ultimate bearing capacity of HCFST columns by the calculated formulas of Unified Strength Theory and Confinement Theory the results calculated by Code for design of steel-concrete composite structure ( DL / T 5085—1999) and Technical specification for concrete-filled steel tubular structures( CECS 28∶ 2012) are in good agreement with the test results and it indicates that HCFST columns can be designed with DL /T 5085—1999 and CECS 28∶ 2012． "
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                443,
+                873,
+                642
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: concrete filled steel tube; high-strength concrete; axial compression test; ultimate bearing capacity "
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                646,
+                801,
+                659
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/01b121d987cec37dfb6ab424aeb356c2e9fb26e3aaf06267637038370cea175d.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "0 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                115,
+                697,
+                907,
+                920
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI:10.19701/j.jzjg.2014.16.010 "
+                    }
+                ]
+            },
+            "bbox": [
+                21,
+                0,
+                231,
+                14
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "44 16 "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                34,
+                201,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "2014 8 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                51,
+                164,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Building Structure "
+                    }
+                ]
+            },
+            "bbox": [
+                431,
+                49,
+                564,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol． 44 No． 16 "
+                    }
+                ]
+            },
+            "bbox": [
+                800,
+                33,
+                904,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Aug． 2014 "
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                49,
+                904,
+                65
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                28,
+                963,
+                835,
+                979
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/12a1b733def65cbb34aeb5995bf49689a8794b2bae6ea76336c9f1775340c0cf.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                85,
+                80,
+                909,
+                533
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3331084018b9a2173c92d582d685d3468c51595389632d37d31269bd7c0f0532.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td></td><td>L/mm</td><td>D/mm</td><td>t/mm</td><td>L/D</td><td>fy/MPa</td><td>fu/MPa</td><td>fc/MPa</td><td>ξ</td><td>Nt/kN</td></tr><tr><td>HCFST-1</td><td>C60</td><td>404</td><td>110</td><td>3.0</td><td>3.67</td><td>398</td><td>458</td><td>44.78</td><td>1.055</td><td>1030</td></tr><tr><td>HCFST-2</td><td>C70</td><td>390</td><td>110</td><td>3.0</td><td>3.55</td><td>398</td><td>458</td><td>47.61</td><td>0.992</td><td>1085</td></tr><tr><td>HCFST-3</td><td>C80</td><td>395</td><td>110</td><td>3.0</td><td>3.59</td><td>398</td><td>458</td><td>51.96</td><td>0.909</td><td>1247</td></tr><tr><td>HCFST-4</td><td>C70</td><td>303</td><td>110</td><td>3.0</td><td>2.75</td><td>398</td><td>458</td><td>47.61</td><td>0.992</td><td>1134</td></tr><tr><td>HCFST-5</td><td>C70</td><td>400</td><td>88</td><td>2.7</td><td>4.55</td><td>410</td><td>479</td><td>47.61</td><td>1.163</td><td>718</td></tr><tr><td>ST-6</td><td>—</td><td>300</td><td>110</td><td>3.0</td><td>2.73</td><td>398</td><td>458</td><td>47.61</td><td>—</td><td>295</td></tr><tr><td>HC-7</td><td>C70</td><td>300</td><td>104</td><td>—</td><td>2.88</td><td>—</td><td>—</td><td>47.61</td><td>—</td><td>299</td></tr><tr><td colspan=\"10\">: L ; D ; t ; L/D ; fy ; fu ; fc</td><td>;ξ</td></tr><tr><td colspan=\"11\">ξ=fyAs/fcAc A_s A_c</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>; Nt</td><td>。</td><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                90,
+                554,
+                905,
+                705
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f268651088cc83695da016cddc74563dd55088c7aa9b03c2468f5faefa023094.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                90,
+                715,
+                189,
+                884
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4fadef022e3e13055c723aeebc9968c9499d38e34c6f7b8464866fa8d5b678c3.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                201,
+                717,
+                294,
+                884
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5b7bb9fad9fc9ac2b9d93517298698898f124653e111d6293e5b4f3dea6a8cbf.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                305,
+                717,
+                394,
+                884
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/65df2ec9091670916ad3b8217aaad43fb5c09ff4c3d7f7bfb3c90bdb4985d237.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                406,
+                717,
+                494,
+                884
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6e43348bba81ef45d79c50d62046ffb31f24b4f15d760cff19eb19d4582c730f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                507,
+                717,
+                588,
+                884
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f1cca9a1e440799a7a566fbd2612d5d6e2f7f4d36963936044081e5d56affa54.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                598,
+                717,
+                697,
+                884
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/53fd67c67f5c44cadc48a897bd1f0e99e24bd570d1dd93aa925afe1959565c0c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                714,
+                717,
+                800,
+                884
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1b7484e26f187ce90d44b9b031701cb270105fc6f970e3ee2ce3bb6a6affda14.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a)钢管高强混凝土柱(自左向右依次为 HCFST-1~HCFST-5)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(b)空钢管柱(ST-6) "
+                    },
+                    {
+                        "type": "text",
+                        "content": "(c）素混凝土柱(HC-7) "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                813,
+                717,
+                905,
+                884
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "44 "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                46,
+                134,
+                59
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "16 "
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                46,
+                201,
+                58
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "47 "
+                    }
+                ]
+            },
+            "bbox": [
+                873,
+                48,
+                895,
+                61
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                450,
+                904,
+                458,
+                915
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                28,
+                963,
+                835,
+                979
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 0. 003 1) "
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                79,
+                240,
+                96
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 0. 001 6 ) 。"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                80,
+                453,
+                95
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                118,
+                527,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 1 "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                137,
+                542,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                569,
+                155,
+                583,
+                167
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 3 "
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                210,
+                213,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HCFST-2 HCFST-3 "
+                    }
+                ]
+            },
+            "bbox": [
+                690,
+                210,
+                836,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HCFST-1 "
+                    }
+                ]
+            },
+            "bbox": [
+                470,
+                228,
+                581,
+                241
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. 34% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 1 . 0 7 \\%"
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                229,
+                818,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                247,
+                110,
+                261
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fc77c0d11da970d9a7bbb2b408a7dd2b46a987b2dd0a43fd917e89ed26d905c5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                855,
+                247,
+                865,
+                261
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": ") "
+                    }
+                ]
+            },
+            "bbox": [
+                566,
+                265,
+                576,
+                279
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 2 "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                284,
+                542,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                569,
+                304,
+                581,
+                315
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "步; 2 ) 3 "
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                357,
+                349,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HCFST-4 HCFST-2 "
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                340,
+                657,
+                353
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HCFST-5 "
+                    }
+                ]
+            },
+            "bbox": [
+                719,
+                340,
+                786,
+                353
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "σ sc "
+                    }
+                ]
+            },
+            "bbox": [
+                858,
+                361,
+                902,
+                373
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N _ {\\mathrm {t}} / A _ {\\mathrm {s c}} \\left(A _ {\\mathrm {s c}} \\right.",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/7b50c7d12e5a56982bace6d4f3dededda7499f85481f3c298a539e52efbe31fd.jpg"
+                }
+            },
+            "bbox": [
+                514,
+                376,
+                591,
+                392
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f69d7c194cf169ac7b0a83b550bb7ccdf6a95f0759398d1e6ece564d7b3e87fa.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                784,
+                376,
+                793,
+                390
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HCFST-4 HCFST-2 HCFST-5 "
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                395,
+                752,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 4 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                413,
+                176,
+                426
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "119 114 76MPa 。"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                413,
+                645,
+                426
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HCFST-2 HCFST-5 "
+                    }
+                ]
+            },
+            "bbox": [
+                695,
+                413,
+                840,
+                426
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                432,
+                161,
+                444
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HCFST-4 "
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                432,
+                581,
+                444
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "4 . 2 0 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 6 . 1 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "。"
+                    }
+                ]
+            },
+            "bbox": [
+                663,
+                432,
+                800,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                488,
+                526,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HCFST-4 ST-6 HC-7 "
+                    }
+                ]
+            },
+            "bbox": [
+                657,
+                506,
+                810,
+                519
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 134 295 299kN( 1 和图 7) 。"
+                    }
+                ]
+            },
+            "bbox": [
+                586,
+                524,
+                823,
+                539
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0. 008 "
+                    }
+                ]
+            },
+            "bbox": [
+                277,
+                562,
+                322,
+                574
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 91 "
+                    }
+                ]
+            },
+            "bbox": [
+                868,
+                562,
+                902,
+                574
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a76e08e9bf0445e4c6b61db8962d29b696da12599b65f449e99f12ef6120beda.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "( 0. 001 6) ，"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                94,
+                599,
+                357,
+                728
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                740,
+                156,
+                751
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2c30860558bdda058863d2d9e4946bc9ba5182010cee7791faea277890a589d8.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                364,
+                598,
+                626,
+                728
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                410,
+                740,
+                421,
+                751
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b08d3b1d25cc74582d1e769a052394d1be18ab167ac66afa6678e390056aae0f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                636,
+                598,
+                875,
+                728
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                678,
+                740,
+                689,
+                751
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1b5a10eb79e675038c2c4f2ba5a6820430b0a2e5fc478b05963698045cdb52da.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                97,
+                769,
+                354,
+                901
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                907,
+                171,
+                917
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/611a06554b31b123041c43613f858a1c7e6c9cd11dbb24a5da49bd4999a70d45.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                364,
+                770,
+                623,
+                901
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                907,
+                455,
+                917
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/648389d3e00289a19d6554b89685006c611337342fe5f9658ed08e0cf3b0acda.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                633,
+                770,
+                889,
+                901
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7 "
+                    }
+                ]
+            },
+            "bbox": [
+                702,
+                907,
+                714,
+                917
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "48 "
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                48,
+                119,
+                60
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "2014 "
+                    }
+                ]
+            },
+            "bbox": [
+                843,
+                45,
+                882,
+                58
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                28,
+                963,
+                833,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { \\mathrm { t } }"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                80,
+                608,
+                93
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                80,
+                905,
+                92
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c170029cb8aad26974c6e36155791c278c3453398cb516f6ed22228236d05e80.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">Nt/kN</td><td colspan=\"2\">1\nDL/T 5085-1999 9</td><td colspan=\"2\">2\nDBJ 13-51-2010 10</td><td colspan=\"2\">3</td><td colspan=\"2\">CECS 28: 2012 11</td></tr><tr><td>Nc/kN</td><td>Nc/Nt</td><td>Nc/kN</td><td>Nc/Nt</td><td>Nc/kN</td><td>Nc/Nt</td><td>Nc/kN</td><td>Nc/Nt</td></tr><tr><td>HCFST-1</td><td>1030</td><td>1002</td><td>0.973</td><td>911</td><td>0.884</td><td>1183</td><td>1.148</td><td>992</td><td>0.963</td></tr><tr><td>HCFST-2</td><td>1085</td><td>1034</td><td>0.953</td><td>941</td><td>0.868</td><td>1207</td><td>1.112</td><td>1014</td><td>0.934</td></tr><tr><td>HCFST-3</td><td>1247</td><td>1083</td><td>0.869</td><td>981</td><td>0.787</td><td>1243</td><td>0.997</td><td>1047</td><td>0.840</td></tr><tr><td>HCFST-4</td><td>1134</td><td>1035</td><td>0.913</td><td>963</td><td>0.849</td><td>1207</td><td>1.064</td><td>1014</td><td>0.894</td></tr><tr><td>HCFST-5</td><td>718</td><td>706</td><td>0.983</td><td>632</td><td>0.880</td><td>776</td><td>1.080</td><td>649</td><td>0.904</td></tr><tr><td></td><td>—</td><td>—</td><td>0.938</td><td>—</td><td>0.854</td><td>—</td><td>1.080</td><td>—</td><td>0.907</td></tr><tr><td></td><td>—</td><td>—</td><td>0.047</td><td>—</td><td>0.040</td><td>—</td><td>0.057</td><td>—</td><td>0.046</td></tr><tr><td></td><td>—</td><td>—</td><td>0.050</td><td>—</td><td>0.047</td><td>—</td><td>0.052</td><td>—</td><td>0.051</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                90,
+                97,
+                905,
+                271
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} \\text {《 - 》} \\\\ (\\mathrm {D L / T} 5 0 8 5 - 1 9 9 9) ^ {9} (\\quad \\mathrm {D L / T} 5 0 8 5 - 1 9 9 9) \\\\ \\langle \\text {D B J} 1 3 - 5 1 - 2 0 1 0 \\rangle^ {1 0} \\\\ \\langle \\text {D B J} 1 3 - 5 1 - 2 0 1 0) \\quad \\langle \\text {D B J} 1 3 - 5 1 - 2 0 1 0) \\\\ \\langle \\text {C E C S} 2 8: 2 0 1 2) ^ {1 1} (\\quad \\text {C E C S} 2 8: 2 0 1 2) \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/08ee2b94d4fcd1d873b411089ab9b40af41bc928e74bd46a604049b1a6e53001.jpg"
+                }
+            },
+            "bbox": [
+                90,
+                282,
+                482,
+                391
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c c c} 2 & 6 \\sim 8 \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d9637ca105892ee21bb5a5b7045879a55acdb885140c0f722d415dbc2408581d.jpg"
+                }
+            },
+            "bbox": [
+                97,
+                428,
+                201,
+                444
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 1 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                504,
+                119,
+                518
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm {D L} / \\mathrm {T} 5 0 8 5 - 1 9 9 9 ^ {\\prime}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/420ce950224d0ad20452791d03071b9a571ec66775789c3c232c9250c4d2165b.jpg"
+                }
+            },
+            "bbox": [
+                184,
+                521,
+                369,
+                537
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N \\quad :",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/72885838556c1a137f9e79f255679c49d424827e91589f7611fca6898fd04e7a.jpg"
+                }
+            },
+            "bbox": [
+                236,
+                542,
+                366,
+                556
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N = \\varphi (1. 2 1 2 + B \\xi + C \\xi^ {2}) f _ {\\mathrm {c}} A _ {\\mathrm {s c}} \\tag {1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9ff31d611271daf8114991c098a06c611d73aa504f42818cb9b9da75b3883533.jpg"
+                }
+            },
+            "bbox": [
+                168,
+                561,
+                478,
+                577
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "B = 0. 1 7 5 9 \\frac {f _ {\\mathrm {y}}}{2 1 5} + 0. 9 7 4 \\tag {2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/6ee74b09603457e62f72c66fdfc10f42234890ce8f7d25d96eda1d278bdd64be.jpg"
+                }
+            },
+            "bbox": [
+                188,
+                600,
+                478,
+                629
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "C = - 0. 1 0 3 8 \\frac {f _ {\\mathrm {c}}}{2 0} + 0. 0 3 0 9 \\tag {3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/2b678f70d3f48b73452f262fa5824a7d256b607e39e2d42007bbdae0b3b7c509.jpg"
+                }
+            },
+            "bbox": [
+                179,
+                636,
+                477,
+                664
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "D B J 1 3 - 5 1 - 2 0 1 0 ^ {1 0}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/2ad45accbe44c18ddb5b3f890a26741e80362125308ee289bdb08a9921b7957b.jpg"
+                }
+            },
+            "bbox": [
+                184,
+                668,
+                369,
+                684
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N \\quad :",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/5aea92450c77f0ea11e14b8968971a2651b2cbc80a35a5b737b7f7f90c50f784.jpg"
+                }
+            },
+            "bbox": [
+                236,
+                689,
+                366,
+                703
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N = \\varphi (1. 1 4 + 1. 0 2 \\xi) f _ {\\mathrm {c}} A _ {\\mathrm {s c}} \\tag {4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/34969835ff5c9d600969e24fd5e3700a32fb3327a8629293026635ccc3aeabfe.jpg"
+                }
+            },
+            "bbox": [
+                184,
+                708,
+                477,
+                724
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\varphi \\quad \\text {D B J} 1 3 - 5 1 - 2 0 1 0 ^ {1 0} 。",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/eafca281698110c96d4f617147854ca56aac040a4e7f1e429bb3f1e0a05409b9.jpg"
+                }
+            },
+            "bbox": [
+                131,
+                728,
+                480,
+                745
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 2 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                747,
+                122,
+                760
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 N "
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                765,
+                482,
+                780
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\theta \\leqslant 1. 2 3 5",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8b442e4c4494dcb98c98c66616d138470dfe188e1cb862be7709e922b7840139.jpg"
+                }
+            },
+            "bbox": [
+                112,
+                803,
+                194,
+                816
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N = \\varphi A _ {\\mathrm {c}} f _ {\\mathrm {c}} (1 + 2 \\theta) \\tag {5}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d7aec4f1f7f0bd786efa7754e7518ab43ad774f209ee63c32c27f8454a151a96.jpg"
+                }
+            },
+            "bbox": [
+                208,
+                822,
+                477,
+                838
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\theta > 1. 2 3 5",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/241e268b6219bd1121b5aa9d23097a3e6d847216cd6aff8422fd0244aa8a7988.jpg"
+                }
+            },
+            "bbox": [
+                112,
+                841,
+                194,
+                854
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N = \\varphi A _ {\\mathrm {c}} f _ {\\mathrm {c}} (1 + \\sqrt {\\theta} + 1. 1 \\theta) \\tag {6}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c9beae9a6f85b5ea26a7df5e37f5bb1e3f6a1913438a5f65b75ad13984bea7db.jpg"
+                }
+            },
+            "bbox": [
+                181,
+                860,
+                477,
+                879
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                126,
+                884,
+                134,
+                894
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\varphi = 1 - 0. 1 1 5 \\sqrt {L / D - 4} (L / D > 4) \\tag {7}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/fb267c8574296db8aba0fb3d9582ec848b7ba75c1e872f2044508c688326397c.jpg"
+                }
+            },
+            "bbox": [
+                134,
+                902,
+                477,
+                919
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "0. 5 <   \\theta \\leqslant 1. 5 6",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c6c42c971bffefd2f3c68b25e49bb09a72b42af738a9feb1ace2a7314b30d2c2.jpg"
+                }
+            },
+            "bbox": [
+                534,
+                299,
+                660,
+                313
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "1. 5 6 <   \\theta \\leqslant 2. 5",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/7cbb35bf8ff874d445d9425c3861b05b5dd83d5d77b77d815b26729d5d26796d.jpg"
+                }
+            },
+            "bbox": [
+                536,
+                336,
+                660,
+                351
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} \\mathrm {C E C S} 2 8: 2 0 1 2 ^ {1 1}: \\\\ N = 0. 9 \\varphi A _ {\\mathrm {c}} f _ {\\mathrm {c}} (1 + 1. 8 \\theta) (8) \\\\ N = 0. 9 \\varphi A _ {\\mathrm {c}} f _ {\\mathrm {c}} (1 + \\sqrt {\\theta} + \\theta) (9) \\\\ : \\theta \\quad \\theta = f _ {\\mathrm {s}} A _ {\\mathrm {s}} / f _ {\\mathrm {c}} A _ {\\mathrm {c}} \\quad f _ {\\mathrm {s}} \\\\ ; \\varphi \\quad \\mathrm {C E C S} 2 8: 2 0 1 2 ^ {1 1} \\quad \\varphi \\\\ (7) 。 \\\\ \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a79adc2bc94919034119b275850bd99fae28cc22b55c0af8c664a1c8e55e3e0b.jpg"
+                }
+            },
+            "bbox": [
+                549,
+                280,
+                900,
+                431
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 1) "
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                489,
+                578,
+                506
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "D L / T 5 0 8 5 - 1 9 9 9 ^ {9} \\quad D B J 1 3 - 5 1 - 2 0 1 0 ^ {1 0}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d408181e5cc5127ad93ff30b88e519a727cf7f5a3fea96ecac47a50920ace31b.jpg"
+                }
+            },
+            "bbox": [
+                514,
+                508,
+                840,
+                524
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "6 \\% \\quad 15 \\%",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/75308581d058fe6190c3f649668eaedf8f4e4a803ba2173ab69f267de13a3232.jpg"
+                }
+            },
+            "bbox": [
+                709,
+                527,
+                800,
+                542
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 2) "
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                546,
+                576,
+                562
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\text {。 C E C S 2 8 :}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/da6ce08403a018700a57f4e157d1acde2374cd45b8518acb543e7bd124ee3b71.jpg"
+                }
+            },
+            "bbox": [
+                803,
+                565,
+                900,
+                580
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "2 0 1 2 ^ {1 1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/71b7bf3616747ec8b9c5a1721223cee3ac1b74a634849a2872015bb4054b45a2.jpg"
+                }
+            },
+            "bbox": [
+                512,
+                583,
+                568,
+                598
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "10 \\%",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/4d4233a8d436441098faa7f4fe9215f626aec2974d933f6508fc2f59dbfe54c4.jpg"
+                }
+            },
+            "bbox": [
+                820,
+                640,
+                855,
+                653
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 3) "
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                678,
+                576,
+                693
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "D L / T 5 0 8 5 - 1 9 9 9 \\quad C E C S 2 8: 2 0 1 2 ^ {1 1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/5e39628939eec8ede579acb905f2353a3dac67b76e1a87477ff22df79ac28802.jpg"
+                }
+            },
+            "bbox": [
+                554,
+                696,
+                858,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                734,
+                524,
+                747
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "(1)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/bc27c7e0ec87681ca9585c1152fd14558e5bc76f8267d70a08452f651e18e17f.jpg"
+                }
+            },
+            "bbox": [
+                551,
+                753,
+                576,
+                768
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "(2)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9fb8306283c773ef8bbe1ff2433dee05bcadb30d3c212de304a62300c0da0308.jpg"
+                }
+            },
+            "bbox": [
+                551,
+                809,
+                576,
+                824
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                551,
+                889,
+                559,
+                896
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 76 ) "
+                    }
+                ]
+            },
+            "bbox": [
+                784,
+                903,
+                900,
+                919
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "44 "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                46,
+                134,
+                59
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "16 "
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                46,
+                201,
+                58
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "49 "
+                    }
+                ]
+            },
+            "bbox": [
+                873,
+                49,
+                895,
+                61
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                28,
+                963,
+                833,
+                979
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\kappa = 0. 1 1 2 5 \\lg N - 0. 4 4 1 6 \\tag {6a}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/0d1259c34b05f6e86aeb355960483f2f63678bd2cd49d0deae0d4cd602f7b651.jpg"
+                }
+            },
+            "bbox": [
+                186,
+                80,
+                477,
+                96
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\rho \\geqslant 0.6\\% :",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/60099d60e75c49ff1c0944f15f24768f88aad37cfce1aff0a1622e06b77fac87.jpg"
+                }
+            },
+            "bbox": [
+                112,
+                101,
+                208,
+                115
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\kappa = (0. 0 0 1 7 - 0. 0 9 2 6 \\rho) n - 1 8. 2 7 6 \\rho + 0. 3 4 3 6 \\tag {6b}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/71483e76db71c445bb66eefa3e8e2cc47568c89cec7b04afee80e5301fe0b2e9.jpg"
+                }
+            },
+            "bbox": [
+                92,
+                120,
+                477,
+                134
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "(6 a) \\quad (6 b)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a30624536e766ea920a91790f65fc4b710bcc8286db31c03f85c4e543ba5cc07.jpg"
+                }
+            },
+            "bbox": [
+                181,
+                137,
+                265,
+                153
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/af0cf975bc29bd50a4cdd06de7cb4f36b5acfa1a6fd4d4345598441043aa6b43.jpg"
+                }
+            },
+            "bbox": [
+                265,
+                137,
+                324,
+                152
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "0. 1",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/53522479a47592e9e336af81f029168a9107006e87ead99e57952d2a9e99ff77.jpg"
+                }
+            },
+            "bbox": [
+                406,
+                156,
+                433,
+                170
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "0. 0 9 8",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e73b8dd1a0890587c6316f1abe3268f37734e969029bc0c4921b3a8db7668311.jpg"
+                }
+            },
+            "bbox": [
+                151,
+                177,
+                196,
+                189
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm {H R B F 5 0 0}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/64f8ce1384df201ba2eb5012e09335771d469d7c875e76633ce0e54a1b302561.jpg"
+                }
+            },
+            "bbox": [
+                154,
+                195,
+                226,
+                208
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "f",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/511f9f99dcf76ae8bc5ec2b6ba0a48d76371c2370641e1d1079239b88a9c2e32.jpg"
+                }
+            },
+            "bbox": [
+                408,
+                195,
+                426,
+                209
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                127,
+                216,
+                134,
+                225
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\rho <   0.6\\% :",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/55df78c89faa12b03599389034f5316f884be9f97d9094ceec422b2b7e913ae4.jpg"
+                }
+            },
+            "bbox": [
+                112,
+                233,
+                208,
+                247
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "f = (0. 1 1 2 5 \\lg N + 0. 5 5 8 4) f _ {1} \\tag {7a}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/720be046291265bcb61117d43c37e8400dd2d85da7fcef0fabcbfea7afdfbca6.jpg"
+                }
+            },
+            "bbox": [
+                168,
+                250,
+                477,
+                266
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\rho \\geqslant 0.6\\% :",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/04f18c5c6d889b98794eb7c8939b4f6a136819c24f5628a24524cb33f05afd47.jpg"
+                }
+            },
+            "bbox": [
+                112,
+                269,
+                206,
+                284
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "f = (0. 0 0 1 7 - 0. 0 9 2 6 \\rho) n - 1 8. 2 7 6 \\rho + 1. 3 4 3 6 f _ {1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a1a911282c60904ff61a075393443b91cc817415874777a005b41c9614a28966.jpg"
+                }
+            },
+            "bbox": [
+                87,
+                288,
+                480,
+                304
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "(7 \\mathrm {b})",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9f57a51c453d03a9cd34f563b203984a488449fc85dd55f0eb787e6eb4df281a.jpg"
+                }
+            },
+            "bbox": [
+                442,
+                309,
+                475,
+                322
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\colon f _ {1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/cfbea6bdd76b1805f4b9a801e0caf195b7be4a5a5004a8a39092e075e344f08a.jpg"
+                }
+            },
+            "bbox": [
+                127,
+                328,
+                152,
+                342
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\langle \\rangle_ {\\text {G B 5 0 0 1 0} -}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/5695c229d40bdd9cb16afcef7386e585e408741e8d8eaf6bf8be0cb5ab5bc80e.jpg"
+                }
+            },
+            "bbox": [
+                194,
+                344,
+                482,
+                359
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "2 0 1 0)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/94ae5a90456dbc60b065356ccb704ebcc875b59b0239e09084d4de37e6954880.jpg"
+                }
+            },
+            "bbox": [
+                90,
+                365,
+                134,
+                378
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                453,
+                365,
+                463,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                384,
+                104,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 1) HRBF500 "
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                401,
+                228,
+                414
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "1 6 0 \\mathrm {M P a}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/85fc90e501e18f1b288d9f297c2afbd70fb925a7c0e3b81edc1856f8ff30ece1.jpg"
+                }
+            },
+            "bbox": [
+                260,
+                458,
+                319,
+                470
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                129,
+                495,
+                154,
+                508
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HRBF500 "
+                    }
+                ]
+            },
+            "bbox": [
+                166,
+                551,
+                240,
+                563
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 3) "
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                80,
+                576,
+                95
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "》( GB 50010—2010) "
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                136,
+                685,
+                152
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HRBF500 "
+                    }
+                ]
+            },
+            "bbox": [
+                722,
+                175,
+                793,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                554,
+                250,
+                564,
+                260
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J ． 2005 26 "
+                    }
+                ]
+            },
+            "bbox": [
+                719,
+                267,
+                904,
+                278
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 2) : 94-100． "
+                    }
+                ]
+            },
+            "bbox": [
+                556,
+                285,
+                635,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                303,
+                537,
+                313
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J ． 2006 36 ( 2 ) : "
+                    }
+                ]
+            },
+            "bbox": [
+                715,
+                318,
+                900,
+                332
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "51-54． "
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                338,
+                594,
+                349
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 AL-ROUSAN R ISSA M． Fatigue performance of "
+                    }
+                ]
+            },
+            "bbox": [
+                527,
+                355,
+                905,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "reinforced concrete beams strengthened with CFRP sheets "
+                    }
+                ]
+            },
+            "bbox": [
+                557,
+                372,
+                904,
+                385
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J ． Construction and Building Materials 2011 25( 8) : "
+                    }
+                ]
+            },
+            "bbox": [
+                557,
+                391,
+                900,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3520-3529． "
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                407,
+                625,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                527,
+                426,
+                537,
+                437
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "RC "
+                    }
+                ]
+            },
+            "bbox": [
+                848,
+                426,
+                868,
+                437
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J ． 2006 39( 4) : 35- "
+                    }
+                ]
+            },
+            "bbox": [
+                653,
+                444,
+                907,
+                457
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "38． "
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                463,
+                576,
+                473
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5 HEFFERNAN P J ERKI M A． Fatigue behavior of "
+                    }
+                ]
+            },
+            "bbox": [
+                527,
+                479,
+                905,
+                493
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "reinforced concrete beams strengthened with carbon fiber "
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                497,
+                904,
+                510
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "reinforced plastic laminates J ． Journal of Composites "
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                514,
+                904,
+                527
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "for Construction 2004 8( 2) : 132-140． "
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                532,
+                805,
+                545
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                527,
+                552,
+                537,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HRBF500 "
+                    }
+                ]
+            },
+            "bbox": [
+                791,
+                551,
+                853,
+                562
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J ． 2010 40 "
+                    }
+                ]
+            },
+            "bbox": [
+                746,
+                569,
+                904,
+                580
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 11) : 18-26． "
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                586,
+                635,
+                598
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 49 ) "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                615,
+                208,
+                631
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                129,
+                653,
+                154,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 4) "
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                690,
+                154,
+                705
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1999 9 CECS 28∶ 2012 11 "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                728,
+                292,
+                741
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DL /T 5085— "
+                    }
+                ]
+            },
+            "bbox": [
+                379,
+                709,
+                482,
+                722
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 M ． "
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                803,
+                460,
+                815
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2006． "
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                822,
+                458,
+                832
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 M ． "
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                839,
+                458,
+                848
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2007． "
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                854,
+                458,
+                865
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 M ． "
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                872,
+                458,
+                883
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2003． "
+                    }
+                ]
+            },
+            "bbox": [
+                189,
+                889,
+                458,
+                898
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                906,
+                458,
+                916
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J ． 2011 32 ( 10) : "
+                    }
+                ]
+            },
+            "bbox": [
+                670,
+                617,
+                900,
+                629
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "166-172． "
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                634,
+                610,
+                645
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                527,
+                651,
+                537,
+                661
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J ． 2011 41( 6) : 64-67． "
+                    }
+                ]
+            },
+            "bbox": [
+                623,
+                667,
+                855,
+                680
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                527,
+                684,
+                537,
+                694
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J ． "
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                702,
+                815,
+                712
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2007 40( 3) : 24-31． "
+                    }
+                ]
+            },
+            "bbox": [
+                581,
+                719,
+                707,
+                731
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7 "
+                    }
+                ]
+            },
+            "bbox": [
+                527,
+                736,
+                537,
+                746
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J ． 2003 33( 7) : 46-49． "
+                    }
+                ]
+            },
+            "bbox": [
+                623,
+                752,
+                850,
+                764
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8 "
+                    }
+                ]
+            },
+            "bbox": [
+                527,
+                770,
+                537,
+                778
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J ． 2000 17 ( 4 ) : "
+                    }
+                ]
+            },
+            "bbox": [
+                707,
+                785,
+                900,
+                799
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "61-66． "
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                804,
+                594,
+                814
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9 DL /T 5085—1999 - S ． "
+                    }
+                ]
+            },
+            "bbox": [
+                527,
+                821,
+                900,
+                831
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1999． "
+                    }
+                ]
+            },
+            "bbox": [
+                584,
+                838,
+                752,
+                848
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10 DBJ 13-51—2010 S ． "
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                854,
+                900,
+                866
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2010． "
+                    }
+                ]
+            },
+            "bbox": [
+                583,
+                873,
+                618,
+                883
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11 CECS 28∶ 2012 S ． "
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                889,
+                900,
+                900
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2012． "
+                    }
+                ]
+            },
+            "bbox": [
+                673,
+                906,
+                709,
+                916
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "76 "
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                49,
+                122,
+                60
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "2014 "
+                    }
+                ]
+            },
+            "bbox": [
+                843,
+                45,
+                882,
+                58
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                28,
+                963,
+                833,
+                978
+            ]
+        }
+    ]
+]
