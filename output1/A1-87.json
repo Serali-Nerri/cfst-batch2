@@ -1,0 +1,89 @@
+{
+  "is_valid": true,
+  "reason": "Valid CFST stub-column experimental study with concentric axial compression tests and extractable specimen table data.",
+  "ref_info": {
+    "title": "Mechanical Behavior of Circular Steel-Concrete Composite Stub Columns",
+    "authors": [
+      "Mathias Johansson",
+      "Kent Gylltoft"
+    ],
+    "journal": "Journal of Structural Engineering",
+    "year": 2002
+  },
+  "Group_A": [],
+  "Group_B": [
+    {
+      "ref_no": "",
+      "specimen_label": "SES",
+      "fc_value": 0.0,
+      "fc_type": "Unknown",
+      "fy": 433.0,
+      "fcy150": "",
+      "r_ratio": 0.0,
+      "b": 159.0,
+      "h": 159.0,
+      "t": 4.8,
+      "r0": 79.5,
+      "L": 650.0,
+      "e1": 0.0,
+      "e2": 0.0,
+      "n_exp": 920.0,
+      "source_evidence": "Page [2], Table [1], Fig. [1]; setup=images/f7d0b2d75adefbff2b4ecf95ca2e1ac46cd20a72fa8259127066eb0a0c2120e3.jpg; table=table/Table 1. Test Program and Results for Steel-Concrete Composite Stub Columns.jpg"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "SFE",
+      "fc_value": 64.5,
+      "fc_type": "Cylinder 150x300",
+      "fy": 433.0,
+      "fcy150": "",
+      "r_ratio": 0.0,
+      "b": 159.0,
+      "h": 159.0,
+      "t": 4.8,
+      "r0": 79.5,
+      "L": 650.0,
+      "e1": 0.0,
+      "e2": 0.0,
+      "n_exp": 2150.0,
+      "source_evidence": "Page [2], Table [1], Fig. [1]; setup=images/f7d0b2d75adefbff2b4ecf95ca2e1ac46cd20a72fa8259127066eb0a0c2120e3.jpg; table=table/Table 1. Test Program and Results for Steel-Concrete Composite Stub Columns.jpg; fc/fy from Materials section"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "SFC",
+      "fc_value": 64.5,
+      "fc_type": "Cylinder 150x300",
+      "fy": 433.0,
+      "fcy150": "",
+      "r_ratio": 0.0,
+      "b": 159.0,
+      "h": 159.0,
+      "t": 4.8,
+      "r0": 79.5,
+      "L": 650.0,
+      "e1": 0.0,
+      "e2": 0.0,
+      "n_exp": 2220.0,
+      "source_evidence": "Page [2], Table [1], Fig. [1]; setup=images/f7d0b2d75adefbff2b4ecf95ca2e1ac46cd20a72fa8259127066eb0a0c2120e3.jpg; table=table/Table 1. Test Program and Results for Steel-Concrete Composite Stub Columns.jpg; fc/fy from Materials section"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "SFS",
+      "fc_value": 64.5,
+      "fc_type": "Cylinder 150x300",
+      "fy": 433.0,
+      "fcy150": "",
+      "r_ratio": 0.0,
+      "b": 159.0,
+      "h": 159.0,
+      "t": 4.8,
+      "r0": 79.5,
+      "L": 650.0,
+      "e1": 0.0,
+      "e2": 0.0,
+      "n_exp": 950.0,
+      "source_evidence": "Page [2], Table [1], Fig. [1]; setup=images/f7d0b2d75adefbff2b4ecf95ca2e1ac46cd20a72fa8259127066eb0a0c2120e3.jpg; table=table/Table 1. Test Program and Results for Steel-Concrete Composite Stub Columns.jpg; fc/fy from Materials section"
+    }
+  ],
+  "Group_C": []
+}
