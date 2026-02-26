@@ -1,0 +1,75 @@
+{
+  "is_valid": true,
+  "reason": "Valid CFST eccentric-compression short-column experiment with 3 tested circular specimens.",
+  "ref_info": {
+    "title": "套箍系数及偏心距对薄壁钢管高强混凝土短柱力学性能影响",
+    "authors": [
+      "刘武通",
+      "高华国",
+      "李吉人",
+      "张瑞涛",
+      "李程前",
+      "王楠"
+    ],
+    "journal": "Journal of University of Science and Technology Liaoning",
+    "year": 2018
+  },
+  "Group_A": [],
+  "Group_B": [
+    {
+      "ref_no": "",
+      "fc_value": 67.0,
+      "fc_type": "Cube 150x150x150mm",
+      "fy": 215.0,
+      "fcy150": "",
+      "r_ratio": 0.0,
+      "b": 165.0,
+      "h": 165.0,
+      "t": 4.5,
+      "r0": 82.5,
+      "L": 1000.0,
+      "specimen_label": "1D",
+      "e1": 165.0,
+      "e2": 165.0,
+      "n_exp": 540.0,
+      "source_evidence": "Page [2], Table [表1]; Page [5], Table [表2]; setup=images/6d03a45d91577601857e360359476b8a647326f4884cbb93c6dc1006be440783.jpg+images/542dbfac09afdb59ef6c6c4cd3851c6d941a0e66fb793ec127a1b75e2341b0ac.jpg; table=table/表1 试件参数Tab.1 Experimental parameters.jpg; table=table/表2 试验结果与理论计算值，kNTab.2 Test results and theoretical values，kN 表3 理论计算值与实验值误差值.jpg; derive[r0]=165/2=82.5; derive[e]=2.00*(165/2)=165.0"
+    },
+    {
+      "ref_no": "",
+      "fc_value": 67.0,
+      "fc_type": "Cube 150x150x150mm",
+      "fy": 215.0,
+      "fcy150": "",
+      "r_ratio": 0.0,
+      "b": 165.0,
+      "h": 165.0,
+      "t": 4.5,
+      "r0": 82.5,
+      "L": 1000.0,
+      "specimen_label": "2D",
+      "e1": 127.875,
+      "e2": 127.875,
+      "n_exp": 548.0,
+      "source_evidence": "Page [2], Table [表1]; Page [5], Table [表2]; setup=images/6d03a45d91577601857e360359476b8a647326f4884cbb93c6dc1006be440783.jpg+images/542dbfac09afdb59ef6c6c4cd3851c6d941a0e66fb793ec127a1b75e2341b0ac.jpg; table=table/表1 试件参数Tab.1 Experimental parameters.jpg; table=table/表2 试验结果与理论计算值，kNTab.2 Test results and theoretical values，kN 表3 理论计算值与实验值误差值.jpg; derive[r0]=165/2=82.5; derive[e]=1.55*(165/2)=127.875"
+    },
+    {
+      "ref_no": "",
+      "fc_value": 67.0,
+      "fc_type": "Cube 150x150x150mm",
+      "fy": 215.0,
+      "fcy150": "",
+      "r_ratio": 0.0,
+      "b": 165.0,
+      "h": 165.0,
+      "t": 4.5,
+      "r0": 82.5,
+      "L": 1000.0,
+      "specimen_label": "3D",
+      "e1": 107.25,
+      "e2": 107.25,
+      "n_exp": 554.0,
+      "source_evidence": "Page [2], Table [表1]; Page [5], Table [表2]; setup=images/6d03a45d91577601857e360359476b8a647326f4884cbb93c6dc1006be440783.jpg+images/542dbfac09afdb59ef6c6c4cd3851c6d941a0e66fb793ec127a1b75e2341b0ac.jpg; table=table/表1 试件参数Tab.1 Experimental parameters.jpg; table=table/表2 试验结果与理论计算值，kNTab.2 Test results and theoretical values，kN 表3 理论计算值与实验值误差值.jpg; derive[r0]=165/2=82.5; derive[e]=1.30*(165/2)=107.25"
+    }
+  ],
+  "Group_C": []
+}
