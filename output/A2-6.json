@@ -1,0 +1,72 @@
+{
+  "is_valid": true,
+  "reason": "Valid CFST stub-column physical experiment under axial compression with extractable specimen-level data.",
+  "ref_info": {
+    "title": "EXPERIMENTAL STUDY OF HIGH STRENGTH CFSST STUB COLUMNS UNDER AXIAL COMPRESSIVE LOAD",
+    "authors": [
+      "LANG Yan",
+      "YANG Zhi-jian",
+      "JIANG Lian-jie"
+    ],
+    "journal": "Unknown",
+    "year": 2011
+  },
+  "Group_A": [
+    {
+      "ref_no": "",
+      "specimen_label": "AS4",
+      "fc_value": 75,
+      "fc_type": "Unknown",
+      "fy": 291,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 200,
+      "h": 200,
+      "t": 3.5,
+      "r0": 0,
+      "L": 600,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 3185,
+      "source_evidence": "Page [43-44], Table [1-3]; table=table/table_1.jpg,table/table_2.jpg,table/table_3.jpg; text=title and key words indicate axial compressive load"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "AS5",
+      "fc_value": 75,
+      "fc_type": "Unknown",
+      "fy": 291,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 200,
+      "h": 200,
+      "t": 4.5,
+      "r0": 0,
+      "L": 600,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 3399,
+      "source_evidence": "Page [43-44], Table [1-3]; table=table/table_1.jpg,table/table_2.jpg,table/table_3.jpg; text=title and key words indicate axial compressive load"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "AS6",
+      "fc_value": 75,
+      "fc_type": "Unknown",
+      "fy": 291,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 200,
+      "h": 200,
+      "t": 5.8,
+      "r0": 0,
+      "L": 600,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 3745,
+      "source_evidence": "Page [43-44], Table [1-3]; table=table/table_1.jpg,table/table_2.jpg,table/table_3.jpg; text=title and key words indicate axial compressive load"
+    }
+  ],
+  "Group_B": [],
+  "Group_C": []
+}

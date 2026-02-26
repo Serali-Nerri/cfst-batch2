@@ -1,0 +1,89 @@
+{
+  "is_valid": true,
+  "reason": "Valid CFST physical compression tests with concentric axial loading and specimen-level results reported in Tables 1-2.",
+  "ref_info": {
+    "title": "An Experimental Study on the Behavior of Square Concrete-Filled High Strength Steel Tube Columns",
+    "authors": [
+      "Hyung-suk Jung",
+      "Chang-sik Choi"
+    ],
+    "journal": "Journal of Iron and Steel Research, International",
+    "year": 2011
+  },
+  "Group_A": [
+    {
+      "ref_no": "",
+      "specimen_label": "S-SCFT-800-0-0",
+      "fc_value": 0,
+      "fc_type": "Unknown",
+      "fy": 906,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 130,
+      "h": 130,
+      "t": 15,
+      "r0": 0,
+      "L": 390,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 7632.33,
+      "source_evidence": "Page [2], Table [1,2]; setup=images/f47b9c51620526e80ca9f49b5404ffbae165b250fd33d45c171b1c5c2ee7b143.jpg; table=table/Table 1 Geometric and material properties of specimens.jpg; table=table/Table 2 Test result of specimens.jpg"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "S-SCFT-800-3-0",
+      "fc_value": 32.3,
+      "fc_type": "Cylinder 100x200",
+      "fy": 906,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 130,
+      "h": 130,
+      "t": 15,
+      "r0": 0,
+      "L": 390,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 8442.35,
+      "source_evidence": "Page [2], Table [1,2]; setup=images/f47b9c51620526e80ca9f49b5404ffbae165b250fd33d45c171b1c5c2ee7b143.jpg; table=table/Table 1 Geometric and material properties of specimens.jpg; table=table/Table 2 Test result of specimens.jpg"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "L-SCFT-800-0-0",
+      "fc_value": 0,
+      "fc_type": "Unknown",
+      "fy": 906,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 200,
+      "h": 200,
+      "t": 15,
+      "r0": 0,
+      "L": 5000,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 8402.91,
+      "source_evidence": "Page [2], Table [1,2]; setup=images/f47b9c51620526e80ca9f49b5404ffbae165b250fd33d45c171b1c5c2ee7b143.jpg; table=table/Table 1 Geometric and material properties of specimens.jpg; table=table/Table 2 Test result of specimens.jpg"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "L-SCFT-800-3-0",
+      "fc_value": 32.3,
+      "fc_type": "Cylinder 100x200",
+      "fy": 906,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 200,
+      "h": 200,
+      "t": 15,
+      "r0": 0,
+      "L": 5000,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 9466.67,
+      "source_evidence": "Page [2], Table [1,2]; setup=images/f47b9c51620526e80ca9f49b5404ffbae165b250fd33d45c171b1c5c2ee7b143.jpg; table=table/Table 1 Geometric and material properties of specimens.jpg; table=table/Table 2 Test result of specimens.jpg"
+    }
+  ],
+  "Group_B": [],
+  "Group_C": []
+}
