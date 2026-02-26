@@ -70,7 +70,7 @@ Use a parent-child model for every extraction task:
 
 1. Parent agent is only orchestrator and reviewer.
 2. Parent MUST spawn one worker sub-agent per paper folder.
-3. Parent MUST enforce concurrency cap: at most 3 worker sub-agents running at the same time.
+3. Parent MUST enforce concurrency cap: at most 5 worker sub-agents running at the same time.
 4. Each worker MUST process exactly one paper folder.
 5. Worker MUST complete extraction, calculation, validation, and JSON write for its own folder.
 6. Parent MUST run git preflight first; if current directory is not a git repository, stop and report.
@@ -294,7 +294,7 @@ Use this structure for multi-paper execution:
 3. If raw parsed root is provided, run preprocess script to produce `<parsed_with_tables_root>`.
 4. Enumerate target paper folders.
 5. Build a pending-paper queue.
-6. Launch workers in batches with a hard cap of 3 active workers:
+6. Launch workers in batches with a hard cap of 5 active workers:
 - create dedicated worktree via `git_worktree_isolation.py create --output-dir tmp/<paper_token>`
 - launch worker command through `worker_sandbox.py` (mandatory)
 - spawn one worker that runs only the sandboxed command
@@ -302,7 +302,7 @@ Use this structure for multi-paper execution:
 - explicitly declare ownership boundary and forbid edits outside owned paths
 - when one worker finishes, launch the next pending paper
 7. Wait until all queued papers are completed.
-8. Retry only failed workers according to retry policy (retry phase also keeps max 3 active workers).
+8. Retry only failed workers according to retry policy (retry phase also keeps max 5 active workers).
 9. Run post-check per worker output:
 - valid paper: `--expect-valid true`, optional count, with `--strict-rounding`
 - invalid paper: `--expect-valid false`, no count

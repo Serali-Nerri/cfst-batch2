@@ -21,7 +21,7 @@
    - Parent only coordinates and reviews; parent does not perform single-paper extraction.
    - Each paper runs in isolated `git worktree + branch` via `git_worktree_isolation.py`.
    - Each worker handles one paper and one output file only.
-   - Concurrent workers must stay within the skill limit (`<= 3`).
+   - Concurrent workers must stay within the skill limit (`<= 5`).
 4. Validate every produced JSON with:
    - `python .codex/skills/cfst-paper-extractor/scripts/validate_single_output.py --json-path <file> --strict-rounding`
 5. After each paper, parent copies output back to main workspace and removes the temporary worktree/branch.
