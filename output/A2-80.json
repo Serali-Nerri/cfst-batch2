@@ -1,0 +1,72 @@
+{
+  "is_valid": true,
+  "reason": "Valid CFST axial compression experiment paper with extractable rectangular specimen rows from Table 2 and Table 3.",
+  "ref_info": {
+    "title": "矩形钢管混凝土轴压短柱承载力计算",
+    "authors": [
+      "蒋涛",
+      "沈之容",
+      "余志伟"
+    ],
+    "journal": "Unknown",
+    "year": 0
+  },
+  "Group_A": [
+    {
+      "ref_no": "",
+      "specimen_label": "HSR12-2",
+      "fc_value": 22.06,
+      "fc_type": "Unknown",
+      "fy": 284.86,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 150,
+      "h": 200,
+      "t": 4,
+      "r0": 0,
+      "L": 600,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 1423,
+      "source_evidence": "Page [2], Table [2]; Page [3], Table [3], row [截面150×200]; setup=images/80cf6b50f2fbb0072bc9c67e61db05b5b51749a180ed7097ea70ec04ad636e39.jpg; geom=table/表2.jpg; table=table/表3.jpg"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "HSR12-3",
+      "fc_value": 22.06,
+      "fc_type": "Unknown",
+      "fy": 284.86,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 150,
+      "h": 300,
+      "t": 4,
+      "r0": 0,
+      "L": 600,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 1993,
+      "source_evidence": "Page [2], Table [2]; Page [3], Table [3], row [截面150×300]; setup=images/80cf6b50f2fbb0072bc9c67e61db05b5b51749a180ed7097ea70ec04ad636e39.jpg; geom=table/表2.jpg; table=table/表3.jpg"
+    },
+    {
+      "ref_no": "",
+      "specimen_label": "HSR12-4",
+      "fc_value": 22.06,
+      "fc_type": "Unknown",
+      "fy": 284.86,
+      "fcy150": "",
+      "r_ratio": 0,
+      "b": 200,
+      "h": 300,
+      "t": 4,
+      "r0": 0,
+      "L": 600,
+      "e1": 0,
+      "e2": 0,
+      "n_exp": 2410,
+      "source_evidence": "Page [2], Table [2]; Page [3], Table [3], row [截面200×300]; setup=images/80cf6b50f2fbb0072bc9c67e61db05b5b51749a180ed7097ea70ec04ad636e39.jpg; geom=table/表2.jpg; table=table/表3.jpg"
+    }
+  ],
+  "Group_B": [],
+  "Group_C": []
+}
